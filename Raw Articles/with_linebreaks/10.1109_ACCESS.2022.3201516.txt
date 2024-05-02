@@ -1,0 +1,458 @@
+Received 27 July 2022, accepted 18 August 2022, date of publication 25 August 2022, date of current version 1 September 2022.
+Digital Object Identifier 10.1109/ACCESS.2022.3201516
+
+Towards a Smart Elevator-Aided Fire Evacuation Scheme in High-Rise Apartment Buildings for Elderly
+HONGQIANG FANG1, HONGPENG QIU2, PENG LIN2, S. M. LO1, AND J. T. Y. LO3
+1 Department of Architecture and Civil Engineering, City University of Hong Kong, Hong Kong, China
+2 Department of Fire Safety Engineering, Southwest Jiaotong University, Chengdu 611756, China
+3 Department of Civil and Environmental Engineering, Hong Kong Polytechnic University, Hong Kong, China
+Corresponding author: Hongqiang Fang (hqfang3-c@my.cityu.edu.hk)
+This work was supported by the General Research Fund of Research Grant Council, Hong Kong Special Administrative Region, China, under Grant CityU 11216920.
+
+
+ ABSTRACT Staircase evacuation is the major means of fire evacuation for current high-rise residential buildings. However, its feasibility may be questioned as more and more senior citizens live there in the future. The weakness in physical strength and mobility impairment of elderly people may impede the successful implementation of staircase evacuation. It is therefore reasonable to consider using elevators for overall evacuation in high-rise residential buildings. However, ensuring the fire safety of elevators and efficiently controlling the elevator-aided evacuation are two major difficulties for applying elevators in building fire evacuation. Recently, the use of smart control for building facility management has become a hot issue in built environment studies. An enabling solution for smart elevator-aided building fire evacuation (SEABFE) is proposed in this article. The solution supports the SEABFE by determining the safer and more efficient elevator-aided evacuation strategy based on real-time fire ground information and evacuation progress on the scene. A simulated case study of fire evacuation in a typical high-rise residential building shows that the proposed SEABFE can be successfully performed. Apart from keeping the elevator evacuation safe, the planned elevator-aided evacuation strategy may save 38.0% of the time compared with the strategy using only staircases in the scene.
+
+ INDEX TERMS Elevator-aided evacuation, evacuation simulation, fire evacuation, high-rise buildings, strategic planning.
+
+INTRODUCTION
+Fire evacuation for high-rise residential buildings is always the major concern of design professionals, building engi- neers, and emergency responders. Currently, the majority of high-rise apartment buildings only enable residents to leave via stairs. However, as the intensify of population aging around the world and the construction of many elderly community estates comprising high-rise apartment buildings in recent years, concerns with stair evacuation for current high-rise building fire evacuation increasingly surfaced. Most senior residents may experience significant difficulty in long-
+
+The associate editor coordinating the review of this manuscript and approving it for publication was Giambattista Gruosso .
+distance stair evacuation due to inadequate physical stamina. Not to mention those older people with limited mobility. Experiments revealed that even younger participants in non- emergency situations spent over 30 minutes (including rest time during the evacuation) evacuating from the top of a 100-story high building [1], [2]. Thus, it is not hard to imagine how hard it will be for the senior people to escape. In addi- tion, slow movement and frequent stops of senior occu- pants may reduce the evacuation efficiency in the stairwell. In a high-rise building fire, any delay in evacuating might increase the likelihood of deaths and injuries. Therefore, it is necessary to re-think the feasibility of staircase evac- uation for fire evacuation in high-rise residential apartment buildings.
+
+90690 This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/ VOLUME 10, 2022
+
+Elevator-assisted evacuation (EAE) refers to the use of elevators as an additional means of egress in fire evacua- tion [3], [4], [5]. It was proposed to help mobility-impaired persons and accelerate the entire evacuation progress in a high-rise building fire evacuation. In this way, occupants who have difficulties in evacuating via staircases can be helped to take elevators nearby. Nevertheless, before allowing elevator groups to respond to the calls from occupants and help a wide range of elderly residents in high-rise apartment build- ings for elderly, two major difficulties need to be carefully considered—fire safety of elevator operations during the fire evacuation and the evacuation efficiency.
+Elevators have long been considered unsafe for fire evac- uation [6], [7]. Possible reasons include the afraid of smoke entering, malfunction of the elevator call buttons, power fail- ure, etc. [8]. Currently, although some high-rise buildings allow firefighter elevators to assist the egress of mobility- impaired occupants on certain occasions, this population is typically thought to be quite small. It is generally prohibited to allow all residents to use elevators for evacuation. Further- more, enabling every occupant to use elevators for evacuation may reduce evacuation efficiency and increase elevator wait times as well [9], [10]. The elevator increases the total time of evacuation as they work in batches with limited loading capacity [4]. Therefore, it is very necessary to guide the EAE operation with appropriate strategies according to the on-site situation. Simply requiring residents to use elevators for evacuation not only raises the risk but also decreases the effectiveness of a total evacuation. Recently, the use of smart control for building facility management has become a hot issue in built environment studies. Thus, we consider using promising information technologies to manage EAE operations and address the above-mentioned issues.
+This research proposed a scheme of smart elevator-aided building fire evacuation (SEABFE). To limit the scope of this study, the proposed solution focused on the service module of the overall solution, where an overall strategic planning and optimization algorithm was developed to determine the most appropriate EAE strategy based on the real-time infor- mation collection of occupants' spatial distributions and fire detection information on-site. Not included was the devel- opment of the hardware sensor platform for data gathering and integration. By examining a simulated case study of fire evacuation in a 16-story residential care home for the elderly, the feasibility and effectiveness of the SEABFE were examined. The remaining sections are organized as follows. Section 2 reviews the related work regarding the application of EAE in high-rise buildings. The concept of SEABFE is described in Section 3. Its enabling solution is introduced in Section 4. A case study of SEABFE is presented in Section 5, followed by its discussion in Section 6. In Section 7, conclu- sions and future work of the study are summarized.
+
+RELATED WORKS
+Regarding the use of elevators for building evacuation in the event of a fire, academic research and engineering applica-
+tions have been conducted and employed for a long time. Due to its advantages of assisting mobility-impaired individuals and accelerating the entire evacuation process in high-rise buildings, many building codes or regulations are gradually admitting the use of elevators as a means for occupants' self-evacuation in fire emergencies, so long as certain safety requirements are complied with [11], [12], [13], [14], [15], and [16]. For instance, the International Building Code (IBC) stipulates that the occupant evacuation elevators in build- ings must be in compliance with the requirements, includ- ing but not limited to elevator system monitoring, electrical power, and hoistway enclosure protection [12]. However, compliance with these requirements is extremely difficult and expensive. The installation and future maintenance of these improvements should spend a large amount of extra cost [17]. As a result, few developers equipped the qualified elevators for fire evacuation in high-rise buildings, and in most cases, the qualified occupant evacuation elevators were only used in lieu of additional exit stairways [18]. In a word, if elevator evacuation wants to be used widely, easier and more active measures for keeping the fire safety of elevator operations need to be employed.
+Regarding the strategies for EAE operation, simulations were utilized by many researchers to determine the ideal EAE operating strategy. Using evacuation simulations, Koo et al.
+[19] compared several EAE strategies with traditional simul- taneous stair evacuation. They discovered that the evacuation strategies that allow residents with mobility impairments to use elevators and others to use stairs are more time efficient. Using the Taipei 101 financial center as a case study, Chien and Wen [20] simulated the evacuation process and deter- mined that the EAE strategy of allowing some individuals to escape through stairways and others by passenger eleva- tors was the most effective in terms of reducing the total travel time. Ronchi et al. [21] modeled more sophisticated evacuation systems involving staircases, occupant evacuation 
+ elevators, service elevators, transfer floors, and sky-bridges in two identical twin skyscrapers. Based on the ultra-high- rise building evacuation simulation, Ma et al. [22] determined that elevators should only serve between the refuge floor and the ground floor during an ultra high-rise building evacuation, as multiple stops during the evacuation process can signifi- cantly increase the total travel time. Although these studies successfully employed simulations to evaluate the relevant strategies for EAE operation, few of them considered the spa- tial distribution of residents and the real-time fire situation. In a practical evacuation situation, the spatial distribution of residents and the nature of the fire may have a significant impact on the evacuation procedure. Therefore, it is necessary to plan EAE strategies based on the real-time information gathered on-site.
+To successfully perform an overall EAE in high-rise apartment buildings and overcome the above-mentioned insufficiencies, the promising smart control and information technology may offer great help. The 21st century is undergo- ing a fast-paced trend of digitalization with the emergence of
+
+
+
+
+FIGURE 1. Schematic diagram of the smart elevator-aided building fire evacuation scheme.
+
+the Internet of Things (IoT). By facilitating the collection and exchange of data among virtually everyone and everything, the IoT is enabling the cyber and physical environments to become unprecedentedly entangled. Undoubtedly, future building fire evacuation should benefit more from IoT and other innovative technologies. A comprehensive IoT-based building fire evacuation system was exemplified by Park et al. [23]. In their work, the fire detection information was used to provide safe evacuation guidelines for occupants. In the work of Jiang [24], an intelligent route planning algorithm was proposed by considering the intensity of the fire. In addition, in our previous work [25], an architecture of an IoT-aided building fire evacuation control system in the sequence of information needs, information sources and data transmis- sion, and potential services and applications was preliminar- ily conceived. The future building evacuation control should be supported by using sensors to improve the situational awareness of fire ground and evacuation situations. After that, information-driven planning and optimization of evac- uation strategies could be employed to ensure a safe and effi- cient evacuation operation. As a result, we proposed a smart elevator-aided building fire evacuation scheme. The scheme contains an overall strategic planning and optimization algo- rithm for identifying the most appropriate EAE strategy based on the real-time information collection of occupants' spatial distributions and fire detection information on-site.
+
+CONCEPT DESIGN
+A smart elevator-aided building fire evacuation scheme was designed to ensure the safety and efficiency of an overall EAE operation in high-rise apartment buildings for elderly. Fig- ure 1 demonstrates the schematic diagram for the SEABFE.
+First, after receiving notification of a fire in the building, the SEABFE conducts an on-site situational awareness using smart sensors (e.g., fire detectors, heat detectors, visual-based cameras) to collect the essential data regarding the fire's progression and the occupants' evacuation process.
+The obtained data is then used to determine the EAE strategy that can keep the elevator operation safe and efficient. The fire development data can be utilized to prevent elevators from malfunctioning in hazardous conditions. For example, the elevator evacuation can be planned to stop immediately if sensors detect the presence or approach of a fire in the eleva- tor shaft. Due to the avoidance of elevator systems coming into direct contact with the fire, it is possible to maintain elevator safety before the fire escalates. Moreover, due to the reduction of fire risk in elevator evacuation operations, it is anticipated that the requirements for elevators with high standards could be suitably relaxed, which would result in cost savings. On the other hand, the information related to the progress of the occupants' evacuation provides a basis for planning and optimizing the EAE strategies. The monitor- ing data of occupants' evacuation progress offers in-building spatial distributions of occupants in real-time. By examining the spatial distributions of the building occupants, it is pos- sible to coordinate the usage of elevators and stairs during the evacuation. In this way, the overall evacuation can be conducted more reasonably, and more occupants with mobil- ity difficulties can have the opportunity to evacuate using elevators.
+Finally, the EAE operation can be carried out by operating the elevators via smart control and guiding the occupants with the appropriate evacuation strategy. The strategy can be delivered by broadcasting the evacuation guidance via
+
+
+
+FIGURE 2. Overall process of the enabling solution for SEABFE.
+
+
+public address (PA) systems or dispatching first responders in person.
+
+ENABLING SOLUTION FOR SMART ELEVATOR-AIDED BUILDING FIRE EVACUATION
+To realize the concept design of SEABFE, an enabling solu-
+tion for dynamic planning and optimization of evacuation strategies was developed. Data collection, EAE strategy plan- ning, and simulation-based strategic optimization comprise the total strategic planning and optimization process.
+
+OVERALL PROCESS
+The overall process of the enabling solution for SEABFE is depicted in Figure 2. The method begins with collecting real-time on-site information using local sensors and devices. Then, from the collected data, the fire floor l, fire severity level e, and occupants' spatial distributions of the building φ can be identified, which provides a necessary understanding of the fire and evacuation situation on the scene.
+Then, the process of strategic planning is conducted. Based on the identified fire floor l and fire severity level e, a set of appropriate Bi-level EAE strategies are planned. In such a Bi-level EAE strategy, the upper-level strategy represents
+the emergency elevator dispatch strategies (EEDS) that are utilized to ensure the fire safety of elevator evacuation oper- ations by following the prescript logic of elevator dispatches. As for the lower-level strategy, the proper proportion of occu-
+pants using elevator evacuation is presented. The function form of the Bi-level EAE strategy is defined as: (1)–(3), shown at the bottom of the next page, where
+X represents a finite set of upper-level strategies, which contains a series of possible EEDS ξ satisfying the fire floor l and fire severity level e at the current time slice t.
+W represents a finite set of lower-level strategies, con- sisting of a series of discrete ratio values. Regarding the residents on the building levels at each time slice, w refers to the possible proportion of these occupants that will use elevators for evacuation, and 1-w denotes the proportion of them that will use staircases for evacuation. The range of w is between 0 and 1, showing that the planned EAE strategies take into account a wide variety of ratios.
+The set of the final Bi-level EAE strategy is established using a binary relation over sets X and W , denoted as a finite set {Sj}. For each individual strategy Sj, the index of the strategy should belong to the index set ψ , whose size is equal to the product of the sizes of X and W .
+After this, we use evacuation simulation to identify the optimal EAE strategy based on the established set of Bi-level EAE strategies. In every simulation run, the simulation takes into consideration the spatial distributions of actual inhabi- tants based on the monitoring data of evacuation progress. By enumerating the strategies inside the set of the Bi-level EAE strategy and analyzing them in the simulation, we can compute the total clearance time (TCT) for every strategy under a certain pattern of occupants' spatial distributions, denoted as Tφ (Sj). The TCT defines the entire time it takes for the last evacuee to travel from the top of the building to the final exit, hence the objective and limits of the strategic optimization can be built by discovering the Bi-level EAE strategy with the shortest TCT. Eventually, the optimal EAE strategy can be outputted with two parameters, the suggested EEDS and the most appropriate ratio of occupants for elevator evacuation, denoted as F (ξ, w).
+Usually, after guiding the occupants' evacuation with the determined EAE strategy, the occupants' spatial locations may change accordingly over time. As a result, a new round collection of fire ground and evacuation progress information can be carried out. Based on the renewed information of the scene, the updated optimal EAE strategy can be determined over and over, enabling dynamic planning and optimization of the strategy for EAE operation.
+REAL-TIME INFORMATION COLLECTION
+The purpose of collecting the fire ground information in the proposed enabling solution is to ensure the fire safety of elevator operation. Since the greatest concern to the elevator system during a fire is that the elevator may respond and halt at the fire floor, it is essential to comprehend fire ground information (e.g., location of fire origins, fire severity) and
+
+dispatch the elevators accordingly. Currently, most high-rise buildings are equipped with smoke detectors and fire alarm systems in every single room to detect fire. Thus, it should be possible to comprehend the fire ground information by evaluating the fire monitoring data. By regulating the ele- vator operations during the fire evacuation, we can increase the safety of elevator dispatches based on the identified fire floor and fire severity information. For instance, getting the elevator over the fire floor without stopping there may pre- vent the dense smoke on the fire floor from entering the elevator shaft. In the future, the identification of fire risks can be further enhanced by using more sophisticated sensors to collect a broader variety of data and information (e.g., temperature, CO concentration, visibility) and analyze the fire development situation. At that time, more precise control of the elevator dispatch operation may be enabled.
+In addition to gathering information about the fire scene, the SEABFE requires obtaining the real-time localization of occupants to monitor the evacuation progress within the building. There are several ways to determine the location of individuals within structures. The mainly used technologies include radio frequency (RF), infrared, video cameras, or the network connecting signals such as cellular data, wireless local area network (WLAN), and Bluetooth [26]. The ben- efits and drawbacks of these approaches were reviewed by Yang et al. [26]. Even though the signal-based approaches can obtain more precise localization information of the occu- pants, they require everyone to carry a smart device with them. This may be hard to realize in building fire emer- gencies. In addition, radio signals may have difficulties in penetrating some areas of the building, such as the basement and elevator shaft, which may result in the failure of spatial surveillance of occupants in these places. Therefore, it is sug- gested to use vision-based cameras to monitor the occupancy of various building areas, such as rooms, corridors, stairwells, elevators, and stair lobbies. Then, based on the monitored person counts and the camera placement, a general picture of the spatial distributions of residents within the buildings can be obtained. This level of spatial distribution is already sufficient to indicate the evacuation progress inside the build- ing for the entire building's fire evacuation. Moreover, the vision-based technique can be readily installed by putting occupant counting cameras in multiple public parts of the building, with minimal impact on the privacy and daily lives of the occupants.
+Finally, the obtained real-time information can be stored in a database for recording and recalling by the other part of the strategic planning and optimization process. The fire
+ground information can be written in two parameters–the fire floor l and fire severity level e. They can both be identified based on the predetermined classification of fire severity levels. As for the occupant count data, it includes the number of occupants on each floor and stairwells. The number of occupants on each floor is the sum of the occupants on all floor areas, including rooms, corridors, elevator and stair
+lobbies, etc. It can be written as φF = {F1, F2, .., Fi}, where
+i represents the level of floors. The total number of occupants
+in the stairwell is equal to the total number of occupants on the staircases between any two neighboring floors, so it is written as φS = {S1, S2, .., Si 1}. Eventually, the monitored
+occupants' spatial distribution φ can be stored in the database
+as φ = {φF , φS }. The sum of these two parts represents the total number of occupants inside the building.
+
+BI-LEVEL EAE STRATEGY PLANNING
+UPPER-LEVEL STRATEGIES
+As described in the overall process of SEABFE, the upper- level strategy includes the potential EEDS that follows the prescript logic for elevator dispatches to ensure the safety of elevator operation during a fire. Currently, the majority of elevator dispatch logic in fire emergencies stipulates that all elevator cars should automatically return to the evacuation floor (a predetermined floor in the building where passengers can evacuate safely) once the fire alarm is activated, and that only authorized individuals (e.g., first responders and firefighters) can use the elevators [27]. Clearly, the current regulation for dispatching elevators during fire emergencies is insufficient for EAE functioning. As a result, we proposed a novel EEDS architecture based on the detected fire-related data.
+First, fire severity needs to be considered in the design of EEDS since high temperature and dense smoke provide greatest risks to elevator systems during a fire. To include this data into the design of the EEDS, the fire severity in buildings was defined and grouped into four degrees, based on the various stages of fire development and their spreads, namely low, medium, high, and severe. Table 1 details the classification of fire severity levels. In order to facilitate practical use, the categorization criteria are based on current fire detection technologies.
+The corresponding rules and restraints for EEDS at each level are also provided in Table 1. For the fire at a low severity level, where the fire may still be confined in a single room and undergo its incipient stage, we allow elevators to evacuate occupants freely but follow some specific rules. For instance,
+
+
+X = {ξ "ξ satisfies the fire floor l and fire severity level e} (1)
+W = {w "0 w 1 } (2)
+{Sj}j ψ = { < ξ, w > "(ξ X) (w W) } , ψ
+= {1, 2, . . . , M } (3)
+
+TABLE 1. Classification of fire severity level and their corresponding rules and restraints for EEDS.
+TABLE 2. Applicable elevator dispatching methods for improving the efficiency of elevator evacuation operations.
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+the elevators should only stop on one floor at a time to avoid frequent stops on each floor. Besides, normal passenger elevators need to cease evacuation operations on the fire floor in the event of a medium fire severity level, where the fire may intensify. At this time, only safety-enhanced elevator systems (such as the firefighter's elevators) will be permitted to evacu- ate occupants from the fire floor. When the fire reaches a high fire severity level, all the elevator evacuation services on the fire floor should be totally stopped in case smoke gets into the elevator shaft. At this moment, occupants on the fire floor can only be egressed by stairs or take elevators from other floors. As for the fire at a severe level, it indicates that the blaze has already extended between floors. This is a very severe situation as it indicates that the fire compartment has been compromised. It is possible that the high-temperature, dense smoke has already reached the stairwells or elevator shafts, causing the fire to spread. Therefore, the elevator evacuation
+should be totally stopped at this moment, and even the stair evacuation needs to be carefully evaluated before it continues. In addition to ensuring the fire safety of elevator operation, the suggested EEDS must maintain the evacuation's effec- tiveness. In order to accelerate the evacuation process and shorten the TCT of the building, the design of the EEDS can incorporate a number of specialized elevator dispatch mech- anisms. One of the most frequently employed methods in regular elevator dispatch is sectorization [28]. By separating the building into zones, sectorization can increase the han- dling capacity of elevator systems and reduce elevator wait times. Each zone can only be serviced by the elevators that are currently assigned to it. Likewise, utilizing sectorization in EAE should be effective for the same reason. Additionally, additional elevator dispatch mechanisms, such as priority on the fire floor or from top to bottom, may have the potential to increase the efficacy of EAE. Table 2 provides a summary of the applicable elevator dispatch technique in EAE. By incor- porating these elevator dispatch mechanisms into the design
+of EEDS, the efficacy of EAE will be greatly enhanced.
+After involving the fire development information and the efficient elevator dispatch method in the design of EEDS, four groups of EEDS can be generated by categorizing the strategies according to their respective fire severity levels, labeled as A, B, C, and D. With the use of corresponding groups of EEDS to operate elevators at different fire severity levels, the dispatch of elevators can be carried out with safety and efficiency. A dispatch sequence diagram in the form of a tree model is presented in Figure 3 to describe how the EEDS should be modified in dynamic settings in response to changes in fire severity. In the dynamic planning of the set of Bi-level EAE strategies, the set of upper-level strategies may be determined immediately by analyzing the groups of EEDS implemented in the dispatch sequence diagram based on the real-time information collection of the on-site fire situations.
+
+LOWER-LEVEL STRATEGIES
+Maintaining EAE operation efficiencies is the primary con- cern of lower-level strategies. Thus, the lower-level strategy takes into account the ratio of residents on building floors using elevator evacuation. The strategy regulates the occu- pants' choices for evacuation by assigning a specific quota for elevator evacuation users. Then, based on this quota,
+
+
+
+FIGURE 3. The proposed dispatch sequence diagram for planning the EEDS in dynamic scenarios. (A class—Normal dispatch; B class—EEDS for low fire severity; C class—EEDS for medium fire severity; D class—EEDS for high fire severity).
+
+a specific percentage of inhabitants on each floor will be encouraged to evacuate via either the elevators or stairs. The ratio ranges from 0 to 1, thus any ratio of people using elevators or staircases can be accounted for in the EAE design process. Finally, the possible set of Bi-level EAE strategies is determined by merging the strategies at the higher and lower levels.
+
+EVACUATION SIMULATION MODULE
+SIMULATION DOMAIN
+After establishing the set of available Bi-level EAE strate- gies by integrating the upper and lower levels of strate- gies, it is necessary to examine the strategies and identify the most efficient for implementation. The most direct way is to run evacuation simulations and compare the TCT of every strategy. Therefore, a program for evacuation simula- tion was employed. However, unlike evacuation simulations conducted for building fire protection design, the evacuation simulation for SEABFE should allow only limited time for calculation because we expect the simulation to support the optimization of EAE strategies over and over. As a result, the evacuation simulation module for SEABFE was designed.
+First, it is better to simplify the simulation domain. Since the control of EAE in high-rise buildings is mainly from a vertical direction, the simulation domain should focus on the evacuation process in vertical directions, and the horizontal part can be ignored. In general high-rise building evacuation, the horizontal egress costs only a little time compared to the vertical one because of limited spaces in horizontal areas. Moreover, few people may remain in their original location after the evacuation starts. They may soon gather in the ele- vator and stair lobbies and wait to get down from there. Due to these reasons, omitting the horizontal evacuation process may not greatly affect the calculation of the TCT in a high-rise building evacuation. Previous research has already developed some evacuation simulation models concerning only vertical transport evacuation, such as ELVAC [29], ELEVATE [30], and Building Traffic Simulator (BTS) [31]. These models successfully reflect the evacuation process in high-rise build-
+
+FIGURE 4. Outline of the modeling and simulation processes of an CA-based EAE simulation.
+
+
+ings and greatly reduce the calculation time in their simu- lations. Therefore, the evacuation simulation for SEABFE should fairly simplify the simulation domain by considering only the areas containing evacuation facilities (i.e., elevator and stair lobbies, occupant evacuation elevators, stairwells).
+
+EVACUATION SIMULATION METHOD
+In addition, the evacuation simulation modeling method is another aspect that should be carefully considered. The fre- quently used evacuation simulation model for high-rise build- ings was reviewed by Ronchi [4]. It indicated that several most used commercial computer simulation packages, such
+as STEPS [32], Pathfinder [33], and FDS+ Evac [34], had an elevator sub-model to replicate the vertical EAE pro-
+cess. In order to facilitate real-time strategy optimization and readily embed the Bi-level EAE strategies in simulations, however, a more lightweight and adaptable simulation model may be required. Cellular Automata (CA)-based evacuation simulation model provides one of the approaches. CA are dis- crete, decentralized, and spatially extended systems made up of a large number of simple identical components with local connectivity [35]. It has successfully developed evacuation simulation models for various built environments and scenar- ios [22], [36], [37], [38]. The CA model includes a so-called floor field to represent the mobility of people and their attrac- tive interactions in the context of pedestrian evacuation [39], [40]. Consequently, a CA-based EAE simulation model may be built by utilizing a static floor field to characterize the regions in spaces, such as rooms, stairwells, elevator lobbies, and exits, and a dynamic floor field to specify attractive interaction between the pedestrians.
+The modeling and simulation procedure of a CA-based EAE simulation is illustrated in Figure 4. First, floor geome- tries of the target building per floor need to be mapped and discretized into grids, which provide the space layout of the
+
+area for pedestrian movements. After that, the static field of
+ TABLE 3. General information of the case building.
+the scene is generated by defining evacuation facilities in 
+the discretized model, such as exits, staircases, and elevators. Meanwhile, the occupant profile parameters (e.g., occupant motion speed) and the elevator operation parameters (e.g., elevator acceleration speed, elevator door open time, elevator capacity) need to be defined with specific values based on the actual situation or worst-case scenario of the target building. Finally, the simulation can be conducted by inputting the monitored occupant counts and the planned EAE strategy into the model. The occupant count information can be considered in the simulation by randomly positioning the requested num- ber of occupants in the corresponding region of the building.
+The planned EAE strategy consists of two parts. One is the upper-level strategy for the designed EEDS, which may be represented in the simulation by restricting the levels at which elevators can arrive. The other is the lower-level strategy, which represents the percentage of remaining residents on each floor who are advised to utilize elevators to evacuate. The simulation can reproduce it by assigning ''behaviors'' to the designated occupants. The ''behaviors'' determines the means of evacuation used by occupants. By attaching the ''behaviors'' to every defined occupant in the simulation, all individuals can begin to move by following their ''behaviors'' from the starting point to the closest exits as soon as the simulation begins.
+After the simulation settings are finalized, the simulation can be conducted with a dynamic field guiding the movement of occupants. The occupant move begins from the defined places of occupants based on the inputted spatial distribu- tions. Then, the pedestrian movements are adjusted in each time step by the combination of the dynamic and static floor fields. Existing occupants will automatically move to the low-level grid near the exits, while those who have already reached the exits will be removed from the scene in the following step. Every time step, the dynamic floor field can be modified based on the new positions of the occupants to influence the pedestrian movement in the next. The simula- tion continues in this manner until all inhabitants have left. The total time steps walked by the occupants will be counted as the TCT, which provides a simple but effective indicator to assess the effectiveness of any intended EAE strategy.
+
+A CASE STUDY
+In order to examine the feasibility and effectiveness of the proposed enabling solution for SEABFE, a computer pro- gram for strategic planning and optimization of SEABFE was developed using the proposed method. Then, the program was utilized in a simulated fire evacuation of a 16-story residential care home for elderly to demonstrate its functionality and efficacy. The program for strategic planning and optimization
+of SEABFE was compiled in Python 3.8 and Qt C++. The C++ program was applied to compile the CA model for EAE simulation, and the Python program was used to conduct
+the overall analysis and output the results. In addition, all the monitoring data for the simulated case was pre-stored in
+an SQLite database in order to reflect the actual situation. Dynamic planning and optimization of the EAE strategy were carried out by reading data from the database directly.
+
+MAIN ASSUMPTIONS
+The case study selected a 16-story high-rise apartment build- ing as the case building. It assumes to be a residential care home for elderly, so many occupants may face difficulties in using staircases for evacuation. By employing the proposed scheme of SEABFE in the building, a large number of older occupants can be assisted with elevator evacuation, and the total evacuation efficiency can be enhanced.
+To simplify the case study, all residents were treated iden- tically. They were thought to be able to walk, so they could travel or be supported in moving to the elevator and stair lob- bies to escape. On the basis of the assumption, the evacuees in the evacuation simulation were set by only reducing their walking speed, and they could be assigned freely to use either the elevator or stair evacuation.
+
+CASE BUILDING DESCRIPTION
+The floor layout of the selected 16-story residential care home for the elderly is depicted in Figure 5. The building consists of two wing buildings that are connected by a shared section of elevator and stair lobby areas. Each story of the building remains the same floor plan. In this building, there are a total of four elevators and one stairwell for evacuation purposes. They are E1, E2, and E3, which represent the three normal passenger elevators, and FE1, which represents the firefight- ers' elevator. It is noted that the firefighters' elevator is safety enhanced, allowing it to be used for occupant evacuation even if the fire intensifies. As for the stairwell, one half-landing staircase is utilized for evacuation. Each floor contains a total of 20 steps (two-flight) with tread depths of 250mm and riser heights of 150mm. In addition, the width of the staircase and the width of the landing remain the same at 1200mm. The selected building's general information is given in Table 3.
+
+CASE BUILDING MODELING
+ARRANGEMENTS OF THE INFORMATION COLLECTION
+A data collection arrangement was presented to support the EAE of the case building. First, regarding the fire ground
+
+
+
+
+FIGURE 5. Layout of the case building.
+
+information (i.e., location of fire origins, fire severity), we
+TABLE 4. The designed EEDS for the case building.
+applied smoke detectors and fire alarm systems already 
+installed in the original rooms to obtain the information needed. By evaluating the acquired fire detection data accord- ing to the preset rules and restrictions for EEDS, the fire severity level of the fire floor information could be directly determined. Regarding the occupants' spatial distributions inside the building, the information could be obtained by setting vision-based cameras on each floor to count the occu- pants in the shared lobby areas and stairways. As a result, the
+collected occupants' spatial distribution φ could be expressed as φ = {F1, F2, .., F16, S1, S2, . . . , S15}, where F represents the occupant counts on the floor area (i.e., elevator and stair lobbies), and S represents the occupant counts on the stairs between any two adjacent floors. Finally, the real-time infor-
+mation collection of the fire floor l, fire severity level e, and occupants' spatial distribution φ could be stored in an SQLite database. Dynamic analysis of the EAE strategy could be enabled by integrating the database with the major strategic planning and optimization program.
+
+DESIGN OF THE BI-LEVEL EAE STRATEGIES FOR THE CASE BUILDING
+The prospective EEDS for the case building was designed to facilitate the planning of the Bi-level EAE strategies. Based on the layout of the evacuation facilities in the case building, a set of potentially safe and effective EEDS was created. The design of the EEDS accounted for all probable fire sever- ity levels in buildings as well as the different mechanisms for enhancing the evacuation efficiency during elevator dis- patches. The EEDS designed for the case building is provided in Table 4.
+Afterward, based on the designed EEDS, a dispatch sequence diagram for planning the EEDS in dynamic sce- narios was created and programmed. Figure 6 depicts the dispatch sequence diagram that has been built. The action strategies (AS) indicate the available EEDS to be utilized in addressing the various scenarios. The trigger events (TE) are the specific occurrences that may cause EEDS to be adjusted
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIGURE 6. Dispatch sequence diagram for the case building.
+
+
+during an evacuation. These events include the change in fire severity level or completeness of the evacuation. With the dis- patch sequence diagram to demonstrate what EEDS satisfies
+
+
+
+FIGURE 7. Demonstration of the CA-based EAE simulation model for the case building. The area of elevator lobby is the place for occupants who escapes by elevators, and the area of stair lobby is the place for occupants who chooses stair evacuation.
+
+
+the corresponding events, it would be easier to select the available EEDS when planning the Bi-level EAE strategies. Finally, the set of available Bi-level EAE strategies could be generated by combing the upper-level strategy with the lower- level strategy of discrete ratios of occupants in using either elevator or staircase egress.
+
+SIMULATION MODEL FOR THE CASE BUILDING
+Finally, a CA-based EAE simulation model for the case building was developed to enable the calculation of the TCT for each strategy. As depicted in Figure 7, a CA-based EAE simulation model was created by simplifying the layout of building floors and following the modeling procedure intro- duced. By reading the data from the database, which already contained the monitored occupant counts per region, the simulation model automatically and arbitrarily positioned the specified number of occupants within the selected areas of model geometries. Since the planned ratios of elevator and stair evacuation users need to be considered in the simula- tion, we attached the inhabitants' evacuation ''behaviors'' by positioning a specific ratio of occupants in the elevator or stair lobby, as depicted in Figure 7. After the simulation began, the inhabitants in the elevator lobby on each floor would automatically move to the elevators for escape. On the other hand, those positioned within the stair lobby on each story would immediately evacuate via the stairs.
+In addition to setting up the model environment for occu- pant movements, elevator operation and occupant profile parameters were also defined. The elevator movement in the proposed simulation model followed the standard elevator operation process, in which the elevator reaches the pickup floor in response to occupant requests and then carries them to the discharge floor with a sped-up motion. In addition, the elevator answered the calls from the upper floors first, and the elevator would not stop on any intermediate floor after picking up passengers. Consequently, the elevator travel time could be determined directly from characteristics such as elevator capacity, maximum speed, accelerated speed, etc. As for the evacuees' speed of movement in the simulation, we modified the value to match the mobility of elderly per-
+TABLE 5. Parameter settings of the proposed EAE simulation model.
+
+
+
+TABLE 6. Conditions of the test X1 to X4.
+
+
+
+
+FIGURE 8. Simulation results of the test X1 to X4.
+
+
+
+sons. Normal walking speeds for healthy older individuals living in the community range between 0.9 and 1.3 m/s [41], [42]. Thus, we set the moving speed of evacuees to 1.0 m/s in the simulation. The settings of all these parameters in the case study are summarized in Table 5.
+
+TEST OF THE CREDIBILITY OF THE EVACUATION SIMULATION MODEL
+PARAMETRIC ANALYSIS
+The proposed SEABFE scheme relies on simulations to deter- mine the appropriate EAE strategy for the building. Hence, the credibility of the established CA-based evacuation simu- lation model is of vital importance. Parameter analyses were employed to examine the credibility of the model.
+First, several EAE cases among a fixed occupant number were studied. In the simulation, we investigated the evacua- tion process based on the influencing factors of EAE, such as the ratio of inhabitants using the methods of evacuation and the number of elevators for EAE. Table 6 provides an overview of the conditions of the simulation cases. The simu- lation results using the established model to calculate the TCT
+
+TABLE 7. Conditions of the test Y1 to Y3.
+
+
+
+FIGURE 9. Simulation results of the test Y1 to Y3.
+
+
+of the building under the prescribed conditions are shown in Figure 8. The result reveals that the ratio of elevator users may have a significant impact on the overall clearance time of the building. The optimal strategy for evacuation is neither using elevators nor stairs to evacuate all occupants. The TCT may increase significantly if the majority of occupants utilize ele- vators to leave. In addition, the results regarding the number of elevators used for evacuation indicate that the shortest TCT is achieved when all four elevators are used for evacuation and when the ratio of elevator users is high. These findings match well with the study of Chen et al. [43] and Ding et al. [44], who showed that allowing a specified proportion of occupants to use elevators for evacuation and increasing the number of elevators in use were the most effective means of decreasing the evacuation time.
+In addition, we examined other scenarios with varying numbers of residents. In these cases, a fixed number of four elevators was utilized. The influence factors of different ratios of elevator users and different numbers of occupants per floor were analyzed. The conditions of these situations are summarized in Table 7. The test result is shown in Figure 9. It indicates that the TCT of the building increases with the number of residents, and all the simulation cases achieve the shortest TCT when allowing almost the same proportion of occupants to evacuate by elevators. This finding seems to be consistent with the findings of Ding et al. [44], which indicates that the optimal ratio of occupants using elevators for evacuation in an EAE remains the same when the total number of occupants exceeds a certain value.
+The proposed evacuation simulation model follows the same patterns as prior studies, as determined by parametric
+analysis tests. Therefore, it is believed that the established simulation model can reflect some general characteristics of EAE in high-rise buildings and is able to be utilized to determine the optimal strategy for EAE operations.
+
+COMPARISON WITH COMMERCIAL EVACUATION SIMULATION PACKAGE
+In order to further enhance the credibility of the established evacuation simulation model, we also compared its results to those of a commercial software package. The commer- cial evacuation software we used is Pathfinder [45]. It is a highly accurate agent-based egress and human movement simulator that has been frequently utilized to simulate evacu- ation operations in a variety of built environments [46], [47], [48], [49]. In addition, numerous researchers have effectively used Pathfinder to examine the EAE process in high-rise structures based on its embedded elevator model [44], [50], [51], [52]. Therefore, we applied Pathfinder as a benchmark of our established CA-based evacuation simulation model. On the basis of the layout of the case building, a scenario of a simulation case in Pathfinder was created. As depicted in Figure 10, the geometry of the building was simplified to match the established CA model. By allowing only the occupants who belong to the ratio of elevator users to evacu- ate by elevators and the remaining occupants to evacuate by staircases, we manage occupants' evacuation ''behaviors'' in Pathfinder. Besides, in order to fully reproduce the simulation in Pathfinder, all parameters related to elevator operations and occupant profiles in Pathfinder were set as same as the established CA model.
+Using the Y1 test as an example, we reproduced the evac- uation processes of this scenario in Pathfinder. The TCT of this case in Pathfinder and the CA model was mapped in Figure 11, respectively. Even if the computed TCT differs slightly between Pathfinder and the CA model, the TCT dif- ference between the ratio of elevator users in these two sim- ulation models remains almost the same. The purpose of the model is to serve as a reference for the facility management to compare different EAE strategies and find the optimal one for operation. Therefore, this slight difference does not impede the objective of determining the optimal strategy for evacu- ation. In the example, both simulations achieve the shortest TCT at 40% elevator users, representing that allowing 40% of floor residents to utilize elevators for evacuation is the most efficient method. As a result, we believe that it is feasible to apply the proposed CA-based evacuation simulation model to enable strategic optimization in the next step.
+
+AN APPLICATION EXAMPLE
+EXAMPLE DESCRIPTION
+At last, based on the developed program, an application example was performed to demonstrate how the SEABFE should be performed in practice. First, an assumed fire incident was designed. Table 8 presents a timeline of the assumed fire incident. The designed fire incident presented
+
+
+
+FIGURE 10. 3D view of the case building in the user interface of the commercial software package–Pathfinder.
+
+
+FIGURE 11. Comparison of the simulation results between the commercial software package–Pathfinder and the established CA-based EAE simulation model.
+
+
+a fire scenario where a fire occurred on the 12th floor of the building and quickly escalated to a high level of fire severity. In addition, we designed an initial occupants' spatial distribution in Table 8. The example considered a total of 1200 residents, which is assumed to be an extremely crowded situation in the target building. Moreover, the spatial distri- bution of occupants was designed intentionally unevenly to
+TABLE 8. Conditions of the application example.
+
+
+
+
+
+reflect a more random position of the occupants inside the building.
+Furthermore, in order to enable the gathering of occupant counts based on the ongoing evacuation progress, we utilized the Pathfinder software to imitate the real movements of occupants' evacuation inside the case building. As a result, the monitoring occupant count data could be collected and kept in the database. Once the SEABFE program outputted the optimal strategy, the Pathfinder simulation would be con- figured to implement the determined strategy and update the evacuation progress accordingly. Afterward, wherever there was a need to adjust the evacuation strategy, the occupant count data could be extracted from the Pathfinder simulation at that time slice and imported into the SEABFE program to determine the optimal EAE strategy. In this way, the optimal EAE strategy could be updated accordingly based on the latest occupants' spatial distribution.
+
+RESULTS
+Based on the designed fire event and initial occupant count data, the SEABFE program determined the possible EEDS at the initial condition. In the application example, B1, B2, B3, and B4 for the low fire severity level were the applicable
+EEDS at this moment (T=0s). Therefore, a set of available Bi-level EAE strategies was established from the dispatch
+sequence diagram model. After that, the SEABFE program executed the CA-based EAE simulation model to compute the TCT for these strategies. The program outputs at this moment are shown in Figure 12 (a). It can be seen that the optimal strategy for the EAE at this moment is to use the EEDS of B4 for elevator dispatching and suggest that 40% of occupants evacuate via elevators.
+Pathfinder was then used to recreate the evacuation pro- cess in the condition of the suggested EAE strategy. The reproduced simulation ended at T=120s, and at this time, the occupant counts in floor areas and the stairwells were extracted because the EAE strategy had to be modified as
+the fire intensified. Using the dispatch sequence diagram model and taking into account the current fire severity level, the applicable EEDS was upgraded to class C, and a list of available Bi-level EAE strategies was established. Hereafter, the SEABFE program executed the CA-based
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+FIGURE 12. Demonstration of the dynamic strategic planning and optimization process of SEABFE in the application example.
+
+EAE simulation model by taking the current occupants' spatial distributions and the updated fire information as inputs. In the same way, the TCT associated with each
+potential strategy was computed. The program outputs at T=120s are shown in Figure 12 (b). The optimal EAE strategy at this moment is to implement the EEDS of C1 and all remaining inhabitants on the floor to evacuate via elevators.
+With the same logic, a new round of simulation in Pathfinder to simulate the evacuation progress after imple- menting the updated EAE strategy was executed. Then, the occupant count information at T=420s was extracted as the fire reached the high fire severity level at this moment. After
+this, the newly collected occupant counts were inputted into the SEABFE program to determine the optimal EAE strategy for the current situation. The TCT of the available strategies
+at this moment is shown in Figure 12 (c). The result indicates that the EAE strategy with implementing the EEDS of D2 and that all remaining occupants evacuate via elevators achieves the most efficiency. Accordingly, the implemented EAE strat- egy could be adjusted again and examined in the Pathfinder simulation to see how the evacuation goes as the new EAE strategy performed.
+Based on such a dynamic strategic planning and opti- mization process of SEABFE, we successfully performed the SEABFE with our proposed solution in the case build- ing. The overall SEABFE process of this application exam- ple was reproduced by the results visualization software of Pathfinder. The animation of this evacuation process is included in the supplementary materials. It is clear to see that many occupants were helped by the elevators for evacuation. In addition, the adjustment of evacuation strategy at each time
+
+
+ 
+
+FIGURE 13. Comparison of the TCT between the evacuation strategy of a total stair evacuation, default optimal evacuation process in Pathfinder, and the SEABFE.
+
+slice contributed to the success of the evacuation operation and facilitated the overall evacuation process.
+
+DISCUSSION
+In the application example of the case study, the feasibility of using the proposed SEABFE solution to enable dynamic planning and optimization of EAE strategies was demon- strated. The optimal EAE strategy was analyzed with the fire safety of elevator operation and overall evacuation efficiency in mind. Then, the most effective EAE strategy was devel- oped. Based on the application example of the case study, we further compared the evacuation process using the opti- mized strategy to other possible strategies to ensure that the planned strategy was the most effective. The other possible strategy includes a total stair evacuation and a default optimal evacuation strategy in Pathfinder that represents the occu- pants' free choice. Under the same condition as the optimized strategy, the total stair evacuation process and the default optimal evacuation process in Pathfinder were simulated. The supplement includes the animation of the evacuation process for these two other options. By mapping the histories of the clearance time for these strategies in Figure 13, we discovered that the strategy found by SEABFE significantly reduces the total evacuation time. The TCT difference between the SEABFE and total stair evacuation is approximately 616s. The SEABFE spends 38.0% less time than the total stair evacuation. Therefore, the proposed strategic planning and optimization method for SEABFE appears to be effective.
+Furthermore, the dynamic analytical mechanism of strat- egy planning and optimization offers other advantages. In addition to keeping elevator operation safe by dynamically changing the EEDS to fit changes in on-site fire development situations, the dynamic analyses of strategy planning and optimization can also enable a fast correction to the ratio of elevator and stair evacuation users. During the evacua- tion of a high-rise building, especially if senior citizens are involved, it is likely that they will descend several stories before deciding to use the elevators. In this situation, dynamic strategic planning and optimization can play a significant role
+by readjusting the ratio of elevator and stair evacuation users based on the updated position information of the occupants. In addition, the dynamic analysis helps reduce the mistake introduced by evacuation models. No matter how accurately the evacuation modeling describes the underlying patterns of pedestrian movements, the actual evacuation situation may differ from the simulation. The movement of residents during a fire evacuation may be impacted by a variety of human factors, including occupant group composition, human cul- ture, panic, individual psychology, etc. [53], [53], [54], [55], [56]. Due to the strong uncertainties of these factors, it is very hard to assure that simulation results are exactly the same as the actual situation. By monitoring the occupants' spatial distributions in real-time and analyzing the optimal strategy over and over, the evacuation strategy that deviates from the actual scenario can be updated in a timely manner. This allows for the implementation of a more effective and feasible EAE operation.
+
+CONCLUSION AND FUTURE WORK
+By facing the upcoming population aging issues around the world, elevator-aided evacuation may be the best solution for solving the difficulties of staircase evacuation for the elderly in high-rise apartment buildings in the future. Despite the fact that academic research and engineering application have been investigated for many years, elevator evacuation has not been widely used for many reasons. One of the greatest concerns is the safety issue of using elevators in fire emer- gencies. Additionally, the EAE efficiency is also a concern of building engineers and facility managers. Implementing EAE operations improperly may harm evacuees and significantly delay the evacuation process. Therefore, an enabling solu- tion for SEABFE was proposed in this paper. The SEABFE provides a safe and efficient EAE to help a wide range of occupants by allowing elevator groups to respond to the calls from every floor. In order to assure a safe and efficient EAE operation with the SEABFE, strategic planning and optimiza- tion is enabled by using local sensors (e.g., fire detector, visual-based camera) to collect fire ground and evacuation progress information on-site. After that, a set of available Bi-level EAE strategies considering elevator dispatch safety and elevator operation efficiency is developed according to the collected fire ground information. Finally, evacuation simulations considering the available Bi-level EAE strategies and the monitored occupants' spatial distribution is con- ducted. The optimal EAE strategy is determined by finding the strategy with the shortest TCT. Since the fire situation and evacuation progress might alter over time, the optimal EAE strategy can be determined repeatedly, allowing for the real-time modification of EAE strategies.
+Based on the proposed enabling solution, a 16-story high- rise residential care-home for the elderly was utilized as a case study to demonstrate how the SEABFE should be performed in practice. The case study demonstrated the suc- cessful identification of the optimal strategy for EAE by using the proposed enabling solution to analyze the given
+
+information on the fire ground and evacuation progress within the building. Due to the consideration of the real-time fire ground information and evacuation progress, a safer and more efficient EAE operation could be maintained. Using a commercial evacuation modeling software to reproduce the evacuation process of the case using the SEABFE, we found that the EAE strategy determined by SEABFE is obviously better than other evacuation strategies. The SEABFE spent 38.0% less time than a total stair evacuation. Therefore, it is believed that the proposed SEABFE can contribute to the application of overall EAE in high-rise residential buildings. One limitation of the current enabling solution for SEABFE is that we allow elevators to serve each floor, so that people on every floor can have a chance to take elevators. Nevertheless, this arrangement may have a problem when the story of the building is taller, as the frequent elevator stops on each floor will certainly consume considerable time. As a result, in order to maintain the efficiency of EAE, the SEABFE may determine that the optimal EAE strategy at that time is to allow only staircases for overall evacua- tion. The occupant in need of elevator evacuation may have no chance to take elevators at this moment. Therefore, the current solution for SEABFE may only work for medium- height residential high-rise buildings. The SEABFE for ultra- high-rise residential buildings may need to be considered by gathering occupants on the refugee floor first and then evacuating by elevators. Moreover, the current solution for SEABFE did not consider the influence of mobility-disabled occupants with wheelchairs. The movements of wheelchairs may influence the strategic planning and optimization of SEABFE. Therefore, investigating the EAE scheme for ultra- high-rise residential buildings and considering the movement of mobility-disabled occupants will be the future direction of
+our SEABFE development.
+REFERENCES
+J. Ma, W. G. Song, W. Tian, S. M. Lo, and G. X. Liao, ''Experimental study on an ultra high-rise building evacuation in China,'' Saf. Sci., vol. 50, no. 8,
+pp. 1665–1674, Oct. 2012, doi: 10.1016/j.ssci.2011.12.018.
+Z. Fang, Q. Xu, W. Song, L. Chen, and Y. Leng, ''Experiment study on super high-rise building evacuation (in Chinese),'' China Saf. Sci. J., vol. 28, no. 3, pp. 185–190, 2018, doi: 10.16265/j.cnki.issn1003-3033.2018.03.032.
+M. Kinateder, H. Omori, and E. Kuligowski, ''The use of elevators for evacuation in fire emergencies in international buildings,'' Nat. Inst. Stan- dards Technol., Gaithersburg, MD, USA, Tech. Note NIST TN-1825, 2014. Accessed: Jan. 21, 2022, doi: 10.6028/NIST.TN.1825.
+E. Ronchi and D. Nilsson, ''Fire evacuation in high-rise buildings: A review of human behaviour and modelling research,'' Fire Sci. Rev., vol. 2, no. 1, pp. 1–21, 2013.
+Q. Khalid, M. Lujak, A. Fernández, and A. Doniec, ''On the use of elevators during emergency evacuation,'' in Distributed Computing and Artificial Intelligence, Special Sessions, 15th International Conference. Cham, Switzerland: Springer, 2019, pp. 149–156.
+N. Cai and W. K. Chow, ''Numerical studies on fire hazards of elevator evacuation in supertall buildings,'' Indoor Built Environ., vol. 28, no. 2,
+pp. 247–263, Feb. 2019.
+Y. Chen, L. Yang, Z. Fu, L. Chen, and J. Chen, ''Gas flow behavior and flow transition in elevator shafts considering elevator motion during a building fire,'' Building Simul., vol. 11, no. 4, pp. 765–771, Aug. 2018.
+N. Cai and W. K. Chow, ''Fire aspects on lift shafts used for evacuation in supertall buildings,'' Int. J. Eng. Performance-Based Fire Codes, vol. 10, no. 3, pp. 48–57, 2011.
+P. J. Harding, M. Amos, and S. Gwynne, ''Prediction and mitigation of crush conditions in emergency evacuations,'' in Pedestrian and Evacuation Dynamics 2008, W. Klingsch, C. Rogsch, A. Schadschneider, and
+M. Schreckenberg, Eds. Berlin, Germany: Springer, 2010, doi: 10.1007/978-3-642-04504-2_18.
+E. Heyes and M. Spearpoint, ''Lifts for evacuation-human behaviour con- siderations,'' Fire Mater., vol. 36, no. 4, pp. 297–308, Jun. 2012.
+NFPA 5000–2009 Building Construction and Safety Code, Nat. Fire Pro- tection Assoc., Quincey, MA, USA, 2012.
+International Building Code, in Occupant Evacuation Elevators, Int. Code Council, Washington, DC, USA, 2012.
+National Building Code of India., in Fire and Life Safety, Bureau Indian Standards, New Delhi, India, 2005.
+Safety Rules for the Construction and Installation of Lifts—Particular Application for Passenger and Goods Passenger Lifts—Part 73: Behaviour of Lifts in the Event of Fire, Standard CSN EN 81–73, European Standards, 2005.
+Fire Code 2013, Singapore Civil Defence Force, Singapore, 2013.
+Fire Safety Code of Practice for the Design, Management and Use of Buildings, Standard BS 9999:2008, British Standards Institution, London, U.K., 2008.
+D. T. Butry, R. E. Chapman, A. L. Huang, and D. S. Thomas, ''A life- cycle cost comparison of exit stairs and occupant evacuation elevators in tall buildings,'' Fire Technol., vol. 48, no. 2, pp. 155–172, Apr. 2012, doi: 10.1007/s10694-010-0203-8.
+E. M. Camiel. Occupant Evacuation Elevators: Overview and Case Stud- ies. Accessed: Dec. 13, 2021. [Online]. Available: https://www.nfpa.org/-
+/media/Files/News-and-Research/Resources/Research-Foundat ion/Symposia/2016-SUPDET/2016-Papers/SUPDET2016Camiel.ashx
+J. Koo, Y. S. Kim, B.-I. Kim, and K. M. Christensen, ''A comparative study
+of evacuation strategies for people with disabilities in high-rise building evacuation,'' Expert Syst. Appl., vol. 40, no. 2, pp. 408–417, 2013, doi: https://doi.org/10.1016/j.eswa.2012.07.017.
+S.-W. Chien and W.-J. Wen, ''A research of the elevator evacuation per-
+formance and strategies for Taipei 101 financial center,'' J. Disaster Res., vol. 6, no. 6, pp. 581–590, Dec. 2011.
+E. Ronchi and D. Nilsson, ''Modelling total evacuation strategies for high-
+rise buildings,'' Building Simul., vol. 7, no. 1, pp. 73–87, Feb. 2014, doi: 10.1007/s12273-013-0132-9.
+J. Ma, S. M. Lo, and W. G. Song, ''Cellular automaton modeling
+approach for optimum ultra high-rise building evacuation design,'' Fire Saf. J., vol. 54, pp. 57–66, Nov. 2012, doi: https://doi.org/10.1016/ j.firesaf.2012.07.008.
+S. Park, S. Park, L. Park, S. Park, S. Lee, T. Lee, S. Lee, H. Jang,
+S. Kim, H. Chang, and S. Park, ''Design and implementation of a smart IoT based building and town disaster management system in smart city infrastructure,'' Appl. Sci., vol. 8, no. 11, p. 2239, Nov. 2018, doi: 10.3390/app8112239.
+H. Jiang, ''Mobile fire evacuation system for large public buildings based
+on artificial intelligence and IoT,'' IEEE Access, vol. 7, pp. 64101–64109, 2019, doi: 10.1109/ACCESS.2019.2915241.
+H. Fang, S. Lo, and J. T. Y. Lo, ''Building fire evacuation: An IoT-aided
+perspective in the 5G era,'' Buildings, vol. 11, no. 12, p. 643, Dec. 2021. [Online]. Available: https://www.mdpi.com/2075-5309/11/12/643
+J. Yang, M. Santamouris, and S. E. Lee, ''Review of occupancy sens-
+ing systems and occupancy modeling methodologies for the applica- tion in institutional buildings,'' Energy Buildings, vol. 121, pp. 344–349, Jun. 2016.
+R. W. Bukowski, ''Addressing the needs of people using elevators for emer-
+gency evacuation,'' Fire Technol., vol. 48, no. 1, pp. 127–136, Jan. 2012, doi: 10.1007/s10694-010-0180-y.
+J. R. Fernandez and P. A. Cortes, ''A survey of elevator group con-
+trol systems for vertical transportation: A look at recent literature,'' IEEE Control Syst. Mag., vol. 35, no. 4, pp. 38–55, Apr. 2015, doi: 10.1109/MCS.2015.2427045.
+J. H. Klote, ''A method for calculation of elevator evacuation time,'' J. Fire
+Protection Eng., vol. 5, no. 3, pp. 83–95, Jan. 1993.
+R. Peters, ''Current technology and future developments in elevator simu- lation,'' Int. J. Elevator Engineers, vol. 4, no. 2, pp. 1–10, 2002.
+M.-L. Siikonen, ''Elevator traffic simulation,'' Simulation, vol. 61, no. 4,
+pp. 257–267, Oct. 1993.
+M. MacDonald, ''STEPS simulation of transient evacuation and pedestrian movements user manual (5.0 version),'' Mott MacDonald Simul. Group, London, U.K., Tech. Rep., 2012.
+Pathfinder User Manual-2020.1 Version, Thunderhead Eng.,
+Manhattan KS, NY, USA, 2020.
+
+
+T. Korhonen, S. Hostikka, S. Heliövaara, and H. Ehtamo, ''FDS+Evac: An agent based fire evacuation model,'' in Pedestrian and Evacuation
+Dynamics 2008, W. Klingsch, C. Rogsch, A. Schadschneider, and
+M. Schreckenberg, Eds. Berlin, Germany: Springer, 2010, doi: 10.1007/978-3-642-04504-2_8.
+M. Mitchell, Complexity: A Guided Tour. New York, NY, USA:
+Oxford Univ. Press, 2009.
+L. Z. Yang, D. L. Zhao, J. Li, and T. Y. Fang, ''Simulation of the kin behavior in building occupant evacuation based on cellular automa- ton,'' Building Environ., vol. 40, no. 3, pp. 411–415, Mar. 2005, doi: 10.1016/j.buildenv.2004.08.005.
+D. Huang, S. Lo, J. Chen, Z. Fu, Y. Zheng, L. Luo, Y. Zhuang, H. Cheng,
+and L. Yang, ''Mapping fire risk of passenger-carried fire load in metro system via floor field cellular automaton,'' Autom. Construct., vol. 100,
+pp. 61–72, Apr. 2019, doi: https://doi.org/10.1016/j.autcon.2018.12.021.
+S. Liu, L. Yang, T. Fang, and J. Li, ''Evacuation from a classroom con- sidering the occupant density around exits,'' Phys. A, Stat. Mech. Appl., vol. 388, no. 9, pp. 1921–1928, May 2009.
+C. Burstedde, K. Klauck, A. Schadschneider, and J. Zittartz, ''Simulation
+of pedestrian dynamics using a two-dimensional cellular automaton,'' Phys. A, Stat. Mech. Appl., vol. 295, no. 3, pp. 507–525, 2001, doi: https://doi.org/10.1016/S0378-4371(01)00141-8.
+D. Helbing, L. Buzna, A. Johansson, and T. Werner, ''Self-organized
+pedestrian crowd dynamics: Experiments, simulations, and design solu- tions,'' Transp. Sci., vol. 39, no. 1, pp. 1–24, Feb. 2005.
+R. W. Bohannon, ''Comfortable and maximum walking speed of adults
+aged 20–79 years: Reference values and determinants,'' Age Ageing, vol. 26, no. 1, pp. 15–19, 1997.
+J. A. Langlois, P. M. Keyl, J. M. Guralnik, D. J. Foley, R. A. Marottoli, and
+R. B. Wallace, ''Characteristics of older pedestrians who have difficulty crossing the street,'' Amer. J. Public Health, vol. 87, no. 3, pp. 393–397, Mar. 1997.
+Y. Chen, C. Wang, J. B. H. Yap, H. Li, H. S. Hu, C.-C. Chen, and
+K.-K. Lai, ''Fire evacuation process using both elevators and staircases for aging people: Simulation case study on personnel distribution in high- rise nursing home,'' Discrete Dyn. Nature Soc., vol. 2020, Jun. 2020, Art. no. 5365126, doi: 10.1155/2020/5365126.
+Y. Ding, L. Yang, F. Weng, Z. Fu, and P. Rao, ''Investigation of combined
+stairs elevators evacuation strategies for high rise buildings based on simulation,'' Simul. Model. Pract. Theory, vol. 53, pp. 60–73, Apr. 2015, doi: 10.1016/j.simpat.2015.01.004.
+Pathfinder Technical Reference Manual-2020.1 Version, Thunderhead
+Eng., Manhattan KS, NY, USA, 2020.
+J. Qin, C. Liu, and Q. Huang, ''Simulation on fire emergency evacuation in special subway station based on pathfinder,'' Case Stud. Thermal Eng., vol. 21, Oct. 2020, Art. no. 100677.
+N. Mu, W.-G. Song, X.-X. Qi, W. Lu, and S.-C. Cao, ''Simulation of
+evacuation in a twin bore tunnel: Analysis of evacuation time and egress selection,'' Proc. Eng., vol. 71, pp. 333–342, Jan. 2014.
+Y. Li, Y. Zhang, and J. Jiang, ''Research on emergency evacuation simu-
+lation of old dormitory building based on pathfinder,'' in Man-Machine- Environment System Engineering. MMESE 2018 (Lecture Notes in Elec- trical Engineering), vol. 527, S. Long and B. Dhillon, Eds. Singapore: Springer, 2019, doi: 10.1007/978-981-13-2481-9_58.
+M. Xiao, X. Zhou, X. Pan, Y. Wang, J. Wang, X. Li, Y. Sun, and
+Y. Wang, ''Simulation of emergency evacuation from construction site of prefabricated buildings,'' Sci. Rep., vol. 12, no. 1, pp. 1–18, Dec. 2022.
+J. Hammarberg, H. Niva, and A. Mossberg, ''Incorporation of elevator
+evacuation from a specific floor—A numerical study of an office building,''
+Collective Dyn., vol. 5, pp. 431–438, Mar. 2020.
+I. Dmitriev, K. Kuzenkov, and V. Kankhva, ''The use of elevators in the evacuation of high-rise buildings,'' in Proc. MATEC Web Conf., vol. 193, 2018, p. 3030.
+X. Liu, H. Zhang, and P. Zhang, 'Simulation study on collaborative evacu-
+ation among stairs and elevators in high-rise building,'' in Advancements in Smart City and Intelligent Building. ICSCIB 2018 (Advances in Intelligent Systems and Computing), vol. 890, Q. Fang, Q. Zhu, and F. Qiao, Eds. Singapore: Springer, 2019, doi: 10.1007/978-981-13-6733-5_15.
+Y. Hu, X. Wang, and F. Wang, ''A quantitative study of factors
+influence on evacuation in building fire emergencies,'' IEEE Trans. Computat. Social Syst., vol. 5, no. 2, pp. 544–552, Jun. 2018, doi: 10.1109/TCSS.2018.2823869.
+U. Chattaraj, A. Seyfried, P. Chakroborty, and M. K. Biswal, ''Modelling
+single file pedestrian motion across cultures,'' Proc. Social Behav. Sci., vol. 104, pp. 698–707, Dec. 2013.
+F. Li, S. Chen, X. Wang, and F. Feng, ''Pedestrian evacuation modeling and simulation on metro platforms considering panic impacts,'' Proc. Social Behav. Sci., vol. 138, pp. 314–322, Jul. 2014.
+D. Li and B. Han, ''Behavioral effect on pedestrian evacuation simulation
+using cellular automata,'' Saf. Sci., vol. 80, pp. 41–55, Dec. 2015.
+
+HONGQIANG FANG received the bachelor's degree from the Wuhan University of Technology, Wuhan, China, in 2016, and the master's degree in safety science and engineering from the State Key Laboratory of Fire Science, University of Science and Technology of China, Hefei, China, in 2019. He is currently pursuing the Ph.D. degree with the Department of Architecture and Civil Engineering, City University of Hong Kong, Hong Kong, under the supervision of Prof. S. M. Lo. His research
+interests include smart building and fire safety, evacuation modeling, and fire risk analysis.
+HONGPENG QIU received the graduate degree from the School of Computer Science, Chongqing University. He is currently pursuing the master's degree in safety engineering with Southwest Jiao- tong University. His supervisor is Prof. Peng Lin. His research interests include intelligent building, fire safety, and evacuation modeling.
+
+
+
+PENG LIN is a Professor with the Department of Fire Safety Engineering, Southwest Jiaotong Uni- versity, China. He had more than ten years work experiments in fire and safety industry. He is well familiar with building codes of many countries,
+e.g. PRC, Hong Kong, Macao, BS, and NFPA. He has published more than 30 papers related to tunnel fire dynamic and human evacuation modeling under emergency. His research interests include evacuation simulation and optimization,
+human behavior under fire, fire load and fire scenario analysis, fire resistance analysis, smoke movement analysis, deterministic risk assessment and fire modeling including zone modeling and CFD modeling, and urban emergency planning and optimization.
+S. M. LO received the Ph.D. degree in architec- ture from the University of Hong Kong. He is a Professor with the Department of Architecture and Civil Engineering, City University of Hong Kong. He has been the Principal Investigator for many research grants for studying evacuation model- ing, pedestrian flow modeling, fire risk analysis, decision support systems, wayfinding modeling, human behavior in fire, effect of fire legislation on the society, large-scale evacuation modeling and
+disaster prevention, and rail tunnel evacuation. His main research interests include spatial planning for pedestrian flow and evacuation, decision support system, and fire safety engineering.
+J. T. Y. LO received the B.S. degree in civil engi- neering from the University of Illinois at Urbana– Champaign, USA, and the M.S. and Ph.D. degrees from Stanford University, Stanford, CA, USA. She is currently an Assistant Professor at the Depart- ment of Civil and Environmental Engineering, Hong Kong Polytechnic University. Her major research interests include construction innovation, virtual design and construction, building informa- tion modeling, urban resilience, urban analytics, and building safety.

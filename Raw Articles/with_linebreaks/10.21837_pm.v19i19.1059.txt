@@ -1,0 +1,424 @@
+PLANNING MALAYSIA:
+Journal of the Malaysian Institute of Planners
+VOLUME 19 ISSUE 5 (2021), Page 53 – 65
+
+
+
+
+ACCESSIBILITY FOR PERSONS WITH DISABILITIES IN BUILT ENVIRONMENT OF URBAN AREA: CASE STUDY OF GEORGE TOWN, PENANG
+Ikhwan Ali Wazani1, Diana Mohamad2, Mastura Jaafar3
+1,2,3 School of Housing Building and Planning
+UNIVERSITI SAINS MALAYSIA
+
+Abstract
+Persons with Disabilities (PwD) confront several challenges that hinder them from fully exercising their rights and participating in social, professional, and cultural activities when it comes to accessing built environment. This paper is to investigate the accessibility challenges that PwD face in George Town, Penang. The questionnaire survey techniques employed was to obtain data from a group of PwD. The questionnaire was conducted on wheelchair users, the walking impaired, the visually impaired, and the hearing impaired in George Town areas. Most PwD three key challenges, such as narrow sidewalks, uneven sidewalk 
+ surfaces, barriers on sidewalks and dangerous drop curbs. Accessibility facilities in George Town still need to be improved to make it easier for PwD to get around. The findings and recommendations in this study would assist in improving current access to a built environment so that PwD may visit the George Town areas easily and safely.
+
+
+Keywords: Accessibility, Persons with Disabilities, Built Environment, Urban Design, George Town
+
+INTRODUCTION
+Accessibility refers to the ease with which people can move around their surroundings to reach services, activities, and destinations using a preferred mode of transportation (walking or driving) and at a preferred time (Bertolini, le Clercq, & Kapoen, 2005; Ribeiro, Antunes, & Páez, 2010; Litman, 2011). According to Frey (2003), the top of the agenda is ensuring that all persons with various characteristics have equal access to activities and services. Nonetheless, the development of urban areas is more focused on the development of normal people than the needs of PwD. Compared to Persons without Disabilities, PwD have less opportunities to participate in activities because of the inaccessible environment. To provide convenient and safe facilities, a reliable and effective urban built environment must be designed comprehensively. The relevance of a built environment in assisting PwD is to engage in all activities successfully - from the most basic tasks to more complicated participation behaviours like grocery shopping, visiting friends, and visiting parks.
+PwD encounter numerous challenges in urban areas, including accessibility. They are unable to access the significant areas of cities because of inaccessibility in the built environment (Baris & Uslu, 2009; Ja'afar, Rahim, Samad, & Rahim, 2017). PwD, such as wheelchair users, the visually impaired, the hearing impaired, and others in various positions, face numerous obstacles when navigating the built environment. It prevented them from fully exercising their rights and participating in social, professional, and cultural activities on an equal footing with others. It includes aspects such as a sidewalk, road crossings, 
+ bus stops, drop curbs, and tactile blocks in the built environment. Uneven 
+ sidewalk surface, incorrect placement of street furniture, wrongly placed textured 
+ pavement blocks, hostile pedestrian crossing for disabled individuals, a lack of or 
+ dangerous design of a drop curb, and inability to see the signboards are among the barriers for PwD (Gallagher, Hart, O'Brien, Stevenson, & Jackson, 2011; Jenkins, Yuen, & Vogtle, 2015; Rosenberg, Huang, Simonovich, & Belza, 2013).
+In this regard, George Town, Penang, is no exception. As the areas are well connected, vehicle mobility in Georgetown (Penang Island) is unaffected by obstructions or challenges. On the other hand, it is the opposite for pedestrian movements, particularly those involving PwD (Mok, 2016). Because of the ways in which the built environment is organized to prioritize vehicles, many disabled people's access to George Town is either difficult or impossible without assistance. This is evidenced by the shared experience of a wheelchair user travelling in George Town, who mentioned low quality, steepness and lack of 
+ curb ramps that prohibit the confidence among those with impairments and wheelchair users from leaving the footpaths or crossing the road. Besides that,
+ non-level access and gaps between infrastructure platforms have been listed as frequent problems while travelling around the city (I Wheel Travel, 2019). In order for vulnerable groups of the population to not be ignored or marginalized,
+
+the physical environment in cities should be able to provide more services. A well-designed urban built environment can help to ensure equal opportunities for each layer of society even while increasing urban mobility. According to the Persons with Disabilities Act of 2008, transportation facilities and infrastructure must comply with the Universal Design in order for PwD to have quick and easy access (Hussein & Yaacob, 2018).
+A built environment for the disabled and barrier-free is being studied from a variety of perspectives. Nonetheless, the scope of the existing research has been limited; in general, limitations on the study of the needs of specific users, such as visually impaired people or wheelchair users, and restricted to highly restricted areas; in the public area or public building (government building, shopping malls and mosques). Thus, this paper is to study the accessibility issues experienced by PwD in urban areas, specifically in George Town, Penang. It is apparent that George Town's urban design in terms of accessibility for PwD is in desperate need of improvement. From the standpoint of the tourism sector, physical mobility accessibility will assist Penang in demonstrating the 'Malaysian Hospitality' tagline. It will also play a critical role in attracting the rising domestic tourism market (Tan, 2017).
+
+PERSONS WITH DISABILITIES
+PwD are characterized in a variety of ways depending on the viewpoints expressed. The public in general defines PwD to be those who have both physical and mental disabilities, although the term is much broader when viewed from different perspectives. Disabilities can be obvious or invisible, and they can appear at any age, including birth, childhood, adolescence, adulthood, and the elderly. People with disabilities are diverse and complex; nonetheless, stereotyped perceptions of impairments focus on wheelchair users and a few other typical kinds, such as the visually and hearing impaired (Park, Curtice, Thomson, Phillips, & Johnson, 2011). PwD may be defined differently by each disability group and other organizations. The World Health Organization's definition of Persons with Disabilities and those of the United States, the United Kingdom and Malaysia, are shown in the table below.
+
+Table 1: Comparison of PwD Definition
+
+Organization Definitions
+Americans with Disabilities Act (ADA) (1990),
+United States
+An individual with a physical or mental impairment significantly restricts one or more main activities in life, a record of such an impairment, and regards as having such an impairment (Americans with Disabilities Act, 2011).
+
+Disability Discrimination Act (DDA) (1995),
+A person with a disability has a physical or mental impairment that has an adverse effect on their ability to perform normal day-to-day activities over a substantial and
+
+United Kingdom
+long term (lasting 12 months or the rest of the person's life)
+(Policy Division, 1997).
+
+The Person with Disabilities Act
+2008,
+Malaysia
+A Person with Disabilities as those who have long term physical, mental, intellectual or sensory impairments which in interaction with various barriers may hinder their full and effective participation in society (Americans with Disabilities, 2011)
+
+In addition, the Department of Social Welfare Malaysia (2016) has stipulated specific categories of disabilities, including seven categories, namely area hearing, vision, speech, physical, learning difficulties, mental and various or multiple disabilities as in the table below.
+
+Table 2: Categories of PwD by the Department of Social Welfare Malaysia
+Category Disabilities
+Description
+Hearing
+Unable to hear clearly in both ears without using a hearing aid or incapable of hearing even when using a hearing aid.
+Vision
+Blinds in either eyes or blind in one eye, or vision impaired in either eyes or any other permanent visual impairment.
+Speech
+An inability to speak impairs proper communication and is impossible to understand to those who interact with the individual. It is a permanent or incurable condition. For children, it must be based on an evaluation at five years of age and above. An Otorhinolaryngology Expert shall be consulted in case of doubt.
+Physical
+The permanent impairment of parts of the body, whether caused by damage or absence or the failure of any part of the body to perform its essential functions thoroughly, results from injury (trauma) or disease.
+Learning Difficulties
+Intellectual capacity which does not conform to biological age. Late Global Development, Down Syndrome and Intellectual Disabilities are the ones that fall within this category.
+Mental Disability
+Refers to a condition of severe mental illness that causes an inability to function in person, in whole or in part, in matters relating to him/herself or his / her relationship within the community.
+Multiple Disabilities
+Having more than one type of disability and usually not being categorized in categories 1 to 7 is not common.
+Source: Department of Social Welfare Malaysia, (2016)
+
+LEGISLATION, STATUTORY, AND GUIDELINE FOR PERSONS WITH DISABILITIES
+Malaysia's government has made a concerted effort to recognize and promote the rights of persons with disabilities by enacting several legislation and guidelines. Accessibility to a location, public circulation, where it can be pursued by all people, equipment, or the use of every member of society, priority security, and the duty of each responsible party are all highlighted in the legislation. The table below summarizes Malaysian's legislation aimed at maintaining and improving the living standards of PwD.
+
+Table 3: Regulations employed by Malaysia to Protect the Right of PwD
+Policy / Act / Legislative
+Description
+Uniform Building By- Laws: UBBL (34A)
+The Uniform Building By-Laws 1984 was amended in 1990 to supplement the provisions of by-law 34A. 34A requires improvements to buildings for public use to enable Persons with Disabilities to get into, out of and within. (Legal Research Board Malaysia, 1984).
+Malaysian Standard (MS)
+Malaysian Standard 1183:1990 - Code of Practice for Means of Escape for Disabled Persons - This MS is used as an instruction to design and modify new buildings. In the sense of fire safety, it provides the planning, intervention, and obligation to be extended to building for people with disabilities (Department of Standards Malaysia, 1990).
+
+Malaysian Standard 1184:2002 - Code of Practice for Access for Disabled Persons to Public Buildings - This MS-specific the basic requirements for elements of a building and related facilities to permit access by Persons with Disabilities Department of Standards Malaysia, 2002).
+
+Malaysian Standard 1131:2003 - Code of Practice for Access for Disabled Persons Outside Buildings - Specifies the basic requirements for providing and designing outdoor facilities so that disabled persons can access facilities and make them usable (Department of Standards Malaysia, 2003).
+Persons with Disabilities Act 2008
+The Person with Disabilities Act (2008) encourages the development and improvement of the quality of life and well-being of disabled persons. It has given a new breath to disabled people in Malaysia, especially about the protection, development and welfare of Persons with Disabilities, registration, rehabilitation, and the establishment of a national council to protect the rights of Persons with Disabilities. with disabilities (International Labour Organization, 2008).
+
+Nevertheless, the enforcement of these laws and guidelines does not always meet the needs of PwD, as Malaysia still lacks a user-friendly built environment (Kamarudin, Hashim, Mahmood, Ariff, & Ismail, 2012). There is a dearth of facilities that allow for easy mobility and varying design standards in the development of walkway facilities, which impede the movement of PwD (Yaacob & Ariffin, 2001).
+
+METHODOLOGY
+CASE STUDY
+Currently, an estimated two billion people, or 37.5% of the world's population in 2020-7.8 billion people, experience some form of disability (Wagner, 2021). According to the statistics from World Health Organization (WHO), In 2017, Malaysia had 10 to 16 per cent of PwD from the total population which is about
+3 million people (Zahari, 2017). On the other hand, according to statistics released by the Department of Statistics Malaysia (2018), 453,258 PwD registered until 2017. Physical disabilities accounted for 35.2 per cent of the total, led by learning disabilities (34.8 per cent) and visual disabilities (34.8 per cent) (8.9 per cent). At the same time, speech disabilities were the least common, accounting for just 0.5 per cent of the total. Meanwhile, the following table shows the population statistics for PwD in George Town, Penang, for physical disabilities (wheelchair users, cane users, and walking disability), visual impairments, and hearing difficulties: -
+
+Table 4: Number of registered PwD by types, Timur Laut, Penang, 2020
+Types of Disabilities
+Total Registered
+Physical Disabilities
+4,490
+Visual Disabilities
+1,261
+Hearing Disabilities
+1,058
+Total
+6,809
+Source: Shaari, (2020)
+George Town, the capital of the state of Penang, was selected as the study area. A scenic Malaysian city on the island of Penang is a culturally significant and popular tourist destination with a variety of activities. George Town is one of the UNESCO World Heritage Sites and Malaysia's third most populated city, with a population of 708,127 people as of 2010 (ASEAN, 2018). In brief, whatever occurs in this place may draw visitors, whether locals or tourists, from various demographic categories, including adults, the elderly, individuals with impairments, and children.
+
+METHOD APPROACH
+Data was collected using a quantitative approach in which the questionnaire research technique was used. The goal of the survey was to collect information from a pool of PwD about the mobility issues that they experience when travelling throughout George Town. The survey was conducted on a random sample of PwD, including wheelchair users, the elderly, the visually impaired, and the hearing impaired, at locations that these group of people may visit, such as hospitals, government offices, banks, and shopping malls. The questionnaire survey was only one phase of the communication thread, which lasted about 15 to 20 minutes for each person and was separated into three (3) sections: -
+
+Table 5: Guided Questions for PwD Questionnaire
+
+Section Variable Guided Questions
+A
+
+
+B
+
+
+C
+Respondent's
+Profile
+Personal background. (age, educational level, gender).
+Respondent's Illness Information Issues and Challenges when
+Travelling
+Information about their disabilities. (types of disabilities).
+Issues and challenges experiences when travelling in George Town.
+
+FINDINGS AND DISCUSSION
+RESPONDENT'S DEMOGRAPHY PROFILE
+The questionnaire survey was conducted at places where these PwD may go, such as care centers, hospitals, government offices, recreational areas, banks, and shopping malls in George Town, Penang. A total of 321 questionnaires were returned and completed.
+
+Table 6: Respondent's Demography Profile
+
+No. Category Frequency Percentage (%)
+Gender
+Male 155 48.3
+Female 166 51.7
+Age
+
+Below 20 years
+29
+9.0
+21 years to 30 years
+73
+22.7
+31 years to 40 years
+78
+24.3
+41 years to 50 years
+88
+27.4
+51 years to 60 years
+41
+12.8
+61 years and above
+12
+3.7
+3.
+Type of Disabilities
+
+
+
+Walking Disabilities
+129
+40.2
+
+
+Visual Disabilities
+32
+10.0
+Hearing Disabilities
+44
+13.7
+Wheelchair Users
+116
+36.1
+4.
+Respondent's Travelling
+
+
+
+Profile
+
+
+
+Visited George Town
+289
+90%
+
+Not visited George Town
+32
+10%
+The survey indicated that male respondents made up 48.3 per cent of the total, while female respondents made up 51.7 per cent. When it comes to age,
+27.4 per cent of respondents are between the ages of 41 and 50, while 24.3 per cent are between the ages of 31 and 40. Then came the respondents between the ages of 21 and 30, who made up 22.7 per cent of the total respondents. The age range of 51 to 60 years is represented by 12.8 per cent of the total respondents. While 9.0 per cent of respondents are under the age of 20, only 3.7 per cent of all respondents are 61 years or older. According to the table above, 40.2 per cent of respondents have walking impairments, followed by 36.1 per cent who use a wheelchair. While 13.7 per cent of the total respondents have hearing impairments, just 10.0 per cent of the total respondents are visually impaired. The bulk of the respondents, 90 per cent out of 321, said they had visited George Town in the previous one to two years. Only 10% of the total number of respondents did not visit George Town during that time.
+
+RESPONDENT'S PERCEPTION TOWARDS ACCESSIBILITY IN
+GEORGE TOWN
+This section aims to elicit more detailed responses from respondents regarding accessibility for Persons with Disabilities in George Town. Respondents were asked about their concerns and the obstacles they have in terms of accessibility for Persons with Disabilities when travelling through George Town. Only those who have visited George Town in the recent one to two years will be considered as a sample respondent for future surveys and studies.
+Table 7: Issue and Challenges While Travel in George Town
+
+ Issues and Challenges Type of Persons with Disabilities 
+Walking Visual Hearing Wheelchair
+User
+1. Lack proper sidewalks
+16
+1
+3
+87
+
+(12.4%)
+(3.1%)
+(6.8%)
+(75.0%)
+2. Inconsistent sidewalks surface
+65
+16
+24
+86
+quality and conditions
+(50.4%)
+(50.0%)
+(54.5%)
+(74.1%)
+3. Obstruction on sidewalks
+(vehicle, garbage, signage, utility poles, etc.)
+88
+(68.2%)
+22
+(68.8%)
+36
+(81.8%)
+92
+(79.3%)
+
+4. Narrow sidewalks
+87
+2
+16
+81
+
+(67.4%)
+(6.3%)
+(36.4%)
+(69.8%)
+5. Wet or icy sidewalks
+10
+1
+3
+44
+
+(7.8%)
+(3.1%)
+(6.8%)
+(37.9%)
+6. Lack of shelter and covered areas
+36
+3
+12
+64
+
+(27.9%)
+(9.4%)
+(27.3%)
+(55.2%)
+Lack of disabled parking space 21
+(16.3%)
+0 2
+4.5
+36
+(31.0%)
+Lack of places to rest 53
+(41.1%)
+1
+(3.1%)
+4
+(9.1%)
+36
+(31.0%)
+Lack of paving block and tactile warning
+12
+37.5 0 0
+Improperly laid textured paving 1
+4 0 4
+
+
+
+
+Difficult features of crosswalks (time too short, poor marking, fast speed of traffic)
+Unsuitable positioning of traffic light buttons
+No visual (symbol green person) or not working for crossing
+
+
+
+
+
+
+
+
+
+0 0 10
+(22.7%)
+
+
+
+
+
+
+
+
+
+5
+(4.3%)
+16. No audio (beep sound) or not working for crossing
+0
+12
+(37.5%)
+3
+(6.8%)
+5
+(4.3%)
+17. Lack of drop curb in many places
+18
+9
+2
+68
+
+(14.0%)
+(28.1%)
+(4.5%)
+(58.6%)
+18. Dangerous drop curb condition
+
+
+
+
+(too steep, icy surface, position in
+36
+12
+8
+88
+the middle of the street)
+(27.9%)
+(37.5%)
+(18.2%)
+(75.9%)
+Disabled parking space is too far from destination
+27
+(20.9%)
+Lack of bus stops and taxi stands 8
+(6.2%) (
+Lack of shelters at bus stops and taxi stands
+Inaccessible to bus (gap between platform and bus)
+Lack of signage to show direction and information
+0
+1
+(0.8%)
+1
+(0.8%)
+
+
+ According to the table above, most walking impaired people face three main issues: obstruction on sidewalks such as vehicles, garbage, signage, utility poles, and other objects (68.2 per cent of total respondents), narrow sidewalks (67.4 per cent), and inconsistent sidewalk surface quality and conditions (67.4 per cent) (50.4 per cent). Obstruction on sidewalks such as vehicles, rubbish, signage, utility poles, and other obstructions are the top two difficulties for visually impaired people, according to 68.8% of respondents, followed by inconsistent sidewalk surface quality and conditions (50.0 per cent). In terms of hearing-impaired people, there are two major issues that respondents face: which are obstruction on sidewalks such as vehicles, garbage, signage, and utility poles, which was experienced by 81.8 per cent of the total respondents, and inconsistent sidewalk surface quality and conditions, that was experienced by the remaining respondents (54.5 per cent). Finally, wheelchair users face obstacles such as vehicles, garbage, signage, utility poles, and other objects on sidewalks (79.3%), dangerous drop curb conditions (75.9%), lack of proper sidewalks (75.0%), inconsistent sidewalk surface quality and conditions (74.1%), narrow sidewalks (69.8%) and a lack of shelter and covered areas (55.2 per cent).
+The accessibility facilities in George Town still need to be improved to make it easier for PwD to get around. When using sidewalk elements to move in the built environment in Georgetown, most PwD face three main barriers: narrow sidewalks, uneven sidewalk surface conditions, and obstacles on sidewalks. Furthermore, there are particular difficulties that wheelchair users confront, such as when using drop curb features. These two elements (sidewalk and drop curb) are crucial in ensuring accessibility, particularly for Persons with Disabilities, since both assist them in moving from one location to another. In fact, if these features are not given or are constructed poorly, they can limit mobility and potentially put Persons with Disabilities at risk.
+The government has made a deliberate effort to promote the rights of people with disabilities by implementing several laws and guidelines, including the Persons with Disabilities Act, Malaysian Standards, and Uniform Building By-Laws (UBBL). The Act emphasizes accessibility to a venue, public circulation, priority security, and the responsibility of each responsible party. However, there is a gap between having legislation and standards and ensuring their implementation. Based on the current findings, two crucial components, namely the sidewalk and drop curb, are fundamental challenges for PwD when navigating around George Town. The accessibility features given are insufficient; this is due to the fact that barrier-free design requirements are still not applied to accessibility elements that fulfil the needs of PwD.
+
+CONCLUSION
+This paper presents an overview of PwD' disabling experiences in the built environment in George Town and recommendations from many perspectives for
+
+overcoming the disablement. Since built environment plays such a significant role in connecting people and places, this study aims to improve urban design, leading to better physical mobility management for PwD. As a result, it is intended that the findings and recommendations in this study would assist in improving current access to the built environment so that PwD may visit the George Town areas easily and safely.
+
+RECOMMENDATION
+As a result, future planning to develop and expand the built environment infrastructure is required, which can be done in phases. As Malaysia moves toward becoming a more developed nation, ongoing legislation and reviews are crucial for the future well-being of PwD. Aside from that, future project consultations, task force consultants, and organizing seminars on universal interior and exterior design are all examples of ways to recognize the basic needs of PwD. Professional involvement, government involvement, and PwD as reference sources can help solve difficulties in this local context. Finally, Malaysians should study countries that have effectively implemented the Universal Design principles and those that have struggled to do so in order to avoid making the same mistakes.
+
+ACKNOWLEDGEMENTS
+This team would like to thank Fundamental Research Grant Scheme (203/PPBGN/6711707) and Universiti Sains Malaysia for making this study and this paper possible.
+REFERENCES
+Americans with Disabilities Act. (2011). Persons with Disabilities Act 2008 (Act 685).
+ASEAN. (2018). ASEAN sustainable connectivity, boundless prosperity. Chiang Mai, Thailand.
+Baris, M. E., & Uslu, A. (2009). Accessibility for the disabled people to the built environment in Ankara, Turkey. African Journal of Agricultural Research, 4(9), 801-814. Retrieved from http://www.academicjournals.org/AJAR
+Bertolini, L., le Clercq, F., & Kapoen, L. (2005). Sustainable accessibility: A conceptual framework to integrate transport and land use plan-making. Two test-applications in the Netherlands and a reflection on the way forward. Transport Policy, 12(3), 207-220. doi:10.1016/j.tranpol.2005.01.006
+Department of Social Welfare Malaysia. (2016). Statistic Report 2016. Retrived from https://www.jkm.gov.my/jkm/uploads/files/penerbitan/Buku%20statistik%20201 6.pdf
+Department of Standards Malaysia. (1990). Code of practice for means of escape for disabled persons (First Revision) (Malaysian Standard 1183:1990).
+Department of Standards Malaysia. (2002). Code of practice on access for disabled persons to public buildings. (First Revision) (Malaysian Standard 1184:2002).
+
+Retrieved May 12, 2020, from https://kupdf.net/download/ms-1184-2002-1-code- of-practice-on-access-for-disabled-person-to-public- buildings_58d9d1b2dc0d60ff0ac346a1_pdf
+Department of Standards Malaysia. (2003). Code of practice for access for disabled persons outside buildings (First Revision) (Malaysian Standard 1131:2003). Retrieved May 12, 2020, from https://dokumen.tips/documents/ms-1331-2003- code-of-practice-for-access-of-disabled-person-outside-buildings-first- revision.html
+Department of Statistics Malaysia. (2018). Publication of Social Statements Buletin, Malaysia, 2018.
+Frey, H. (2003). Designing the city: Towards a more sustainable urban form. London: Spo Press.
+Gallagher, B. A. M., Hart, P. M., O'Brien, C., Stevenson, M. R., & Jackson, A. J. (2011). Mobility and access to transport issues as experienced by people with vision impairment living in urban and rural Ireland. Disability and Rehabilitation, 33(12), 979-988. doi:10.3109/09638288.2010.516786
+Gleeson, B. J. (1996). A Geography for disabled people?. Transactions of the Institute of British Geographers, 21(2), 387-396. doi:10.2307/622488
+Hussein, H., & Yaacob, N. M. (2018). Malaysian perspective on the development of accessible design. Asian Journal of Environment-Behaviour Studies, 68, 121-133. doi:10.21834/aje-bs.v3i8.287
+I Wheel Travel. (2018, February 18). Visiting Penang in 4 days in a wheelchair. Retrieved October 22, 2019, from https://www.iwheeltravel.com/en/visit-penang-in-4-days- wheelchair-malaysia-travel-handicap/
+International Labour Organization. (2008). Person with Disabilities Act 2008 (Act 685). Retrieved May 12, 2020, from https://www.ilo.org/dyn/natlex/natlex4.detail?p_isn=86297&p_lang=en
+Ja'afar, N. H., Rahim, A. A., Samad, N. A., & Rahim, C. R. C. (2017). Sidewalk Accessibility at Melaka's Traditional Streets for People With Disabilities (PWDs). Planning Malaysia. https://doi.org/10.21837/pmjournal.v15.i6.255
+Jenkins, G. R., Yuen, H. K., & Vogtle, L. K. (2015). Experience of multisensory environments in public space among people with visual impairment. International Journal of Environmental Research and Public Health, 12(8), 8644-8657. doi:10.3390/ijerph120808644
+Kamarudin, H., Hashim, A. E., Mahmood, M., Ariff, N. R. M., & Ismail, W. Z. W. (2012). The implementation of the Malaysian Standard Code of Practice on access for disabled persons by local authority. Procedia - Social and Behavioral Sciences, 50, 442-451. doi:10.1016/j.sbspro.2012.08.048
+Legal Research Board Malaysia. (1984). Uniform Building By-Laws 1984. Kuala Lumpur
+: International Law Book Services.
+Litman, T. A. (2011). Measuring transportation: Traffic, mobility and accessibility.
+Retrieved May 12, 2020, from https://www.vtpi.org/measure.pdf
+Manley, S. (1996). Walls of exclusion: The role of local authorities in creating barrier- free streets. Landscape and Urban Planning, 35(2–3), 137-152. doi:10.1016/0169-2046(96)00310-6
+Mok, O. (2016, August 9). Making George Town more walkable, one street at a time.
+
+Retrieved May 12, 2020, from https://www.malaymail.com/news/malaysia/2016/08/09/making-george-town- more-walkable-one-street-at-a-time/1179625
+Park, A., Curtice, J., Thomson, K., Phillips, M., & Johnson, M. (2011). British social attitudes: The 23rd Report. doi:10.4135/9781849208680
+Policy Division, D. (1997). The Disability Discrimination Act 1995. VINE, 27(2), 48-50. doi:10.1108/eb040634
+Ribeiro, A., Antunes, A. P., & Páez, A. (2010). Road accessibility and cohesion in lagging regions: Empirical evidence from Portugal based on spatial econometric models. Journal of Transport Geography, 18(1). https://doi.org/10.1016/j.jtrangeo.2009.03.002
+Rosenberg, D. E., Huang, D. L., Simonovich, S. D., & Belza, B. (2013). Outdoor built environment barriers and facilitators to activity among midlife and older adults with mobility disabilities. Gerontologist, 53(2), 268-279.
+doi:10.1093/geront/gns119
+Shaari, S. A. (2020). Portal Data Terbuka Malaysia. Retrieved from https://www.data.gov.my/data/ms_MY/dataset/statistik-kategori-orang-kurang- upaya-oku-berdaftar-mengikut-daerah-pulau-pinang
+Tan, D. (2017, Dec 11). Higher tourist arrivals in Penang. The Star Online. Retrieved January 5, 2020, from https://www.thestar.com.my/business/business- news/2017/12/11/higher-tourist-arrivals-in-penang
+Wagner, L. (2021, May 28). Disabled people in the world in 2019: Facts and figures. Retrieved from Inclusive City Maker website: https://www.inclusivecitymaker.com/disabled-people-in-the-world-in-2019- facts-and-figures/
+Yaacob, N. M., & Ariffin, A. R. M. (2001). CAP National Seminar: Changing directions: Towards sustainable transport in Malaysia. Retrieved from http://eprints.um.edu.my/11253/1/0003.pdf
+Zahari, B. J. (2017, April 30). Jumlah OKU di sektor awam di bawah sasaran. Berita Harian Online. Retrieved October 22, 2019, from https://www.bharian.com.my/node/277607
+
+
+Received: 5th November 2021. Accepted: 5th December 2021

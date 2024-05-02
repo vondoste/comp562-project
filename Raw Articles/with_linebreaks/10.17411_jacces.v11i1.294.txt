@@ -1,0 +1,492 @@
+Volume 11, Issue 1. (CC) JACCES, 2021. ISSN: 2013-7087
+
+
+BUILT ENVIRONMENT ACCESSIBILITY IN THE EASTERN PROVINCE OF THE KINGDOM OF SAUDI ARABIA AS SEEN BY PERSONS WITH DISABILITIES
+Helen Palmer Peterson, PhD1
+1Prince Mohammad bin Fahd University, Saudi Arabia
+1hpeterson@pmu.edu.sa
+1ORCID: https://orcid.org/0000-0001-7187-1928
+
+Received: 2020-08-27 " Accepted: 2021-03-31 " Published: 2021-05-31
+
+
+Abstract: According to the World Health Organization, the rights of persons with disabilities (PwD) worldwide are limited by social and physical barriers that prohibit their full participation in society. Built environment barriers can limit accessibility to transportation, goods and services, healthcare, employment, and overall independent movement. The Eastern Province (EP) of the Kingdom of Saudi Arabia (KSA) has about six per cent of its population designated as having some type of physical disability. Previously KSA-instituted rules and standards have not improved accessibility for PwD in the local built environment. This research attempted to determine the extent of accessibility in EP by surveying 183 persons with disabilities to ascertain what elements of the built environment are problematic for them and what they believe requires improvement. According to this survey, PwD felt elements that are essential to accessibility, such as ramps, elevators, restrooms, 
+ signage, and egress, are difficult to navigate. Commonly used public locations such 
+ as medical centres, restaurants, shopping, mosques, and banks each had obstructive elements that prevented PwD from fully using the spaces. Saudi Arabia is currently in the process of phasing in technical and social programs regarding the built environment that should improve accessibility for PwD, but current conditions are inadequate.
+Keywords: Saudi Arabia, accessibility, built environment
+
+
+Introduction
+
+Accessibility in the built environment is critical to the segments of any society who have physical limitations and participate in everyday activities such as employment, access to goods and services, and transportation. Without what the United Nations terms 'equalization of opportunities', many people are relegated to lives of isolation and poverty, especially in developing countries. According to a World Health Organization and World Bank Group report, about 15% of the world's population experience some form of disability, with more than 80% of these people being citizens of developing countries. Moreover, the World Bank Group classifies excluding differently-abled people or people with disabilities (PwD) from the workforce as having a possible negative social and economic impact on the Middle Eastern and North African (MENA) region. Its report specifically cites physical barriers that prevent access to built environments that include transportation facilities, school buildings, employment opportunities recreation, shopping, and health services as serious contributing factors. Currently, disability is considered a human rights issue where PwD options are not only limited by their physical functioning but by barriers- physical and social- placed by the society in which they live. Saudi Arabia has been lagging in participation in international PwD agreements as well as accessibility improvements for built environments. Analysis of existing KSA built environments shows there is limited accessibility for PwD. This paper researched, from the viewpoint of PwD, the extent to which barriers exist in common public locations like shopping centres, medical centres and mosques, and with typically problematic elements such as ramps and restrooms (Al-Jadid, 2013; Hakim & Jaganjac, 2005; Mulazadeh & Al-Harbi, 2016; UNGA, 1994; WHO/WB, 2011;
+WHO, 2018).
+
+Initially proposed in 1993 and updated in 2004, the United Nations introduced Standard Rules for the Equalization of Opportunities for Persons with Disabilities (SREOPwD), which all members adopted. These standards outlined the basic rights and services adopting nations should pursue. Accessibility to the built environment fell under Rule 5, part a where the adopting country committed to legislation, standards and guidelines for accessible interior and exterior built environments; design professional training and information from the state on achieving barrier-free environments as well as requirements to incorporate these design processes in the
+
+initial stages of design; and design decisions, especially for public spaces, should include organizations for the disabled to maximize accessibility. In 2005-2006, a global survey of adopting states, including Saudi Arabia, found that the progress toward accessibility based on Rule 5 still needed significant improvement since nearly 50% of the countries surveyed had no set standards for built environment accessibility (Rbeihat, 2006; UNGA, 1994). While UN members all agree that barriers exist for PwD, action to remedy environmental barriers was sluggish.
+Due to the lack of enforcement mechanisms in the Standard Rules and the slow rate of action toward enacting the standards, the UN ratified a 2004 update to the SREOPwD treaty that further protected the rights of PwD. It included monitoring and reporting by the ratifying states to a UN Committee on the Rights of Persons with Disabilities regarding each country's progress toward meeting the Convention on the Rights of Persons with Disabilities (CRPwD) expectations (UNGA, 1994; UNDESA, 2004). This required countries to be more accountable for remedying shortcomings for PwD, including removing architectural barriers.
+In addition to UN studies, international researchers also find that PwD encounter built environment obstacles that limit their access to facilities and services. These physical barriers can erect social barriers to inclusive participation in society by PwD. Public transportation, public buildings, commercial spaces, and healthcare settings all have design aspects that constrain PwD full use of and inclusion in the built environment. Soltania et al. (2012) found that public transportation facilities in Malaysia required a redesign to increase accessibility. In particular, ramps, steps and walkways were found to be inaccessible. Gamache et al. (2020) similarly found that ramps and restrooms were universally problematic for PwD who used mobility devices in Canadian urban locations. Jamalunda & Kadirb (2012) analyzed commercial structures in Kuala Lampur and reported that while a newer building provided better accessibility, all three built environments that they surveyed lacked some elements required to provide full accessibility. Elevators had no Braille buttons or audible signals, areas inaccessible due to lack of elevator service, reception desks too high to reach, no signage for facilities or signage too small to read, level changes without ramps or curb cuts, and too few accessible parking spaces. Poldma et al. (2014) focused on shopping malls which are locations that PwD often view favourably for accessibility. Here, too built environment barriers existed with difficulty reading signage and wayfinding, floor materials causing glare
+
+and inadequate contrast that confused users, and restricted wheelchair access from the subway entrance. Healthcare settings in the United States also demonstrated areas of inaccessibility. Kirshner et al. (2007) and O'Day et al. (2002) both emphasize that environmental barriers to healthcare for PwD can have profound adverse effects on their healthcare outcomes. PwD in these settings are concerned with accessible restrooms, offices, and examination rooms as well as overall building accessibility. PwD patients surveyed often chose their healthcare plan based on the physical accessibility of the medical facilities included in the plan (O'Day et al., 2002).
+When discussing environmental barriers, authors emphasize that the physical environment can determine how PwD socialize while often signalling negative social cues. When barriers exist, PwD are made to feel unwelcome, disempowered, lacking rights. The suggestion is to change the approach to how spaces are designed. Move away from the abled-disabled binary, make built environments all-inclusive. Appreciate, accept and include bodily diversity no different from the consideration given to any diversity such as racial, ethnic or cultural (Crews & Zavotka, 2006; Enginz & Savli, 2016; Kirshner et al., 2006; Poldma et al., 2014). Universal/inclusive design that benefits all users of space while greatly increasing accessibility for PwD is the goal to pursue when designing all built environments (Crews & Zavotka, 2006; Kadir et al., 2012; Soltania et al., 2012).
+From the UN studies and independent research, it is apparent that, in spite of rules and good intentions, PwD still routinely encounter architectural barriers that limit their basic human rights to move independently and freely participate in society. This condition exists in Saudi Arabia as well.
+
+The Kingdom of Saudi Arabia (KSA)
+
+Compared to other Middle Eastern and North African countries, Saudi Arabia was late joining and participating in the CRPwD. A global survey written in 1997 regarding government action on disability policy included most industrialized countries as well as MENA countries such as Bahrain, Iran, Iraq, Israel, Jordan, Lebanon, Morocco, Oman, Qatar and Yemen, and others. MENA countries notable by their absence were KSA and the United Arab Emirates. A 2005 study by the World Bank regarding MENA disability issues also does not include KSA. However, a
+
+separate global survey performed in 2005-2006 for the United Nations does list over 86 per cent of Arab states, including KSA. (Hakim & Jaganjac, 2005; Michailakis, 1997; Rbeihat, 2006).
+While KSA has had disability policies in place for decades, the delay in actual progress with accessible environments has been hampered by a lack of data regarding rates, types, and specific needs for PwD in the country. A 2002 international report regarding disability in KSA found that the data collected could be more complete and especially should analyze disability in KSA based on gender and area of the country. More recently, in its National Transformation Program 2018-2020, KSA stated that roadblocks for identifying and addressing the needs of PwD were no standardized database and lack of understanding about the difficulties PwD face, including inaccessible environments. As part of this initiative, KSA instituted a National Register of Disability and a Persons with Disability Survey (PwDS), which is comprehensive and contains important, relevant information regarding PwD in KSA. (GAStat PwDS, 2017; JICAPED, 2002; NTP, 2016).
+PwD Frequency in KSA
+
+KSA has evaluated its number of PwD in the past and provided basic information on overall numbers. For example, a survey taken in 1997 listed the breakdown by per cent of each type of disabilities out of the total PwD shown in Figure 1.
+Figure 1. Per cent disability type in Saudi Arabia 1997
+
+This survey also included meagre age-specific information, comparing rural (59%) versus urban (41%) prevalence of PwD, but no gender-specific data or country-wide
+
+data on PwD. This information is cited and available in a Country Profile on Disability for KSA written in 2002 (JICAPED, 2002).
+The current 2017 Disability Survey published by the KSA General Authority for Statistics is very complete in its analysis of PwD in KSA. The survey was scientifically tested and included a random sample of 33,375 households throughout KSA. There are general questions such as household, economic, social and demographic characteristics. Specific questions encompassed types of difficulties and degree of disability, as well as reasons for the disability, duration, government services used and where the person resides. Based on this survey, 7.1% of the KSA population (32.5 million) has some form of disability. See Figure 2 for distribution according to disability type. PwD are divided equally among KSA males (3.7%) and females (3.4%) (GAStat PwDS, 2017).
+Figure 2. Per cent disability type in Saudi Arabia (GAStat PwDS, 2017)
+
+
+Vision 2030
+
+Although an updated KSA Disability Law was enacted in 2000 that protected the rights of PwD and guaranteed them equal access to all government services and employment, and the Universal Accessibility Built Environment Guidelines for the Kingdom of Saudi Arabia were published in 2010, action and implementation regarding the law was deficient. Saudi Arabia also has a dearth of skilled construction workers or professionals that specialize in building code implementation. Design firms, until recently, did not emphasize building code training (Abu Tariah et al., 2018; Al-Jadid, 2013; KSADCS, 2000; Meyers, 2014;
+
+Mulazadeh & Al-Harbi, 2016; UABEG, 2010). In 2016, Saudi Arabia formulated a country-wide Vision 2030 plan for the growth and development of KSA into a multidimensional economy independent from oil. Included in the Vision 2030 document is a commitment to PwD for education, work and inclusion in society.
+"We will also enable those of our people with disabilities to receive the education and job opportunities that will ensure their independence and integration as effective members of society. They will be provided with all the facilities and tools required to put them on the path to commercial success." (Vision 2030, p.37).
+Development of this area was under the aegis of the Sixth Theme of the National Transformation Program (NTP, 2016). The challenges to moving toward identifying needs and integrating PwD were stated as a lack of a clear definition of disability and no database of PwD in KSA. It also maintained that there is inadequate awareness of obstacles PwD have when trying to work and that work environments are not adequately designed for PwD. The strategies proposed to overcome these issues are: "providing opportunities, establishing infrastructure, and developing their professional and social skills" (NTP, 2016, pp. 79-80).
+With this research focusing on the built environment, the infrastructure solutions for workers are relevant. To encourage a reduction of environmental employment barriers, KSA established the Mowaamah (Arabic for adaptability) Program in 2017, which outlines best practices and standards enterprises should meet to increase accessibility in their workplace. These practices include basic ideals such as commitment to hiring PwD, appropriate use of communication types, staff training to treat PwD as full colleagues, recruit and retain PwD, provide IT services enabled to meet PwD needs, and develop products and services for PwD customers. The final standard specifically relates to the built environment since firms must guarantee easy access for PwD staff and customers to their facilities. Businesses provide documentation as proof of attaining these requirements and submit to independent auditing to earn the certificates (HRSD, 2017; HRSD, 2019; Mowaamah, 2017). The company then is awarded a certificate designating to what level space meets the Mowaamah standards: Gold, Silver, Bronze and Participant. The certification must be renewed every two years or one year for the Participant level. The KSA Ministry of Labor and Social Development in 2018 stated that there were
+150 firms with Mowaamah certificates. The companies include healthcare,
+
+construction, financial services, and food production. Several have recent online advertisements that they have Mowaamah certificates (see website listing at the end of the references).
+Built Environment Current Situation
+
+For general inclusion and accessibility, Saudi Arabia adopted its own form of the 2003 International Building Code that it has recently updated to align with the 2015 International Building Code and known as the Saudi Building Code 2018 (SBC, 2007; SBC-18, 2018). Both these documents contain accessibility chapters that became law when adopted. Enforcement of the SBC-2018 has been phased since 2018 with penalties for non-adherence to the code (Saudi Gazette, 2018). In 2018, the structures included governmental and administrative buildings, high-rise buildings (towers higher than 23 meters), hospitals, hotels; 2019 phased in assembly buildings (mosques, sports arenas), educational buildings, commercial malls, communication towers, industrial buildings, buildings that are less than 23 meters and buildings of high hazard; 2020 expands to additional assembly buildings (wedding halls, cinema auditoriums, theatres) health care centres, motels, residential buildings and entertainment buildings; and finally, 2021 will encompass airports, banks, TV stations and post offices (SBC FAQ, 2018).
+However, as documented by several authors, implementation and enforcement of previous accessibility codes in KSA has been limited. Abu Tariah et al. (2018) evaluated the accessibility of mosques in Riyadh based on the input of 48 wheelchair users, and 86% of these people had difficulty accessing mosques. Alkawai & Alowayyed (2017) studied wheelchair patients' attitudes about accessibility in a hospital in Riyadh and found that most of these patients experienced difficulty moving independently through the hospital due to built environment barriers. Mulazadeh & Al-Harbi (2016) explored 13 public buildings and 6 roads in Riyadh for accessibility features. They found that most of the buildings, even the newer structures, did not comply with accessibility requirements listed in the Saudi Building Code. Accessibility to employment, healthcare, government buildings, schools and recreational facilities was restricted, and some facilities were completely wheelchair inaccessible. Public roads had virtually no accommodation for safe passage for PwD. There tends to be a general disconnect between legislation written on paper and action taken with improving and regulating the
+
+construction of the built environment for PwD (Al-Jadid, 2013; Mulazadeh & Al- Harbi, 2016).
+
+Eastern Province of KSA
+
+Data for this research was gathered from residents of the Eastern Province (EP) in Saudi Arabia, the third most populated Saudi Arabian region. The area is a major contributor to Saudi Arabia's overall economic strength since some of the largest oil fields are located here. Commercial, educational, and recreational expansion has resulted in increased construction and development. The population of the Eastern Province is just over 5 million inhabitants (GAStat, 2018).
+For the KSA 2017 PwD survey, 4,200 Eastern Province households were contacted to evaluate the prevalence and severity of disabilities in the area. The Eastern Province has 6% PwD by population and 12.25% of the total Saudi PwD population. EP PwD were also evenly split between male and female (2.8% each). See Figure 3 for distribution according to disability type (GAStat PwDS, 2017).
+Figure 3. Per cent disability type in the Eastern Province (GAStat PwDS, 2017)
+
+Similar to conditions found in Riyadh, the built environments of the EP have limited accessibility for PwD. The photographs below illustrate a few typical examples of the barriers PWD face. Inaccessible entrances, as shown in Figure 4, are common. Figure 5 displays just a few of the ramp challenges faced by PwD. The author has a large collection of inaccessible ramp examples. Figure 6 shows an inaccessible 
+ reception counter in a medical centre constructed in 2018 and a classroom doorway
+
+(built 2006) with inappropriate signage and doorknob. Figure 7 is two photos put together and illustrates a hospital room restroom that has insufficient accessibility accommodations.
+Figure 4. Entrance to office and clinic building. Source: photo- author archives.
+
+
+Figure 5. Ramps- restaurant retail and street entrances. Source: photos-author archives.
+
+
+
+Figure 6. Healthcare reception and classroom doorway. Source:photos-author archives.
+
+
+
+
+Figure 7. Healthcare- hospital room restroom composite photo. Source: photos- author archives.
+
+
+Methodology
+
+Based on the information from the literature review that indicated environmental barriers do exist for PwD and are hurdles for their full participation in society, the question was, do existing EP facilities meet the needs of people with disabilities, and if not, what improvements are needed? A Likert scale survey was developed to answer this question that included the basic architectural barriers mentioned in the literature and covered by SBC 2018. The survey items contain typical environmental barriers encountered by PwD. This would provide insight into how people experiencing the built environment felt about accessibility. A copy of the survey is in Appendix 1.
+For the survey, 183 residents of the Eastern Province who experience physical disabilities were asked to determine their impressions and feelings about accessibility in various public spaces. It included rankings of accessibility in general, but also for specific areas such as ramps, restrooms, shops and malls, hospitals, 
+ mosques, restaurants, fast food premises, banks and their automated money 
+ machines (ATM). One final question asked the respondents their opinion of overall respect for PwD. The rankings were very good, good, average, poor and very poor, where each respondent would indicate what level they experienced. They also commented on their feelings about the accessibility of each area.
+Due to the difficulty of freely accessing the disabled population, female interior design university majors who were immediate relatives of the subject administered the surveys. They spoke to the subject directly or to the subject's caregiver if the subjects could not answer for themselves and requested comments from the disabled person. Instructions to the students were to follow the script of the questionnaire and simply record answers. They were not to coach the respondent.
+The results of the surveys were analyzed for demographics and Likert scale responses for each category. For the Likert responses, each level is shown separately, as well as grouped into Poor and Very Poor, Average, Good and Very Good. Furthermore, for ease of overall rating, a mean of the Likert responses was calculated.
+
+Comments were evaluated within their category, and general questions about feelings and best places were analyzed and grouped according to the similarity of the responses.
+
+Results
+
+Basic Demographics
+
+The demographics of the respondents offer a representative cross-section of KSA residents. Of the 183 people surveyed, 46% were males, and 54% were females. Their ages ranged from three years to eighty-five years. The mean age was 38 years, and the median age was 32 years. The number of years the person has been disabled ranged from less than a year to 66 years. The mean number of years was eleven, and the median was seven. Figure 8 shows distribution according to disability type from survey respondents.
+Figure 8. Per cent disability type from survey respondents
+
+
+Accessibility Ratings
+
+All respondents rated their experiences with the accessibility of various built environment locations. The ratings from respondents regarding the categories of ramps, restrooms signage, shops and malls, restaurants and fast food establishments are shown in Table 1. These are not for comparison, but merely a listing of
+
+responses for each element or location. Due to the number of categories, Table 2 lists the remaining categories.
+Table 1. Ratings for Ramps, Restrooms, Signage Shops and Malls, Restaurants and 
+ Fast Food Establishments 
+
+Ratings
+
+Per cent
+RAMPS
+RESTROOMS
+SIGNAGE
+SHOPS MALLS
+RESTAURANTS
+FAST FOOD
+VERY POOR
+15.3
+21.9
+15.8
+21.3
+24.8
+23
+POOR
+19.1
+20.8
+23
+20.8
+26.8
+20.8
+AVERAGE
+45.4
+35
+33
+33.3
+26.2
+31.7
+GOOD
+8.7
+10.4
+17.5
+11.5
+12.6
+9.8
+VERY GOOD
+2.2
+1.6
+3.3
+8.2
+2.7
+4.9
+
+Grouped ratings
+
+Per cent
+RAMPS
+RESTROOMS
+SIGNAGE
+SHOPS MALLS
+RESTAURANTS
+FAST FOOD
+POOR & VERY POOR
+34.4
+42.7
+38.8
+42.1
+51.6
+43.8
+AVERAGE
+45.4
+35
+33
+33.3
+26.2
+31.7
+GOOD & VERY GOOD
+10.9
+12
+20.8
+19.7
+15.3
+14.7
+
+Mean all ratings
+
+Per cent
+RAMPS
+RESTROOMS
+SIGNAGE
+SHOPS MALLS
+RESTAURANTS
+FAST FOOD
+RATINGS MEAN
+52
+48.6
+53.4
+52.6
+47.6
+49.6
+For ramps, 34% of the respondents felt access to, and construction of ramps was poor or very poor, 45% found them to be average, and about 11% found them to be good or very good. The overall rating out of 100 was 52%. Access to and accessibility of restrooms had an overall rating of 48.6%. About 43% thought they were very poor or poor, 35% found to be average, and 12% were very good or good. Visible and clear signage was rated 53.4% overall out of 100, with almost 39% poor or very poor, 33% average, and nearly 21% were good or very good. Respondents
+
+assessed accessibility to shops and malls as poor or very poor at about 42%, as average at about 33% and as good or very good at about 20%. The mean of all the ratings for accessibility to shops and malls was 52.6%. When asked to rate accessibility of restaurants, about 52% of respondents found restaurants to be poor or very poor, 26% rated them as average, and 15% believed they were good or very good. The mean rating for accessibility of restaurants was 47.6 per cent. Respondents found the accessibility of fast-food restaurants to be almost 44% poor or very poor, nearly 32% average and close to 15% good or very good. The mean percentage for accessibility to fast food restaurants was 49.6%
+The respondents' ratings of the accessibility of hospitals and doctors' offices, mosques and banks, including their ATM machines, are shown in Table 2. Hospitals and doctors' offices were the only category where good and very good accessibility was rated higher than poor and very poor: almost 45% versus a little more than 28%. About 22% of these spaces were deemed average. The average per cent rating was 62.6%. Mosques were rated 33% poor or very poor, about 22% average and more than 28% good or very good for PwD accessibility. The mean of the evaluations was 57.4%. Accessibility to banks and ATM machines were rated a bit over 36.5% poor or very poor, about 28% average and just over 27% good or very good for PwD accessibility. The mean of the assessments was 55%.
+In addition to specific locations, the survey asked respondents to give their opinion on the overall accessibility of the built environment and the respect the general public shows to PwD and their accessibility requirements using the same Likert scale. Table 2 also illustrates those evaluations. For overall built environment accessibility, respondents felt 53% of built environments were poor or very poor, 29.5% were average, and 12.5% good and very good. The overall rating was 48.6 %. When assessing public respect for PwD needs, almost 45% of respondents felt that respect for them was poor or very poor, 24% believed their respect was average and a little more than 19% expressed good or very good respect for their needs. Overall, PwD rated their respect as 51.6%.
+
+
+Table 2. Ratings for Hospitals and Doctor Offices, Mosques, Banks and ATM Machines as well as Overall Accessibility and Respect for PwD and their Accessibility Needs
+
+a) Ratings
+
+Per cent
+HOSPITAL/ DOCTOR
+ MOSQUES 
+BANKS/ ATM
+OVERALL ACCESSIBILITY
+RESPECT FOR ACCESSIBILITY
+VERY POOR
+10.9
+16.9
+16.4
+18
+14.8
+POOR
+17.5
+16.4
+20.2
+35
+30.1
+AVERAGE
+22.4
+33.9
+27.9
+29.5
+24
+GOOD
+37.7
+18.6
+24.6
+8.7
+15.8
+VERY GOOD
+7.1
+9.8
+2.7
+3.8
+3.3
+
+a) Grouped ratings
+
+Per cent
+HOSPITAL/ DOCTOR
+MOSQUES
+BANKS/ ATM
+OVERALL ACCESSIBILITY
+RESPECT FOR ACCESSIBILITY
+POOR & VERY POOR
+28.4
+33.3
+36.6
+53
+44.9
+AVERAGE
+22.4
+33.9
+27.9
+29.5
+24
+GOOD & VERY GOOD
+44.8
+28.4
+27.3
+12.5
+19.1
+
+a) Mean all ratings
+
+Per cent
+HOSPITAL/ DOCTOR
+MOSQUES
+BANKS/ ATM
+OVERALL ACCESSIBILITY
+RESPECT FOR ACCESSIBILITY
+RATINGS MEAN
+62.6
+57.4
+55
+48.6
+51.6
+Based on overall survey ratings and using a mean passing grade of a sixty-per cent, the only EP built environment locations that PwD respondents felt passed were hospitals and doctors' offices. As shown in Figure 9, all other surveyed locations had lower means.
+
+
+Figure 9. Graph of All Per cent Means for Accessible Environments
+
+
+It graphically demonstrates the difficulties PwD may have when encountering the built environment in the Eastern Province of KSA. In addition, the spaces that should have the most accessibility, such as medical facilities, only barely exceeded sixty per cent (62.6%). As documented in the research completed by Abu Tariah et al. (2018), Alkawai & Alowayyed (2017), Mulazadeh & Al-Harbi (2016), and this survey, most public accommodations in KSA lack accessibility. Ramps, restrooms, reception counters, doorways, egress, signage and much more are not meeting the accessibility standards published in the 2018 Saudi Building Code (Chapter 11) or the Accessibility Built Environment Guidelines for the Kingdom of Saudi Arabia (SBC-18, 2018; UABEG, 2010).
+Responses by Gender
+
+Looking at the survey responses by gender, males rated accessibility to most locations higher than females. Figure 10 illustrates that women found restrooms, signage and hospitals/doctor offices easier to navigate than men did. All other locations or categories were more difficult for women. The restroom data may be unexpected except that urinals are not at all common in KSA, so what could be an area of easier access for men located outside of the Middle East could be more difficult for men in KSA. Analysis of age for each gender showed a mean of about
+37.5 years for the males and a mean of about 39 years for the females, with a median of 32 years for both. This removes age differences to explain why women find their disability more difficult. Some of the variances could be cultural as
+
+women's movements, in general, may be constrained by family expectations. Another aspect could be that women with disabilities tend to be discriminated against more than men are, which is beyond the scope of this paper and possibly avenue for further research (Mertens et al., 2007).
+Figure 9. Graph of Means Separated by Gender
+
+
+Responses by Disability Type
+
+Another analysis based on disability type shows the disparity among the opinions of those who are differently abled. Figure 11 illustrates these variations. While KSA surveys show that people with vision difficulties are the largest group of PwD in the country and EP (52.5% of all disability types shown in Figure 12), they are the least acknowledged in the built environment. The ratings of ease of movement for vision-impaired survey respondents were significantly lower in all categories than overall ratings. Fast food establishments were the least challenging, with a mean difference of 1.4 %. All others were lower in a range between 3.2% and 7.8 %. Notable were the ratings for signage at 7.6 % lower and respect for accessibility at
+7.8 % lower than the overall average. People with mobility challenges are the second most populous group in KSA and EP (34% of all disability types), and their opinions on ease of accessing spaces were basically equal to the overall ratings. They found fast-food restaurants the most challenging, with a 2.2 mean per cent lower than typical. However, restrooms, signage and respect for accessibility rated over 2% higher than the overall rating. People with hearing limitations (4% of all EP
+
+disability types) rated accessibility within most spaces higher than the overall ratings. Restrooms were the only spaces they felt more challenged than typical. They rated them 2.6 % less accessible for them than the overall rating (GAStat PwDS, 2017).
+Figure 11. Graph of Means Separated by Disability Type
+
+
+Figure12. Graph of Per cent Disability Type Out of Total in Eastern Province. (GAStat PwDS, 2017)
+
+
+Comments from Respondents
+
+Respondents were asked to comment on each category as well as give their impressions of how it feels to be a PwD in Saudi Arabia. They were also asked where they felt the most comfortable as a PwD. The comments underscore the
+
+isolation and feelings of inequality stressed by the WHO, World Bank and UN documents (UNGA, 1994; UNDESA, 2004; WHO/WB, 2011; WHO, 2018). Not all
+respondents answered each category, and some gave multiple answers.
+
+Comments about ramps noted their absence (7 comments out of 13) and/or that they were unusable (9 comments). Common access problems included slippery 
+ surfaces, partial ramp and then stairs, ramps too steep, and two mentioned that they needed people to carry them into a building- one of which was in a healthcare setting.
+Comments regarding restrooms illustrate the challenges of these spaces when they are not adequately designed. Of the 21 comments listed, 2 simply stated that they do not use restrooms outside of their homes which has to severely limit their ability to work, socialize and move about. Five respondents stated they always needed assistance when using public restrooms because they are not accessible, while additional people mentioned that public services either did not exist (4 comments) or what were there were non-accessible (6 comments). Slippery floor surfaces also seemed to be a concern (3 comments).
+For signage and wayfinding, the ability to view signage and adequate signage seemed to be the most concerns with PwD respondents. Of the 32 comments, 14 mentioned that the signs were either difficult to see (8 comments) or too high to see from a wheelchair (6 comments). Ten additional requests were for Braille signage, and 6 respondents asked for more signage since they felt existing signage was insufficient. Other comments mentioned that PwD required guides to escort them through buildings since wayfinding was not adequate (2 comments).
+When asked about level changes, respondents to this question (6) felt too few buildings provided elevators, and if they did, they were too small for wheelchair access. This limits access to facilities, especially in restaurants where the family 
+ and female dining, due to cultural customs, is almost always above ground floor level.
+Eight PwD made comments on the accessibility of shopping and malls. Their answers had no specific pattern but ranged over the gamut of typical PwD challenges. The spacing in stores is too tight for movement, cashier counters are 
+ too high to reach from a wheelchair, floors are slippery for wheelchair and crutch
+
+users, no Braille signage for wayfinding or to even know what store the person is entering, inadequate acoustic control that makes the spaces loud and 
+ uncomfortable for people with diminished hearing. One respondent specifically said they could not go there alone due to the environmental barriers. Conversely, 32 respondents listed local malls and IKEA as their best places to go due to wide main 
+ corridors, accessible restrooms in IKEA and one of the malls, and overall ability to move independently through the spaces.
+Although participants rated healthcare settings as having the highest accessibility for PwD, the comments (10) reflected areas where improvement is needed. Entry into hospitals is difficult; one respondent mentioned 'stairs everywhere.' Once inside, 3 respondents commented on how narrow the corridors were and that it was difficult for them to get into and fit the spaces allowed. Two respondents stated the reception desks were too high. Navigation through the spaces concerned 4 respondents. They mentioned poor signage, difficulty communicating- specifically asking for employees with sign language- and that often poor design of the space required them to need people to guide them through the facility rather than move independently.
+Mosques earned the next highest rating by the survey takers. However, here too, there were comments (10) on areas for improvement. Half commented on general accessibility to the building- entrance steps with no ramps. Other mentions were
+ lack of accessible restrooms, no Braille signage, no accessibility to upper levels for 
+ prayer, and no place for wheelchair seating. Two reduced hearing participants enjoyed the quiet of the mosque and that only one person at a time spoke, enabling them to hear more clearly.
+Restaurants and fast food establishments will be analyzed together since they earned similar comments from respondents. There was a total of 22 comments, with the most revealing being that one participant stopped going out to restaurants with friends because it was too difficult, and the person felt they embarrassed their friends. Another mentioned that they always travel with an assistant to help them. Eight people said that the dining area was inaccessible to them since it was located on an upper level with no available elevator. Six felt the spacing in the restaurant was too tight, and they could not manoeuvre well. Three commented on
+ inaccessible restrooms. Two referenced that the noise level in these places is too
+
+high for their comfort, one asked for Braille menus, and another person mentioned that the service counters in fast-food restaurants were too high.
+When commenting on banks, respondents mostly critiqued automatic teller machines (ATM) rather than the bank facilities as a whole. Many respondents mentioned that they interfaced with their banks and ATMs by car, so access was not difficult. Eight people mentioned aspects they would like improved. Three said the ATMs were too high to reach with a wheelchair, two asked for Braille on the ATM keys, and an additional two requested signage to make bank accessibility clearer. One person said that staff with sign language ability would help them.
+The survey requested comments on PwD opinion of the overall respect they felt the public had for accessible features. Parking spaces were given as an example and most of the seven comments referred to them. Four people said that if there were PwD parking spaces, no one respected them or left them open for access. Two others commented that there were not enough spaces arranged, or when they were, they did not allow full access to the facility they were using; there were no ramps or sidewalks were too narrow. One person commented that the public mostly does not respect PwD rights. This impression is expanded in the section below on how PwD people feel when they cannot access places they want to visit.
+To locate structures that PwD felt accommodated their needs, they were asked to describe their preferred place to visit. There were 128 responses, with some people listing more than one location. The answers were grouped by overall locations, as shown in Figure 13. Malls and IKEA received the highest percentage, with a total of 25% of the comments (32 responses) saying these locations were the best. Explanations included freedom of independent movement and accessibility of restrooms. Hospitals ranked next with 12.5% of the comments (16), saying they were the easiest for PwD to access. The next highest location is outside KSA, with 15 comments or almost 12% listing other countries as more accessible. Mosques (8.5%) and banks (7%) were deemed accessible in 20 comments. Seven remarks (5.5%) stated that the respondents felt in their experience, there was nowhere locally to go that was accessible. The same number listed parks as their best place due to freedom of movement and wide sidewalks. Airports and restaurants were each the favourite spaces of 4.5% of the comments (6 per category). These
+
+respondents mentioned that wide corridors and good signage made airports easier to navigate.
+Figure 13. List of Preferred Places by Per cent
+
+
+The last few places include the Aramco Campus and personal homes with 4% each (5 comments). Aramco is a large international oil company that has enforced building codes in its EP campus structures for years, making access to most of their spaces much easier for PwD. Local hotels that are part of large international chains that follow building accessibility rules regardless of where they build are rated 3%. The commenters (4) appreciated the accessible ramps and restrooms. Two comments (1.5%) mentioned that accessibility was best on the way to and at the pilgrimage 
+ site in Makkah. King Saud University in Riyadh has a large medical complex and library that 1.5% of the comments (2) reflected were good places for PwD. One comment indicated that the person's best place was a spa because it was quiet and
+ restful. 
+
+Respondents were asked how they felt when architectural barriers prevented them from accessing the places they wanted to visit. The answers to this question were poignantly illuminating and supported the stance that lack of accessibility is a human rights issue. There were 106 comments made to this question, and of them, 79 (74.5%) referred to lack of rights and the feelings that caused. Respondents said that the absence of accessibility made them feel lonely, sad, isolated, depressed, frustrated, annoyed, forgotten about, ignored, unappreciated, embarrassed, and uncomfortable. More were specific about their reactions: being prevented from
+
+participation made them feel disrespected, or as a human being who does not have rights, less than others, feeling their disability, and that no one cares; they are a stranger their own country. The remaining 23.5% of the comments (25) refer to a desire to be independent and how not having that freedom feels. PwD stated that it is hard to move alone, they do not feel safe, and because they do not want to embarrass or bother the people with them, they just want to stay home. Two people mentioned that they wanted to leave KSA and find a place where PwD were respected.
+The final question asked participants what improvements they would like to make the built environments of KSA better for them as PwD. There were 160 responses. The most requested area to fix were ramps. Twenty-three per cent of the comments
+(37) asked for more ramps and/or better-constructed ramps. One respondent said, 'build ramps according to codes, not only adding them randomly.' In addition, 19% of the comments (31) stated that overall building design should accommodate PwD. The request was that buildings be created for 'specialized people' with everything designed for PwD needs. Other comments (27 or 16.5%) focused on accessibility to
+ upper levels. Whether elevators do not exist, or if they do, they are too small for wheelchair access. Spaces mentioned include upper floors in general as well as 
+ restaurants, classrooms, shopping and homes. Twenty-three comments (14%) referenced Braille availability. The requests were for Braille signage, elevators with 
+ Braille, as well as detectable floor and sidewalk surfaces. General accessibility in
+ restrooms (4%), wider hallways, sidewalks and doors (5.5%), safer flooring material 
+ (4%), accessible parking (3%), and lowered reception desks (2%) were also 
+ mentioned. All of these items are basic egress and/or accessibility considerations that should exist in every built environment. Nine comments refer to navigating spaces with hearing loss. Better acoustics and sound systems (3%), specialized 
+ equipment to assist with hearing (2%), voice instructions and employees with sign 
+ language (2.5%) were important improvements PwD requested.
+
+
+Conclusion
+
+This research surveyed EP residents who experience the challenges presented by a built environment inhospitable to PwD. The desire to be accepted and treated as equals was shown in the comments made by the interviewees. Several stated that
+
+they have rarely found accessible buildings in Saudi Arabia. One interviewee requested that designers create spaces that "make our lives easier because we are already suffering." This research implies that for most of the respondents, the built environment in the EP has limited accessibility. There is a continual struggle to accomplish activities that should be easily accessible.
+While KSA has the admirable goal of increasing inclusion for PwD in the workplace and is working on enforcing accessibility in newer structures, this study shows that the following improvements must be completed to make built environments available to all PwD. First, training of building and design professionals must be mandatory. There should be a full cadre of building code specialists working in Saudi Arabia, from architects and designers to plan reviewers, contractors and building inspectors. Accessible built environments will not happen without this.
+Second, uniform enforcement of KSA building and accessibility codes is essential. A review of two well-known international restaurants that follow building codes with their structures in the United States recently (late 2019) opened facilities in newly constructed EP buildings, and their accessibility is far below standards. Neither site had accessible restrooms, access to upper levels (containing the female restrooms in 
+ one establishment) was by stairs only, doorways were too narrow for wheelchair 
+ access. Building code documents and good intentions are not enough; the regulations require enforcement.
+Third, it is critical to include PwD in accessibility decisions, as shown by the PwD comments in this paper and stated in Rule 5 of SREOPwD. Their voices and demands could assist in finding the best approaches to designing spaces that are accessible by all.
+The ability to move freely and independently, pursue employment, live comfortably, and attain equalization of opportunities is a basic human right frequently denied to PwD residents of the Eastern Province in Saudi Arabia. Recently updated professional standards as found in the SBC 2018 and social change directives included in Vision 2030 hopefully will address these issues. Limitations of this study include the small sample size. Access to PwD is difficult and mostly through family members. Larger sample sizes could assist with reinforcing the data in this paper. Further research as KSA implements more of the proposed
+
+transformations could document whether the changes increase the quality of life for PwD in Saudi Arabia.
+
+Acknowledgements
+
+The author would like to thank Prince Mohammad bin Fahd University for support of this research. Thank you also to the students and their families who were willing to share their experiences as PwD.
+
+References
+
+Abu Tariah H., Ghasham N., Alolayan M., Alahmadi B., Alqarni A. (2018). Wheelchair accessibility of mosques in Riyadh. Work, 60(3),385-391. doi: https://doi.org/10.3233/wor-182758
+Al-Jadid, M. S. (2013). Disability in Saudi Arabia. Saudi Medical Journal, 34 (5), 453-460. https://pubmed.ncbi.nlm.nih.gov/23677260/
+Alkawai, F.M. & Alowayyed, A. S. (2017) Barriers in accessing care services for physically disabled in a hospital setting in Riyadh, Saudi Arabia, cross-sectional study. Journal of Community Hospital Internal Medicine Perspectives, 7(2), 82-86, doi: https://doi.org/10.1080/20009666.2017.1324237
+Crews, D.E., & Zavotka, S. (2006). Aging, Disability, and Frailty: Implications for Universal Design. Journal of Physiological Anthropology, 25(1), 113-118. doi: https://doi.org/10.2114/jpa2.25.113
+Enginz, E.B., & Savli, H. (2016). Examination of accessibility for disabled people at metro stations. International Journal of Architecture and Planning, 4(1), 34-
+48. doi: https://doi.org/10.15320/iconarp.2016120307
+
+Gamache, S., Routhier, F., Mortenson, B., Lacroix, E., Miller, W. C., Martin Ginis, K.A., (2020). Objective evaluation of environmental obstacle encountered in two Canadian urban settings by mobility device users. Journal of Accessibility and Design for All, 10(1), 98-123. doi: https://doi.org/10.17411/jacces.v10i1.186
+General Authority for Statistics. (2017). Persons with Disability Survey 2017. Retrieved from https://www.stats.gov.sa/sites/default/files/disability_survey_2017_en.pdf.
+
+
+General Authority for Statistics. (2018). Population & Demography; Population In Eastern Region by gender, age group, and nationality (Saudi/Non-Saudi). Statistical Yearbook of 2018 (54), 1. Retrieved from https://www.stats.gov.sa/en/6135.
+Hakim, G., & Jaganjac, N. (2005). A note on disability issues in the Middle East and North Africa (English). World Bank, Washington,
+D.C. http://documents.worldbank.org/curated/en/912231468110689787/A-note- on-disability-issues-in-the-Middle-East-and-North-Africa
+Jamaludina, M. and Kadir, S. A. (2012). Accessibility in Buildings of Tourist Attraction: A case studies comparison. Procedia - Social and Behavioral Sciences 35, 97 – 104. doi: https://doi.org/10.1016/j.sbspro.2012.02.067
+Japan International Cooperation Agency Planning and Evaluation Department (JICAPED). (2002, March). Country profile on disability, Kingdom of Saudi Arabia. http://siteresources.worldbank.org/DISABILITY/Resources/Regions/MENA/JICA_Sau di_Arabia.pdf
+Kadir, S.A., Jamaludin, M. & Rahim, A.A. (2012). Building Managers' Perception in Regards to Accessibility and Universal Design Implementation in Public Buildings: Putrajaya case studies. Procedia - Social and Behavioral Sciences 5, 129-136. doi: https://doi.org/10.1016/j.sbspro.2012.02.071
+Kingdom of Saudi Arabia. (2000) Disabled Care System. Royal Decree No. M/37 dated 9/23/1421 (19/12/2000). https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/872950d8-7059-41fd-a6f1- a9a700f2a962/1#
+Kirschner, K.L., Breslin, M.L. & Iezzoni, L.I. (2007). Structural Impairments That Limit Access to Health Care for Patients with Disabilities. Journal Of the American Medical Association, 297(10), 1121-1125. doi: https://doi.org/10.1001/jama.297.10.1121
+Mertens, D., Wilson, A. & Mounty, J. (2007). Gender equity for people with disabilities in S. Klein et al. (Ed.), Handbook for Achieving Gender Equity through Education. Routledge; 2nd edition (pp. 583-604). ISBN-13 : 978-0805854534.
+Meyers, Thomas. (2014) The International Building Code and The Kingdom of Saudi Arabia. Saudi Aramco Loss Prevention Department. From https://studylib.net/doc/18191715/the-international-building-code%C2%AE-and- the-kingdom-of-saudi...
+Michailakis, Dimitris. (1997). Government Action on Disability Policy, A Global Survey. Liber Publishing House, Sweden. https://www.independentliving.org/standardrules/UN_Answers/UN.pdf
+
+
+Ministry of Human Resources and Social Development (HRSD). (2017). Mega and large establishments should pursue Mowaamah certificates to prepare friendly- disability environment next month. https://hrsd.gov.sa/en/news /mega-and- large-establishments-should-pursue-mowaamah-certificates-prepare-friendly- disability.
+Ministry of Human Resources and Social Development (HRSD). (2019). Alignment: 8 criteria for obtaining a "harmonization" certificate for establishments' commitment to providing a suitable work environment for persons with disabilities. Translated from: https://hrsd.gov.sa/ar/news
+
+Ministry of Labor and Social Development. (2018). 150 firms obtain 'Mowaamah' certificates due to preparation of disability-friendly environment: MLSD. https://hrsd.gov.sa/en/news/150-firms-obtain-%E2%80%98mowaamah%E2%80%99- certificates-due-preparation-disability-friendly-environment-mlsd
+Mowaamah. (2017). Retrieved from https://www.mowaamah.sa
+
+Mulazadeh, M. A. and Al-Harbi, T.S. (2016). Design of the Built Environment and the Integration of Wheelchair Users in the Kingdom of Saudi Arabia: Commentary and Exploratory Study. Journal on Development Disabilities, 22 (2), 121-137. Retrieved from https://oadd.org/wp-content/uploads/2016/12/41023-JoDD-22-2- v10f-121-137-Mulazadeh-and-Al-Harbi.pdf
+National Transformation Program; Delivery Plan 2018- 2020. (2016). Kingdom of Saudi Arabia.Retrieved from https://www.apucis.com/frontend- assets/porto/initial- reports/NTP,P20English,P20Public,P20Document_2810.pdf.pagespeed.ce.4jQO6xxX Vw.pdf
+O'Day, B., Palsbo, S., Dhont, K. & Schemer, J. (2002). Health Plan Selection Criteria by People with Impaired Mobility. Medical Care, 49(2), 732-742. doi: https://doi.org/10.1097/00005650-200209000-00003
+Poldma, T., Labbé, D., Bertin, S., De Grosbois, E., Barile, M., Mazurik, K., Desjardins, M., Hakim Herbane, H., Artis, G. (2014). Understanding people's needs in a commercial public space: About accessibility and lived experience in social settings. ALTER, European Journal of Disability Research 8, 206-216. http://dx.doi.org/10.1016/j.alter.2014.02.007
+Prince Salman Center for Disability Research. (2010). Universal Accessibility Built Environment Guidelines for the Kingdom of Saudi Arabia 1431H – 2010 (UABEG). Prince Salman Center for Disability Research- Riyad. ISBN: 978-603-00-5756-6. http://v2.kscdr.org.sa/media/16933/uap-be-en.pdf.
+
+
+Rbeihat, S. (2006). Global Survey on Government Implementation of the Standard Rules—Results Analysis. South-North Center for Dialogue & Development, Amman, Jordan, for the Office of the UN Special Rapporteur on Disabilities http://www.un.org/disabilities/documents/srreports/gsr30jan07.doc
+Saudi Building Code National Committee. (2007). Saudi Building Code, 1st edition. https://rise.esmap.org/data/files/library/saudi- arabia/KSA/EE/27,30_the%20Saudi%20Building%20Code%20(SBC)..pdf
+Saudi Building Code National Committee. (2018). Saudi Building Code-18. https://sbc.gov.sa/En/Feedback/Pages/SBC_2018.aspx
+Saudi Building Code National Committee. (2018). FAQ: What are the phases of implementing the code? from https://www.sbc.gov.sa/En/ConnectUS/ Pages/FAQ.aspx.
+Saudi Gazette. (2019). 8 criteria for obtaining Mowaamah Certificate. Saudi Gazette. https://saudigazette.com.sa/article/583823
+Saudi Gazette. (2018). Saudi Building Code mandatory for large projects. Saudi Gazette. https://saudigazette.com.sa/article/532737
+Soltania, S.H.K, Shamb, M., Awangb, M. & Yamanb, R. (2012). Accessibility for Disabled in Public Transportation Terminal. Procedia - Social and Behavioral Sciences 5, 89 – 96. doi: https://doi.org/10.1016/j.sbspro.2012.02.066
+United Nations Department of Economic and Social Affairs. (2004). Reaching the most vulnerable: proposed supplement to the Standard Rules on the Equalization of Opportunities for Persons with Disabilities. [Annex E/CN.5/2004/4]. https://www.un.org/development/desa/disabilities/resources/r eaching-the-most-vulnerable-proposed-supplement-to-the-standard-rules-on-the- equalization-of-opportunities-for-persons-with-disabilities-annex-ecn-520044.html
+United Nations General Assembly. (1994). Standard Rules on the Equalization of Opportunities for Persons with Disabilities. Resolution Adopted by The General Assembly, Forty-eighth session, Agenda item 109.
+https://www.un.org/disabilities/documents/gadocs/standardrules.pdf
+
+Vision 2030. (2016). Kingdom of Saudi Arabia. https://vision2030.gov.sa
+
+World Health Organization (WHO). (2018). 10 Facts on disability. From https://www.who.int/news-room/facts-in-pictures/detail/disabilities
+World Health Organization (WHO) & The World Bank (WB). (2011). World report on disability. Retrieved from https://www.who.int/disabilities/world_report/2011/report.pdf
+
+Company websites showing Mowaamah certification: https://www.zahid.com/mowaamah-golden-certificate/
+http://www.bahra-cables.com/Mowaamah/
+
+http://www.bahra-electric.com/Pages/BE_CSR.aspx
+
+https://www.alhaya-medical.com/mowaamahs-certificate/
+
+https://www.almarai.com/en/2017/12/28/almarai-first-get-mowaamah- certification/
+https://abuljadayelco.com/mowaamah-certificate/
+
+http://almanahospital.com.sa/Eng/NewsDetails/agh_receive_mowaamah_award/2 077
+http://www.riyadhpharma.com/newweb/?attachment_id=38145
+
+https://zamilindustrial.com/index.php?r=mediaCenter/pressReleaseDetails&id=37 0&lang=en
+https://www.nesma.com/newpage70e7fa00
+
+Appendix 1: Survey
+
+
+
+
+
+
+
+
+
+
+How to cite this article:
+
+
+
+
+The Journal of Accessibility and Design for All, ISSN 2013-7087, is published by the Universitat Politècnica de Catalunya, Barcelona Tech with the sponsoring of Fundación ONCE. This issue is free of charge and is available in electronic format.
+This work is licensed under an Attribution-Non Commercial 4.0 International Creative Commons License. Readers are allowed to read, download, copy, redistribute, print, search, or link to the full texts of the articles, or use them for any other lawful purpose, giving appropriated credit. It must not be used for commercial purposes. To see the complete license contents, please visit http://creativecommons.org/licenses/by- nc/4.0/.
+JACCES is committed to providing accessible publication to all, regardless of technology or ability. Present document grants strong accessibility since it applies to WCAG 2.0 and accessible PDF recommendations. Evaluation tool used has been Adobe Acrobat® Accessibility Checker. If you encounter problems accessing content of this document, you can contact us at jacces@catac.upc.edu.

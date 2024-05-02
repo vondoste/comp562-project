@@ -1,0 +1,357 @@
+Social Science & Medicine 297 (2022) 114810
+
+
+
+
+
+
+
+
+"Dirty looks": A critical phenomenology of motorized mobility scooter use 
+Alfiya Battalova a, Laura Hurd b, Sandra Hobson c, R. Lee Kirby d, Richelle Emery e,
+W. Ben Mortenson a,f,g,*
+a Department of Occupational Science and Occupational Therapy, University of British Columbia, Vancouver, BC, Canada
+b School of Kinesiology, University of British Columbia, Vancouver, BC, Canada
+c School of Occupational Therapy, University of Western Ontario, London, ON, Canada
+d Division of Physical Medicine and Rehabilitation, Department of Medicine, Dalhousie University, Halifax, NS, Canada
+e Vancouver Coastal Health – Vancouver Home & Community, Vancouver, BC, Canada
+f International Collaboration on Repair Discoveries (ICORD), Vancouver, BC, Canada
+g GF Strong Rehabilitation Research Program, Vancouver, BC, Canada
+
+
+A R T I C L E I N F O 
+
+Keywords:
+Wheeled mobility device Scooter
+Critical phenomenology Lifeworlds
+Visibility Invisibility
+A B S T R A C T 
+
+The use of motorized mobility scooters has become increasingly prevalent. Drawing on the critical- phenomenology and disability-studies literature, this study explored the embodied nature of scooter use among 20 new scooter users. The analysis revealed four themes: 1) Navigating the social environment and being (un)seen presented a paradox of how hypervisibility and invisibility can both exist; 2) Transitioning to scooter use revealed the affective component of becoming a scooter user despite the underlying desire to avoid unwanted attention; 3) Experiencing accessibility challenges en route and at destinations demonstrated that the inconsistency in accessibility along different routes unavoidably makes disability more visible; 4) Strategic and personalized use of devices for mobility illustrated how reliance on other mobility devices (e.g. canes and walkers) can be used as a strategy to circumvent the barriers and lessen the visibility of disability. The lifeworlds of "lived relation", "lived body", "lived space", and "lived things" encapsulated the multi-faceted experiences of new scooter users. The critical phenomenology of scooter use emphasized the need for creative strategies to address the physical and attitudinal barriers as well as scooter design-related concerns.
+
+
+
+Introduction
+
+In 2012 it was estimated that motorized mobility scooters [hereafter referred to as "scooters"] were used by approximately 108,550 Cana- dians (Smith et al., 2016). The prevalence of scooter use among the North American population has increased since 2004 (Smith et al., 2016) potentially as a result of their lower cost and reduced stigma compared to power wheelchairs (Mortenson and Kim, 2016). Scooters are used to facilitate daily activities and enable social participation (LaPlante and Kaye, 2010; Mortenson and Kim, 2016).
+Most of the research on scooters is quantitative in nature (Samuels- son and Wressle, 2014; Sund et al., 2015; Thoreau, 2019) and few studies have explored the experiences of users. Some qualitative research has examined how the environment and participation in ac- tivities facilitate wheelchair and scooter use (Ripat et al., 2018). Other qualitative studies have considered the scooters' role in building users'
+independence, ability to maintain friendships, carry out daily tasks, and remain connected with wider communities (Fomiatti et al., 2014; May et al., 2010). Although these studies have recognized the barriers that scooter users face when navigating indoor and outdoor spaces, few have incorporated a disability studies lens, specifically in relation to hypervisibility/invisibility.
+Disability studies challenges the dominant biomedical model (which focuses on bodily impairment) by shifting attention to the environ- mental, structural, and attitudinal barriers that create disability (Bick- enbach et al., 1999; Oliver, 2013). This social model of disability suggests that disability is a result of physical and societal barriers rather than characteristics of the individual (Barnes, 2019; Goodley, 2014). However, by focusing solely on structural and environmental barriers to inclusion, the social model has been criticized for overlooking the embodied experiences of people with disabilities (Wieseler, 2018).
+The concepts of invisibility and hypervisibility are lenses that has
+
+
+* Corresponding author. GF Strong Rehabilitation Research Program, UBC Department of Occupational Science & Occupational Therapy, 4255 Laurel St., Van- couver, BC, V5Z 2G9, Canada.
+E-mail address: ben.mortenson@ubc.ca (W.B. Mortenson).
+
+https://doi.org/10.1016/j.socscimed.2022.114810
+Received 17 May 2021; Received in revised form 15 October 2021; Accepted 10 February 2022
+Available online 17 February 2022
+0277-9536/© 2022 Elsevier Ltd. All rights reserved.
+
+been used to explore how certain places, spaces, policies and practices in contemporary society exhibit and celebrate some bodies while erasing and denying others (Casper and Moore, 2009). As such, it is a way to highlight the social context without dismissing the role of the embodied experiences (Garland-Thomson, 2006; Mitchell, 2001), which makes it particularly relevant for the exploration of disability experiences. Disability studies has built on other research that explores how the bodies are made invisible as a result of their belonging to marginalized groups (Rajan-Rankin, 2018; Welle et al., 2006). "Hypervisibility" is a concept unique to the experience of disability and is connected to the idea of staring, being remarked on, noticed, that has been explored extensively in disability studies literature (Garland-Thomson, 2006; Spirtos and Gilligan, 2020).
+Based on this theorization, some studies have explored how the
+embodiment of both invisibility and hypervisibility are reproduced and experienced in everyday lives of people with disabilities. For example, Zitzelsberger (2005) uncovered the ways in which women's bodies were highly noticed, yet their capacities and lives remained unseen. The narrow range of normative appearances and capacities of socially acceptable bodies simultaneously resulted in heightened visibility as the "other" and invisibility/invalidation of their identities and abilities (Zitzelsberger, 2005). Pieri (2019) argued that disabled subjects are embedded in systems of power that mark them as deviant and create the political, social, and cultural conditions of invisibility in which they are positioned.
+A number of studies have underscored how assistive technologies contribute to and augment the paradox of invisibility and hyper- visibility, by emphasizing the stigmatizing nature of assistive mobility devices (Fomiatti et al., 2014; Labb´e et al., 2020; Pettersson et al., 2007). This paradox makes people with disabilities feel like their needs are neither recognized nor respected and that their bodies are a spectacle, that they are objects of stare (Garland-Thomson, 2006). The framework of visibility shifts the discussion from the medicalized discourses about disability to the recognition of structural barriers (Linton, 1998), including the attitudes toward people with disabilities. Wheelchair users may be treated as "nonpersons" in public environments, which may render them figuratively "invisible" (Cahill and Eggleston, 1994; Gae- te-Reyes, 2015). Previous work (Jang et al., 2020) concluded that although a scooter may facilitate mobility, its use is also a signifier of aging and frailty that negatively affects how users perceive themselves and how others perceive them.
+Phenomenological accounts of embodiment have been advanced as a means of overcoming the limitations of a rigid impairment/disability dichotomy by recognizing that the materiality of impairment cannot be separated from the social construction of disability (Paterson and Hughes, 1999). A few phenomenological studies have explored lifeworld perspectives of assistive technology (Papadimitriou, 2008; Pettersson et al., 2016; Porter et al., 2011) by focusing on how embodiment changes with the use of wheeled mobility devices. Our study builds on this research and explores how these devices contribute to the bodies' invisibility or hypervisibility in social life.
+The lifeworld as an aspect or domain of phenomenological experi- ence is an existential world that serves as an entry point to our under- standing of lived experiences (Adams and van Manen, 2008). Research on lifeworlds is generally guided by the phenomenological hermeneutic tradition, in which a person's lifeworld is comprehended through a careful interpretation of his/her experiences (Berndtsson, 2018). The lifeworlds of lived relation (relationality), lived body (corporeality), lived space (spatiality), and lived things (materiality) are existential in the sense that they belong to everyone's life world—they are universal themes of life (van Manen, 2014). The experiences of people using as- sistive mobility devices have been analyzed from a phenomenological perspective but not necessarily focusing on scooters (Pettersson et al., 2007). Standal (2011) described how the manual wheelchair "becomes a part of the […] user's habitual being-in-the-world" (pg. 184). For those unable to independently ambulate after a spinal cord injury, becoming
+"enwheeled" often entails a transformation in which they come to perceive the wheelchair as an extension of the self (Papadimitriou, 2008). Gaete-Reyes (2015) suggested that interdependent practices of movement and mobility are essential to understanding the embodied, everyday experiences of wheeled mobility device users. By focusing on new scooter users, this study builds on the literature that explores complex relationship between bodies and assistive mobility devices and incorporates critical disability studies perspectives through critical phenomenology.
+In contrast to traditional phenomenology, which has been accused of being apolitical and downplaying the material/structural conditions of oppression (Titchkosky and Michalko, 2012), critical phenomenology bridges the divide between impairment and disability by interrogating the structures that privilege some and marginalize others (Lajoie, 2019). Critical phenomenology insists that the relational and dynamic encounter between the person and the world is key to our understanding of the nature of bodily subjectivity and the experience of illness and disability (Lajoie, 2019). Critical phenomenology engages in a discus- sion of the lived experiences of power and oppression that goes beyond an assumption that we can give a rigorous account of consciousness without addressing the contingent social structures (Guenther, 2020). As a philosophical practice and a way of approaching political activism, critical phenomenology identifies the structures of privilege and ques- tions the practices that marginalize and pathologize others.
+As Mladenov (2016) explained, the exclusion of people with dis-
+abilities originates from the mundane, the everyday, the ordinary – from the lifeworlds discussed in this paper. In challenging the depoliticized tenets of phenomenology, Abrams (2014) proposed a phenomenology of disability that demands that we locate personhood in the midst of the shared rules and expectations that are used to coordinate daily social relations and sense-making in the shared human life world. The phe- nomenology of disability recognizes that the inability to claim subjec- tivity is not, in itself, a property of problem bodies. Rather, it is a property of exclusionary social and material organization (Gaete-Reyes, 2015; Paterson and Hughes, 1999). By engaging with the tenets of the phenomenology of disability and by attending to the concepts of invis- ibility and hypervisibility, this study examined scooter users' lived ex- periences related not only to the description of their social and the physical environments but also to the critical understanding of the bi-directional relationship between new scooter users and their envi- ronments. Given that the experiences of new scooter users have not been explored from this perspective, this study aims to develop a critical phenomenological understanding of the embodied nature of scooters and explores how new scooter users navigate the spaces that place them on the spectrum of visibility in the lifeworlds in which they interact.
+
+Method
+
+This study draws on data from semi-structured interviews that were conducted with participants in a larger mixed-methods study (Morten- son et al., 2017, 2021), that involved a scooter training intervention. The study received ethical approval from the local University Research Ethics Board and Health Authority. All study participants provided written informed consent.
+
+Research participants and data collection
+
+To be included in the study, participants had to be new scooter users, who could independently transfer on and off of a scooter, and who could read, write, and speak English. Each participant was interviewed up to four times and at different stages of their scooter training. Participants were recruited using posters and brochures that were distributed among scooter supplier vendors, the Vancouver Coastal Health Centre, com- munity organizations (including the Arthritis Society and Heart and Stroke Foundation), and at public events for seniors.
+All participants were interviewed at the start of the study (before
+
+training) and, barring study attrition, at 12-weeks, 6-months and 1-year time points. Examples of the questions that participants were asked included: What kind of problems do you have getting around currently (using manual wheelchair/walker/cane, if applicable)? How do you feel about using a manual wheelchair/power wheelchair/walker/cane? What are you hoping a scooter might mean to your everyday life? How do other people (strangers, family, caregivers, friends, etc.) respond to you when you are using your scooter? How has your use of the scooter changed over the course of this study? If you could build the perfect scooter for you now/in the future, what would it be like?). Some interview questions were repeated at different time points to explore potential changes over time. Three master's students, who were trained and supervised by the senior author, conducted the interviews.
+The 20 participants had an average age of 69. Diagnoses accounting
+for scooter use varied and included arthritis, stroke, Parkinson's disease, multiple sclerosis, and heart problems. Pseudonyms have been used in what follows to protect the identity of participants (Table 1).
+
+Data analysis
+
+The analysis focused on what is ordinarily hidden and/or taken-for- granted in scooter users' everyday experiences (Wright-St Clair, 2014). In particular, we considered our participants' explanations for and in- terpretations of their embodied scooter use experiences (Nayar and Stanley, 2014). We used van Manen's (2014) method to focus more explicitly on people's lifeworlds through the concepts of "lived body", "lived space", "lived relation", and "lived things" to explore not only the connection between bodies and scooters but also between people, other devices and the physical environment. Drawing on critical phenome- nology, the analysis centered around orientations and movement, and the way in which the world has been designed for some bodies more than others (Ahmed, 2007).
+Recognizing the personal experiences, positions, emotions, and
+worldviews of the participants, we reflected on our role in co- constructing the findings, and implemented strategies to better attend to the perspectives of participants (e.g., avoiding leading or closed questions) (McHugh, 2020). The research team consisted of individuals with backgrounds in disability studies, sociology, assistive technology, medicine, and occupational therapy. Some members of the research team also had lived disability experiences that informed our conceptu- alization of invisibility and hypervisibility through disability episte- mology in which knowledge/expertise is produced through an embodied, biographical experience that people with disabilities have as
+
+Table 1
+Participant pseudonyms, demographics, and primary assistive devices at base- line (N = 20).
+Pseudonym
+Gender
+Age (years)
+Primary Assistive Device at Baseline
+Sally
+Female
+83
+Walker
+Millie
+Male
+75
+Scooter
+Rhea
+Female
+86
+Scooter
+Paige
+Female
+76
+Walker
+Theo
+Male
+62
+Cane
+Rafael
+Male
+38
+2 Canes and Scooter
+Abby
+Female
+65
+Walker
+Nora
+Female
+82
+Cane
+Ayesha
+Female
+45
+Scooter
+Judy
+Female
+91
+Poles for short distance, walker for longer
+Marika
+Female
+67
+Walker
+Anthony
+Male
+74
+Walker
+Anila
+Female
+78
+Scooter
+Dana
+Female
+77
+Cane/walking stick
+Candice
+Female
+52
+Scooter
+Graham
+Male
+56
+Scooter
+Omar
+Male
+76
+Cane/walking stick
+Robin
+Female
+69
+Walker
+Marcus
+Male
+51
+Cane
+Farah
+Female
+62
+Scooter
+a result of facing obstacles or problematic situations (Nijs and Hey- lighen, 2015). After immersing ourselves in the data through multiple readings of the transcripts, we conducted a line-by-line analysis, high- lighting any meaning units in phrases or paragraphs that related to the participants' experiences of using a scooter. We then interpreted the meanings of these phrases in context, labeled them, sorted them into conceptually mediated thematic clusters, and listed them as major themes.
+
+Findings
+
+We identified four themes through our analysis. Navigating the social environment and being (un)seen demonstrated the stigma that partici- pants experienced from other people. Transitioning to scooter use described how participants struggled to embrace scooters into their daily lives. Experiencing accessibility challenges en route and at destinations revealed the challenges of navigating outdoor and indoor spaces in a scooter. Strategic and personalized use of devices for mobility illustrated how participants relied on other mobility devices and described their reasons for doing so.
+
+Navigating the social environment and being (un)seen
+
+This theme focused on the participants' perceptions of embodied visibility, which shifted over time and space. "Lived relation" refers to how the participant's everyday encounters contributed to the degree of their visibility and/or invisibility when using a scooter. Hypervisibility was often associated with unwelcome attention and/or insensitive questions and comments, whereas invisibility entailed the tangible experience of not being seen or recognized as well as a loss of agency. Both of the extremes often co-existed. Marika described the attitudinal invisibility that she encountered through the non-recognition of her autonomy and ability to make independent decisions about her scooter.
+She wanted to know if she could start the scooter for me, turn it on. Like really silly, you know. It's sort of that, well, I call it the super- market mentality. You get really funny, stupid questions that people would never ask their friends or their family, but they'll ask some stranger, yeah. Really strange behavior … So some people almost feel like they have to help you. Other people are genuine, and they don't understand that there's a button I can push to get it [the scooter] started.
+The attitudes of strangers were often revealed by comments that were perceived as inappropriate. Robin stated, "I found that people tend to make stupid jokes. They say, oh well don't get yourself in a race, they are strangers usually."
+The negative and/or insensitive comments contributed to the expe- riences of being objectified, or being made hypervisible. Despite their good intentions, some peoples' actions were not perceived or experi- enced as helpful by scooter users.
+People will open the door, they seem like sometimes they are either oblivious to it, or they're over helpful where they try to open the door, but they don't realize that they're standing in the middle of the doorway. It's … it gets a little hilarious. (Marcus)
+The experience of occupying space in a scooter often led to a sense of hypervisibility, or being seen as deviant. Some participants reported feeling hypervisible and unwelcome on public transit, where they often faced hostility because of the amount of space they took up when using their scooters or due to the time it took for them to board the bus. Not only was the passengers' attention heightened, but the duration of that attention also increased. Millie recounted the following:
+Now, when I get on there, getting that scooter on the bus sometimes, you get a bunch of dirty looks and so, therefore, does it bother me? No, not at all. But maybe for some people they might be affected
+
+some more and they don't want to go out and get on a public bus because they feel uncomfortable with people on the bus.
+Ayesha reflected on feeling "wounded" by people looking and prying into the nature of her disability. "And when I was sitting there, [somebody] was looking at my scooter, trying to find out what [my] disability is … and was like, "Oh, so how long have you been in a chair for?" Paradoxically, such hypervisibility went hand in hand with a literal invisibility when participants were not noticed by people in the streets. Participants described how people often looked at their phones and failed to notice those who use wheeled mobility devices. Sometimes, this resulted in near-injuries, as was reported by four participants. For example, Marcus shared his experiences of almost being hit by a car and being unnoticed because of the drivers'/pedestrians' distraction and their failure to
+notice scooter users on the streets. The lived relation of scooter users demonstrated how invisibility/hypervisibility in a literal sense is inter- twined with invisibility in a metaphorical sense.
+
+Transitioning to scooter use
+
+This theme referred to how participants changed the ways they viewed their bodies with the adoption of a scooter and how they expe- rienced the attitudes from others. Participants described how the chal- lenges of being a scooter user were often exacerbated by decreases in self-esteem and concerns about body image. The process of transition- ing to a scooter and recognizing its role in everyday mobility took time. For example, after six weeks of scooter training six participants felt self- conscious about using a scooter, and their loss of mobility was often accompanied by the feelings of embarrassment. Participants reflected on the challenges of adjusting to being a scooter user and being seen as a scooter user. For some, the construction of a new self-image and coming to terms with corporeal changes took longer and involved feelings of discomfort because it forced them to confront their own embodied changes. Some participants who used a scooter but were ambulatory were curious about what others thought of them. Nora put it this way:
+It is more (a matter of) adjusting the image of yourself, from someone who was walking everywhere or driving a car to someone who is sitting in a scooter, it is quite a big switch, when you are thinking about your own image. To some extent I am wondering what other people are thinking. Particularly when I get out of the scooter and walk into the store, are they thinking, why on earth does she have a scooter, you know.
+Not everyone could reconcile the discordance between the need to use the scooter and the associated psychological discomfort, as was ar- ticulated by Abby:
+I feel self-conscious for one thing, I feel less able … it's not a positive experience. It's, I think it affects self-perception in terms of confi- dence and, you know, things aren't the way they used to be so I've changed and I'm not happy with that.
+Although they emphasized the importance of the scooter for their quality of life and social inclusion, most of the participants initially experienced their mobility device as a source of embarrassment and stigma.
+And so, I guess what I saw in people's faces was, just as I thought I was seeing a reflection of what I was thinking, maybe, but then when I began to love the scooter. Actually, I loved my scooter right from the very first day, because it gave me freedom, but I still had these feelings of embarrassment. (Ayesha)
+For some participants, the decision to start using a scooter signified a personal decline and a transition to a new phase of life characterized by ill health:
+I'm just glad I have it there. You know, I was mad, I found it awkward to buy. It upset me because it made me realize it was the end. It seemed to me it was a symbol of my lack of health and my disability, but I am glad I have it now, you know, it is just another thing to help me recognize that if I have to do things, I'll have to do them in a different way. (Robin)
+For most of the participants, self-acceptance of the scooter and their altered physical bodies did not happen overnight. As participants struggled to embrace their scooters as extensions of their bodies, their lived experiences reflected their complex relationships with their mobility devices.
+
+Experiencing accessibility challenges on route and at destinations
+
+This theme encapsulated how the physical environment shaped the daily experiences of scooter users. Accessibility issues made getting around more challenging for scooter users and excluded them from certain spaces. Their lived spaces were constituted by their daily expe- riences with the physical environments around them, including the infrastructure of the outdoor spaces and things like elevators that pro- vide a crucial connection for navigating the community. Scooters were most frequently used in outdoor spaces and streetscapes. As the expe- riences of the scooter users demonstrated, sidewalks presented one of the most serious challenges for navigating the community. Most par- ticipants mentioned how difficult it was to traverse sidewalks that were narrow, cracked, and/or bulging due to tree roots. Inconsistency in the
+was another concern.
+I get a little bit annoyed when I find that the slopes up the curbs are not consistent, meaning that there may be one [curb cut] on one curb and then there isn't one on the next one. I don't know what the rationale of that is. (Nora)
+Even within familiar spaces that participants tended to attend most often (e.g., community centres, churches, coffee shops, grocery stores), some of them had trouble navigating routes to the places they wanted to visit because of bumpy roads, uneven surfaces, and a lack of curb cuts. Once the participants reached their destination, they often encountered heavy doors with no automated openers or narrow aisles in stores that collectively made it challenging, if not impossible, to navigate. When referring to one of the stores that she frequents, Sally said, it's because of
+the door. It's not automatic and the rows are too narrow.
+When reaching new destinations, participants faced uncertainty because they did not know whether or not they could take their scooters inside. The ability to transition to a different device in these circum- stances became a critical factor in maintaining mobility. Some partici- pants had to leave their scooters outside the buildings (unattended and at risk of being stolen) and rely on their canes or walkers inside. Narrow aisles were mentioned as one of the main obstacles for scooter users. When the
+Nora summarized the hassles associated with going into a store with her scooter in this way:
+Too many people in the aisles, I don't think I would feel comfortable doing that [using a scooter], and since I can walk, then there really is no need to take the scooter in. And you know the grocery stores and the drug store don't really have particularly wide aisles. So even with a shopping cart, sometimes you're maneuvering around people, so I would be very hesitant, unless I just could not walk, I would be hesitant about taking the scooter into the store.
+Elevators presented a significant challenge for the participants, who reported a number of different types of associated problems. Paige complained that the elevator in her building closed too fast and resulted in her being stuck on occasion. Availability and reliability of elevators and automatic door openers played a significant role in whether a scooter was a preferred device in certain circumstances. Participants
+
+reported that the presence of elevators did not guarantee access as many of the ones they encountered were not fully accessible, leading to both feelings of frustration and potential damage to their scooters, as described by Ayesha:
+You have to be strategic with certain elevators. The ones that surprise me though, like older buildings I can understand because they didn't have big scooters then and they didn't acknowledge as much about disability accessibility. But with the [subway] it surprises me because it's so modern right? Some you can drive straight ahead in and its longer length wise, so you just drive right in. Other stations for some reason, I've taken that same elevator and they've turned it the other way so that you have to drive in and turn into a C shape. You have to take an object as rigid as a scooter and turn it into the shape of the letter C to have the door close behind you. Their ele- vators don't all have sensors, so you'll have like this heavy door with a loud beeping sound that it doesn't matter how many times you hit the button to keep it open, it will be banging and there's damage […] to the scooter.
+Participants similarly struggled to use their scooters on older buses or subway cars that did not easily fit the devices that were larger than a manual wheelchair, as described by Marcus:
+Because of the size, and width of my scooter, I don't take it on the bus. It's just a headache, it's also too big for (an accessible trans- portation service), so I just either travel with the scooter, or as I said, like I don't, the newer cars on the train are easy, but the older ones are … there are no actual space that will accommodate the scooter.
+Marcus was strategic about his use of a scooter in spaces where he had previous negative experiences. Even when using an elevator or a bus was technically possible, the challenges of doing it in practice made him reluctant to do it with his scooter because of all the unwanted attention. The lived spaces that scooter users navigated expanded or contracted because of the built environment. Participants' experiences on these spaces were characterized by a lack of consistency in accessibility, and the sidewalks, entrances, narrow aisles, and elevators were the major disruptive elements of the lived spaces. As a result of the conflicts with the physical spaces, the participants' disability was accentuated and
+made more visible with a negative connotation.
+
+
+Strategic and personalized use of devices for mobility
+
+This theme focused on the experiences of using scooters in conjunction with other mobility devices. As Table 1 shows, in addition to their scooters, most participants utilized other ambulatory mobility aids (e.g., canes, walkers, walking sticks). Lived things includes the everyday practices of using a specific mobility device. The decision- making process around these practices is not straightforward and con- siders a variety of factors. In making decisions about which device to use and where, participants balanced practical and affective considerations. For example, in addition to practicalities of using certain devices in some spaces, Dana described how her decisions were also influenced by how a given device made her feel. She felt less self-conscious when using a cane. In referring to the cane, she said, It doesn't really help me, it [helps] psychologically. It must help me a little.
+In this way, as well as providing physical support and reliability, devices were imbued with emotions, attitudes, appreciations, and values. Dana realized that the cane might not help her physically, but it made her feel better psychologically. Similarly, participants often referred to their scooter's large sizes as a reason for their use of other devices. With other devices Abby indicated, "You are more facile, you are nimble". The ability to switch between mobility devices allowed most of the participants to participate in their activities in the community. Robin described her experience of unsuccessfully trying to get into the doors of a coffee shop because the scooter was "too bulky". This experience
+suggests that in addition to the environmental barriers, the size of the device also matters. In fact, in their suggestions for improving their scooters, a few participants recommended making them smaller.
+Would be something that you just push a button and it would, you know, it folds up. You can condense the size of it and, by pushing a button, it would unfold so it would be very convenient, you don't have to lift things. (Abby)
+Participants also described how having control over how a device looked or worked fostered a sense of ownership and confidence. Marcus reflected on the importance of customizing his device so that it met his unique needs:
+I've added lumbar support, memory foam, lumbar support cushions, the handlebar grips are wrapped, um, it's just more comfortable … I mean all around it's improves the appearance of it, it makes it unique to me, and I don't feel that I am in a so-called wheelchair or mobility device, it's more like a custom motorcycle or whatever, it kind of gives me a better frame of mind, plus I enjoyed doing it too.
+Another strategic reason for using scooters had to do with partici- pants' physical needs. For several participants, low energy levels/fa- tigue and pain/inflammation levels encouraged them to use their scooter over other devices.
+My problem is the reason why I have a scooter is because I can't stand up for a long period of time, and then my back starts to spasm … so therefore, having a mobility scooter allows me to sit down and go wherever I want to go. (Milie)
+However, a sense of familiarity that the participants associated with their other mobility devices (e.g. walkers, canes) was often sacrificed in favor of practicality. A few participants indicated that a scooter was the only option that allowed them to control their pain levels, flare-ups and other physical symptoms. Pain left many participants no choice but to rely on their scooters more regularly. A scooter provided, as Ayesha put it, the "security that I'm not going to fall down". Yet, for many participants, access to several devices remained critical to their ability to navigate different spaces and places in their community. Some still viewed scooters as indications of their deterioration and wanted to combine their use with other devices to be able to continue walking and prevent further decline.
+
+Discussion
+
+This qualitative study was, to our knowledge, one of the first studies that engaged with the phenomenology of lifeworlds to explore the ex- periences of new mobility scooter users. Focusing on the interactions between scooters users and the self, physical spaces, other mobility devices, and other people over time, our findings revealed the ways in which scooter users are made invisible or hypervisible as a result of personal decisions and/or physical and/or attitudinal barriers. The continuum of invisibility – hypervisibility adds a critical component to the phenomenology of scooter use. By bringing forward not only the complexity of scooter use as a phenomenon but by also emphasizing the interactions between the environment and the embodied self, this paper has highlighted how lifeworlds constitute and are constituted by phys- ical and social accessibility (e.g., public attitudes) as well as individual choices. We can better understand scooter users' frequent ambivalence about their scooter use through the concepts and incongruities of the lived body (poor body image vs. the need to rely on a scooter because of pain and other health conditions), lived space (the pressure to remain independent vs. the physical barriers that prevent it), lived relation (being hypervisible in the public vs. being unseen and ignored), and lived things (having an option to rely on other assistive mobility devices vs. experiencing the challenges with using them as an alternative).
+Our results demonstrate that new scooter users confront tensions
+
+between their bodies and their sense of identity (lived body) as they adopt and subsequently negotiate scooter usage. Participants' struggles with self-image suggest that they engage in processes of re-interpreting and re-signifying the meanings of living in a body (Monaghan, 2006), and reveal how corporeal changes require them to re-envision their bodies over time (Finlayson and van Denend, 2003). The concerns that participants shared about the perceptions of others indicates that the boundaries of normality are not only enforced by others but also inter- nalized. People with disabilities are expected to strive to achieve the standards of normality for social acceptability (Wendell, 1996). Given the predominantly aging demographics of scooter users, it can also be argued that the changes associated with slowing down, losing range of motion, and incurring previously unfamiliar systemic barriers may be perceived as shame-inducing diminishment in a youth oriented society (Mintz, 2007).
+Most participants in the study were able to make strategic choices
+about their visibility or invisibility with the use of their devices. Walkers and/or canes not only allowed participants to access spaces where their scooters could not go but also enabled them to become visible because they could access spaces inaccessible to scooters and because there is less stigma attached to canes and walkers (Grue et al., 2015). Stigma is one of the barriers to adoption of assistive devices (Yusif et al., 2016) that some participants encountered when discussing their scooters. Most of the participants who are older adults demonstrated a desire to portray an identity consistent with independence, self-reliance and competence which are not associated with a scooter, thus impacting their assistive technology decision-making adoption patterns (Astell et al., 2020).
+There are parallels between scooter users' deliberate usage of canes and walkers in order to avoid hypervisibility and the concept of "pass- ing", first used in relation to race and then taken up in the context of gender, sexuality and able-bodiedness. In the latter, "passing" refers to the choice of hiding one's disability or overcoming it. People with dis- abilities may attempt to hide their disability because of stigma from self or others. This phenomenon is rooted in disability identity and the issues around stigma, pride, prejudice, discrimination, and privilege (Brune and Wilson, 2013). However, not all people with disabilities can pass. People with apparent disabilities and those who rely on mobility devices do not have that option.
+Invisibility can manifest when a mobility device is separated from its user and not seen as part of a whole (Papadimitriou, 2008) that often results in the denial of agency and self-determination. Through their lived bodies, lived things and lived relations, participants demonstrated a complex interplay between visibility and invisibility in which in- dividuals confront tensions between body, self and identity (Charmaz and Rosenfeld, 2006) and navigate societal practices that exclude people who do not meet normative standards regarding appearance and ca- pacity (Zitzelsberger, 2005). For the participants in this study, passing was certainly an option if their level of mobility allowed them to rely on canes and walkers. Although the decision to opt for other devices was often driven by practical considerations of inaccessibility of spaces for scooters, there was a recognition that other devices carry less stigma, and they are perceived as less disabling because they are less visible (Brune and Wilson, 2013). However, there was a limit to the extent to which participants could exercise their agency in this regard. The par- ticipants' mobility choices were bounded by their own corporeality (e. g., pain, fatigue, balance). Although walkers and canes provided some participants with more flexibility to navigate spaces that were inacces- sible to scooters, pain and its effects (e.g., dizziness, falls) made the reliance on the scooter almost unavoidable for some aspects of outdoor mobility. Transitioning from one device to another and/or having to rely on both devices suggests that participants have a sense of bounded agency in being able to make a choice of what assistive device to use depending on what they need to do (Porter et al., 2011).
+Assistive technology, including scooters and other mobility devices,
+provides a landscape for unpacking the complexity of passing and visi- bility/invisibility. When participants are deprived of these options, they
+risk being made invisible. Disability as a social construction and a relational phenomenon result from interpersonal relationships as well as encounters between humans and environments and between individuals and society (Ravneberg and So¨derstro¨m, 2017).
+The lifeworlds of lived bodies and lived things are intimately con- nected with the scooters users' experiences of attitudinal barriers (lived relation). Resentment held by pedestrians toward wheeled mobility users that was described by some of the participants have been previ- ously reported (Hyman et al., 2010) As a result, the feelings of invisi- bility (i.e., not being noticed by pedestrians who are distracted by their cell phones) or hypervisibility (i.e., being stared at or made to feel ashamed for doing things differently) can be heightened (Jang et al., 2020; Frost et al., 2015; Korotchenko and Hurd Clarke, 2014).
+In addition to addressing invisibility (i.e., devaluation) or hyper- visibility (i.e., staring, negative attitudes) through addressing attitudinal barriers, the experiences of lived space highlight that the barriers in the built environment can contribute to invisibility of people with disabil- ities by deterring them from being in the spaces when using a scooter. When the built environment makes people invisible, it limits their ability to act as agents. For example, settings that are designed only for those who can walk without assistance exclude those who need a scooter or other assistive device. As Jacobson (2020) argues, the sense of being in a space is a matter of our experience of participating as individual agents in an interpersonal world. Participants encountered unexpected barriers even on familiar routes. People with disabilities also struggle to plan routes through unfamiliar pedestrian environments (Prescott et al., 2021). Previous research demonstrated that the sidewalk and pavement
+ conditions, poor curb cuts, inadequate public transportation, inaccessi-
+ bility of destinations due to the presence of stairs, doorsteps, and heavy
+ doors, a lack of ramps, and narrow or cluttered aisles are some of the
+ many physical barriers that affect mobility, and consequently social participation, of people using wheeled mobility devices (Bigonnesse et al., 2018). What is different for scooter devices is that they are pri- marily used outdoors. The indoor spaces, including elevators, often fail to meet the accessibility needs of scooter users whose devices tend to be bigger than other wheeled mobility devices.
+The experience of scooter users demonstrates that accessibility is not a binary but instead exists on a continuum. For instance, the presence of
+ an elevator does not address access by itself – the elevator needs to be
+ accessible and operational by a person in a scooter. Similarly, a building
+ with a ramp that does not also have an automatic door opener is still
+ inaccessible. Additionally, most scooters have additional features (e.g.,
+ baskets, backpacks, oxygen tanks, cane holders) that extend the space
+ they require. Building codes are an important component of the built
+ environment that could address these barriers. However, most building
+ codes were developed to accommodate wheelchairs, which have a much
+ smaller footprint. Scooters emphasize the challenges with a narrow definition of accessibility. By improving the physical and social acces- sibility of indoor and outdoor spaces for the increasing variety of the wheeled mobility devices, we can ensure that people who rely on scooters can use them without hesitation. The phenomenological perspective of scooter use can inform the discussions about the design and specifications of the indoor and outdoor spaces. When people who are initially learning to embrace their daily life in a scooter encounter structural and attitudinal barriers (Jang et al., 2020; Linton, 2006), they can be more reluctant to use them and, thus, limit their activity and participation (Labbe´ et al., 2020). Improved physical and social acces- sibility can reduce negative social experiences that occur with hyper- visibility or invisibility. Future research could explore how changes to the built environment affect the social participation of scooter users. Rather than changing individuals with disabilities, which has tended to be focus of rehabilitation services, research could evaluate how the so- cial environment could be changed through the provision of evidenced-based disability awareness training (Hayward et al., 2021; McColl, 2019). The juncture between the removal of the structural barriers (both physical and attitudinal) and the technological barriers (e.
+
+g., improvement of scooter design) can allow scooter and other device users to participate more fully in their communities.
+
+Conclusion
+
+This paper has explored the lifeworlds of scooter users. By adopting a critical phenomenology informed by concepts of visibility and hyper- visibility, this paper has deepened our understanding of the experiences of new scooter users. The findings presented in this paper revealed the complexity of living with a disability and navigating the relationships with self, other people, other devices and the built environment. The multiple considerations that play a role in scooter use inform future research and practice on reimagining more inclusive and accessible communities.
+
+Author statement
+
+Alfiya Battalova: Conceptualization, Methodology, Formal analysis, Writing – original draft. Laura Hurd: Methodology, Writing – review & editing. Sandra Hobson: Methodology, Writing – review & editing. R. Lee Kirby: Methodology, Writing – review & editing. Richelle Emery: Writing – review & editing. W. Ben Mortenson: Conceptualization, Methodology, Investigation, Writing – review & editing, Supervision, Funding acquisition
+
+Acknowledgements
+
+The authors would like to thank Gillian Bever and Nicole Banting for their help with interviews and organization of data. This work was supported by the Canadian Institutes of Health Research (CIHR) (grant number F15-00959). W. Ben Mortenson was also supported by the CIHR's New Investigator Grant (2016-2021).
+
+References
+
+Abrams, T., 2014. Is everyone upright? Erwin straus' "the upright posture" and disabled phenomenology. Hum. Aff. 24, 564–573. https://doi.org/10.2478/s13374-014-
+0249-2.
+Adams, C., van Manen, M., 2008. Phenomenology. In: Given, L.M. (Ed.), The SAGE Encyclopedia of Qualitative Research Methods. SAGE Publications, Inc., Thousand Oaks, pp. 615–619.
+Ahmed, S., 2007. A phenomenology of whiteness. Fem. Theory 8, 149–168. https://doi. org/10.1177/1464700107078139.
+Astell, A.J., McGrath, C., Dove, E., 2020. That's for old so and so's!': does identity influence older adults' technology adoption decisions? Ageing Soc. 40 (7), 1550–1576. https://doi.org/10.1017/S0144686X19000230.
+Barnes, C., 2019. Understanding the social model of disability. In: Watson, N., Vehmas, S. (Eds.), Routledge Handbook of Disability Studies. Routledge, London, pp. 14–31.
+Berndtsson, I.C., 2018. Considering the concepts of the lived body and the lifeworld as tools for better understanding the meaning of assistive technology in everyday life. Alter 12, 140–152. https://doi.org/10.1016/j.alter.2018.01.001.
+Bickenbach, J.E., Chatterji, S., Badley, E.M., Üstün, T.B., 1999. Models of disablement, universalism and the international classification of impairments, disabilities and handicaps. Soc. Sci. Med. 48, 1173–1187. https://doi.org/10.1016/S0277-9536(98) 00441-9.
+Bigonnesse, C., Mahmood, A., Chaudhury, H., Mortenson, W.B., Miller, W.C., Martin Ginis, K.A., 2018. The role of neighborhood physical environment on mobility and social participation among people using mobility assistive technology. Disabil. Soc. 33, 866–893.
+Brune, J.A., Wilson, D.J., 2013. Disability and Passing: Blurring the Lines of Identity.
+Temple University Press, Philadelphia.
+Cahill, S.E., Eggleston, R., 1994. Managing emotions in public: the case of wheelchair users. Soc. Psychol. Q. 57, 312. https://doi.org/10.2307/2787157.
+Casper, M.J., Moore, L.J., 2009. Missing Bodies: the Politics of Visibility. New York University Press, New York.
+Charmaz, K., Rosenfeld, D., 2006. Reflections of the body, images of self: visibility and invisibility in chronic illness and disability. In: Waskul, D., Vannini, P. (Eds.), Body/ Embodiment: Symbolic Interaction and the Sociology of the Body. Routledge, London, pp. 35–50.
+Finlayson, M., van Denend, T., 2003. Experiencing the loss of mobility: perspectives of older adults with MS. Disabil. Rehabil. 25, 1168–1180. https://doi.org/10.1080/ 09638280310001596180.
+Fomiatti, R., Moir, L., Richmond, J., Millsteed, J., 2014. The experience of being a motorised mobility scooter user. Disabil. Rehabil. Assist. Technol. 9, 183–187. https://doi.org/10.3109/17483107.2013.814171.
+Frost, K.L., Bertocci, G., Smalley, C., 2015. Ramp-related incidents involving wheeled mobility device users during transit bus boarding/alighting. Arch. Phys. Med.
+Rehabil. 96, 928–933. https://doi.org/10.1016/j.apmr.2014.12.013.
+Gaete-Reyes, M., 2015. Citizenship and the embodied practice of wheelchair use.
+Geoforum 64, 351–361. https://doi.org/10.1016/j.geoforum.2014.09.010.
+Garland-Thomson, R., 2006. Ways of staring. J. Vis. Cult. 5, 173–192. https://doi.org/ 10.1177/1470412906066907.
+Goodley, D., 2014. Dis/ability Studies: Theorising Disablism and Ableism, first ed.
+Routledge, London.
+Grue, J., Johannessen, L.E.F., Rasmussen, E.F., 2015. Prestige rankings of chronic diseases and disabilities. A survey among professionals in the disability field. Soc. Sci. Med. 124, 180–186. https://doi.org/10.1016/j.socscimed.2014.11.044.
+Guenther, L., 2020. Critical phenomenology. In: Weiss, G., Murphy, A.V., Salamon, G. (Eds.), 50 Concepts for a Critical Phenomenology. Northwestern University Press, Evanston, pp. 11–16. https://doi.org/10.2307/j.ctvmx3j22.
+Hayward, L., Fragala-Pinkham, M., Schneider, J., Coe, M., Vargas, C., Wassenar, A., Emmons, M., Lizzio, C., Hayward, J., Torres, D., 2021. Examination of the short-term impact of a disability awareness training on attitudes toward people with disabilities: a community-based participatory evaluation approach. Physiother.
+Theory Pract. 37, 257–270. https://doi.org/10.1080/09593985.2019.1630879.
+Hyman Jr., I.E., Boss, S.M., Wise, B.M., McKenzie, K.E., Caggiano, J.M., 2010. Did you see the unicycling clown? Inattentional blindness while walking and talking on a cell phone. Appl. Cognit. Psychol. 24, 597–607. https://doi.org/10.1002/acp.1638.
+Jacobson, K., 2020. Spatiality and agency: a phenomenology of containment. Puncta J. Crit. Phenomenol. 3, 54–75. https://doi.org/10.5399/PJCP.v3i2.8.
+Jang, S., Mortenson, W.B., Hurd, L., Kirby, R.L., 2020. Caught in-between: tensions experienced by community mobility scooter users. Disabil. Soc. 35 (10), 1577–1595.
+Korotchenko, A., Hurd Clarke, L., 2014. Power mobility and the built environment: the experiences of older Canadians. Disabil. Soc. 29, 431–443. https://doi.org/10.1080/ 09687599.2013.816626.
+Labb´e, D., Mortenson, W.B., Rushton, P.W., Demers, L., Miller, W.C., 2020. Mobility and participation among ageing powered wheelchair users: using a lifecourse approach. Ageing Soc. 40, 626–642. https://doi.org/10.1017/S0144686X18001228.
+Lajoie, C., 2019. Being at home: a feminist phenomenology of disorientation in illness.
+Hypatia 34, 546–569. https://doi.org/10.1111/hypa.12476.
+LaPlante, M.P., Kaye, H.S., 2010. Demographics and trends in wheeled mobility equipment use and accessibility in the community. Assist. Technol. 22, 3–17. https://doi.org/10.1080/10400430903501413.
+Linton, S., 1998. Claiming Disability: Knowledge and Identity. New York University Press, New York.
+Linton, S., 2006. My Body Politic: A Memoir. University of Michigan Press, Ann Arbor.
+May, E., Garrett, R., Ballantyne, A., 2010. Being mobile: electric mobility-scooters and their use by older people. Ageing Soc. 30, 1219–1237. https://doi.org/10.1017/ S0144686X10000334.
+McColl, M.A., 2019. Appreciative Disability Studies. Captus Press, Concord.
+McHugh, M.C., 2020. Feminist qualitative research: working toward transforming science and social justice. In: Leavy, P. (Ed.), The Oxford Handbook of Qualitative Research. Oxford University Press, Oxford, pp. 199–242.
+Mintz, S.B., 2007. Unruly Bodies: Life Writing by Women with Disabilities. The University of North Carolina Press, Chapel Hill.
+Mitchell, W.J.T., 2001. Seeing disability. Publ. Cult. 13, 391–397. https://muse.jhu.edu/ article/26259/pdf.
+Mladenov, T., 2016. Critical Theory and Disability: A Phenomenological Approach, first ed. Bloomsbury Academic, London.
+Monaghan, L.F., 2006. Corporeal indeterminacy: the value of embodied, interpretive sociology. In: Waskul, D., Vannini, P. (Eds.), Body/Embodiment: Symbolic Interaction and the Sociology of the Body. Routledge, London.
+Mortenson, W.B., Battalova, A., Hurd, L., Hobson, S., Emery, R., Kirby, R.L., 2021.
+Correlates of self-reported Wheelchair Skills Test Questionnaire scores of new users of mobility scooters: a cross-sectional study. Disabil. Rehabil. Assist. Technol. 1–8. https://doi.org/10.1080/17483107.2021.1874065.
+Mortenson, W.B., Jang, S., Goldsmith, C.H., Hurd Clarke, L., Hobson, S., Emery, R., 2017. Feasibility of a Systematic, Comprehensive, One-to-One Training (SCOOT) program for new scooter users: Study protocol for a randomized control trial. Trials 18 (235). https://doi.org/10.1186/s13063-017-1963-y.
+Mortenson, W.B., Kim, J., 2016. Scoping review of mobility scooter-related research studies. J. Rehabil. Res. Dev. 53, 531–540. https://doi.org/10.1682/ JRRD.2015.05.0084.
+Nayar, S., Stanley, M. (Eds.), 2014. Qualitative Research Methodologies for Occupational Science and Therapy, first ed. Routledge, London.
+Nijs, G., Heylighen, A., 2015. Turning disability experience into expertise in assessing building accessibility: a contribution to articulating disability epistemology. Alter 9 (2), 144–156. https://doi.org/10.1016/j.alter.2014.12.001.
+Oliver, M., 2013. The social model of disability: thirty years on. Disabil. Soc. 28, 1024–1026. https://doi.org/10.1080/09687599.2013.818773.
+Papadimitriou, C., 2008. Becoming en-wheeled: the situated accomplishment of re- embodiment as a wheelchair user after spinal cord injury. Disabil. Soc. 23, 691–704. https://doi.org/10.1080/09687590802469420.
+Paterson, K., Hughes, B., 1999. Disability Studies and Phenomenology: the carnal politics of everyday life. Disabil. Soc. 14, 597–610. https://doi.org/10.1080/ 09687599925966.
+Pettersson, I., Appelros, P., Ahlstro¨m, G., 2007. Lifeworld perspectives utilizing assistive devices: individuals, lived experience following a stroke. Can. J. Occup. Ther. 74, 15–26. https://doi.org/10.2182/cjot.06.05.
+Pettersson, I., Hagberg, L., Fredriksson, C., Hermansson, L.N., 2016. The effect of powered scooters on activity, participation and quality of life in elderly users.
+
+Disabil. Rehabil. Assist. Technol. 11, 558–563. https://doi.org/10.3109/ 17483107.2015.1027301.
+Pieri, M., 2019. The sound that you do not see. Notes on Queer and Disabled Invisibility.
+Sex. Cult. 23, 558–570. https://doi.org/10.1007/s12119-018-9573-8.
+Porter, E.J., Benson, J.J., Matsuda, S., 2011. Older homebound women: negotiating reliance on a cane or walker. Qual. Health Res. 21, 534–548. https://doi.org/ 10.1177/1049732310385822.
+Prescott, M., Miller, W.C., Borisoff, J., Tan, P., Garside, N., Feick, R., Mortenson, W.B., 2021. An exploration of the navigational behaviours of people who use wheeled mobility devices in unfamiliar pedestrian environments. Journal of Transport & Health 20, 100975. https://doi.org/10.1016/j.jth.2020.100975.
+Rajan-Rankin, S., 2018. Invisible bodies and disembodied voices? identity work, the body and embodiment in transnational service work. Gend. Work. Organ. 25 (1), 9–23. https://doi.org/10.1111/gwao.12198.
+Ravneberg, B., So¨derstro¨m, S., 2017. Disability, Society and Assistive Technology, first ed. Routledge, London.
+Ripat, J., Verdonck, M., Carter, R.J., 2018. The meaning ascribed to wheeled mobility devices by individuals who use wheelchairs and scooters: a metasynthesis. Disabil. Rehabil. Assist. Technol. 13, 253–262. https://doi.org/10.1080/
+17483107.2017.1306594.
+Samuelsson, K., Wressle, E., 2014. Powered wheelchairs and scooters for outdoor mobility: a pilot study on costs and benefits. Disabil. Rehabil. Assist. Technol. 9, 330–334. https://doi.org/10.3109/17483107.2013.827244.
+Smith, E.M., Giesbrecht, E.M., Mortenson, W.B., Miller, W.C., 2016. Prevalence of wheelchair and scooter use among community-dwelling Canadians. Phys. Ther. 96, 1135–1142. https://doi.org/10.2522/ptj.20150574.
+Spirtos, M., Gilligan, R., 2020. 'In your own head everyone is staring': the disability related identity experiences of young people with hemiplegic cerebral palsy.
+J. Youth Stud. 1–17.
+Standal, Ø.F., 2011. Re-embodiment: incorporation through embodied learning of wheelchair skills. Med. Heal. Care Philos. 14, 177–184. https://doi.org/10.1007/ s11019-010-9286-8.
+Sund, T., Iwarsson, S., Anttila, H., Brandt, Å., 2015. Effectiveness of powered mobility devices in enabling community mobility-related participation: a prospective study among people with mobility restrictions. PM&R 7, 859–870. https://doi.org/ 10.1016/j.pmrj.2015.02.001.
+Thoreau, R., 2019. Perception of needing and using a mobility scooter: a preclinically disabled non-scooter user perspective. Disabil. Rehabil. Assist. Technol. 14,
+732–736. https://doi.org/10.1080/17483107.2018.1499136.
+Titchkosky, T., Michalko, R., 2012. The body as the problem of individuality: a phenomenological disability studies approach. In: Goodley, D., Hughes, B., Davis, L. (Eds.), Disability and Social Theory: New Developments and Directions. Palgrave Macmillan, London, pp. 127–142.
+van Manen, M., 2014. Phenomenology of Practice: Meaning-Giving Methods in Phenomenological Research and Writing. Left Coast Press, Inc., Walnut Creek.
+Welle, D.L., Fuller, S.S., Mauk, D., Clatts, M.C., 2006. The invisible body of queer youth: identity and health in the margins of lesbian and trans communities. J. Lesb. Stud. 10 (1–2), 43–71. https://doi.org/10.1300/J155v10n01_03.
+Wendell, S., 1996. The Rejected Body: Feminist Philosophical Reflections on Disability, first ed. Routledge, New York.
+Wieseler, C., 2018. Missing phenomenological accounts: disability theory, body integrity identity disorder, and being an amputee. Int. J. Fem. Approaches Bioeth. 11, 83–111. https://doi.org/10.3138/ijfab.2017.12.05.
+Wright-St Clair, V., 2014. Doing (interpretive) phenomenology. In: Nayar, S., Stanley, M. (Eds.), Qualitative Research Methodologies for Occupational Science and Therapy. Routledge, London, pp. 53–69.
+Yusif, S., Soar, J., Hafeez-Baig, A., 2016. Older people, assistive technologies, and the barriers to adoption: a systematic review. Int. J. Med. Inf. 94, 112–116. https://doi. org/10.1016/j.ijmedinf.2016.07.004.
+Zitzelsberger, H., 2005. (In)visibility: accounts of embodiment of women with physical disabilities and differences. Disabil. Soc. 20, 389–403. https://doi.org/10.1080/ 09687590500086492.

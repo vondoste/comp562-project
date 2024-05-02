@@ -1,0 +1,354 @@
+Investigating the Navigational Habits of People who are Blind in India
+Anirudh Nagraj
+University of Maryland, Baltimore County, USA
+Foad Hamidi
+University of Maryland, Baltimore County, USA
+ABSTRACT
+Assistive navigational technologies offer considerable promise to people who are blind. However, uptake of these technologies has tra- ditionally been lower in low and middle income countries (LMICs), where levels of investment and maintenance in infrastructure differ from upper middle (UMICs) and high income countries (HICs). In this paper, we describe a qualitative study undertaken with 14 peo- ple who identify as legally-blind in an LMIC (India) to understand their experiences and strategies used when navigating within a metropolitan area. We highlight a set of scenarios impacting people who are blind within the context studied. These include crossing 
+
+Our work brings attention to areas where the latest successful and well-publicized innovations in blind navigation may fall short when used in an Indian metropolitan area. We suggest that design- ers should be cognizant of the role that infrastructure (particularly its shortcomings) and environmental factors may play when navi- gating in LMICs such as India, with a view to designing assistive navigational technologies to better match the needs of users within these contexts.
+CCS CONCEPTS
+Human-centered computing; Accessibility; Empirical studies in accessibility;
+KEYWORDS
+Accessibility, Assistive technologies, Blind, Navigation, Visual Im- pairment, India
+ACM Reference Format:
+Anirudh Nagraj, Ravi Kuber, Foad Hamidi, and Raghavendra S.G. Prasad. 2021. Investigating the Navigational Habits of People who are Blind in India. In The 23rd International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '21), October 18–22, 2021, Virtual Event, USA. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3441852.3471203
+
+Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. Copyrights for components of this work owned by others than ACM must be honored. Abstracting with credit is permitted. To copy otherwise, or republish, to post on servers or to redistribute to lists, requires prior specific permission and/or a fee. Request permissions from permissions@acm.org.
+ASSETS '21, October 18–22, 2021, Virtual Event, USA
+© 2021 Association for Computing Machinery. ACM ISBN 978-1-4503-8306-6/21/10. . . $15.00
+https://doi.org/10.1145/3441852.3471203
+Ravi Kuber
+University of Maryland, Baltimore County, USA
+Raghavendra S.G. Prasad
+R.V. College of Engineering, India
+INTRODUCTION
+For people who are blind, navigating to places of interest comes with its own set of challenges [14, 37, 38]. Visual cues that are used by people who are sighted to navigate towards unfamiliar destinations, such as signage, are often ineffective, leading to blind users relying on either assistance from third parties or technology (e.g., mobile navigation apps). When navigating unfamiliar envi- ronments, strategies adopted by people who are blind to reduce the likelihood of making errors include contacting venues ahead of time to glean information about layout [33] and gathering details regarding accessible routes within and around the location, with a view to committing routes and the layout of building structures to memory [14].
+The navigation process may be more complex depending on the setting where it is taking place. For example, in densely-populated urban environments, challenges may be faced due to the volume of pedestrians and vehicular traffic present which people who are blind need to navigate around. Other examples include locations where infrastructure falls short of what is needed to address public health, individual welfare and environmental considerations, for example in low and middle income countries (LMICs) [35]. Ac- cording to Pucher et al. [32], with respect to infrastructure, LMICs suffer from the following: limited networks of roads, often narrow, poorly maintained and unpaved, limited levels of traffic control and management (i.e. crossings), and high levels of transport-related pollution. Furthermore, the accessibility of buildings can be lim- ited, leading to difficulties navigating buildings that do not meet accessibility codes. While a range of technologies have been devel- oped to support navigation for people who are blind (described in Section 2.1), these cannot always be used effectively in all contexts. Difficulties can be attributed in part to language barriers with the software, and incomplete mapping of routes and landmarks within the environment. There may also be challenges faced obtaining mobile technologies and gaining consistent access to the Internet which may limit system functionalities.
+In this paper, we have described an investigation of the nav- igational experiences of people who are blind in a metropolitan area within India (an LMIC) to examine how the environment and culture impact navigation. Understanding the lived experiences of people who are blind with navigating a large Indian metropol- itan area can shed light on strategies that they use to deal with challenges resulting from lack of investment and poorer mainte- nance of infrastructure. It can also lead to new opportunities for the design of navigational technologies in this context. While each LMIC has particular characteristics, the Bangalore metropolitan
+
+area, which was the site for our study, arguably, shares many sim- ilarities with other metropolitan areas in India and countries in the region, making our contribution relevant to researchers and designers working in these contexts. The term used in this paper, 'people who are blind', was favored by our participants all of whom attend(ed) a charity-run K-12 residential school for students with visual impairments situated in the Bangalore metropolitan area. We inquired about experiences and preferences when navigating, their perceptions of technology, and the role that third parties take in supporting the navigational process. Our work brings attention to areas where the latest successful and well-publicized innovations in blind navigation may fall short when used in an Indian metro- politan area. Examples of scenarios include navigating in the rainy (monsoon) season, when working collaboratively to support night- time navigation, when actively seeking out third parties to support navigation, and when using older public transport. Many of these issues stem from infrastructure falling short of what is needed, and challenges from environmental factors. Findings from our work can inform the design of navigational technologies to help increase levels of independence for users and facilitate better mechanisms for communicating with third parties when navigating.
+RELATED WORK
+A significant body of research has examined navigation for peo- ple who are blind. This research includes navigational techniques and strategies [13, 14, 38], empirical studies relating to indoor and outdoor navigational habits [37], and the design and evaluation of navigational systems [2, 3, 7, 12, 34]. To the best of our knowledge, this work has primarily focused on upper middle (UMIC) and high income country (HIC) contexts, with few projects focusing on per- spectives in LMICs where levels of expenditure and maintenance of infrastructure may differ considerably. This may result in differing experiences when navigating within these environments. In the following subsections, we provide an overview of this work.
+Interactive Devices and Applications to Support the Navigation of People who are Blind
+A range of mobile applications have been developed to enable users to gain real-time information about their route, with some specifi- cally catering to the needs of individuals who are blind (e.g., Near- byExplorer1 . Other applications (e.g., BeMyEyes2 , Aira3) connect users to specialized personnel or other volunteers to support their journey. Other types of technology include wearables such as a clip (e.g., BuzzClip4) or wristband (e.g., SunuBand5 , and augmented technologies such as the WeWalk smart cane6 , all of which offer vibrational output to alert the user to the presence of obstacles, en- abling them to take action to avoid potential collision. Advances in computer vision technology have led to the development of systems to identify the presence of crosswalks [2] and to support navigation within both indoor and outdoor spaces [7, 34].
+
+1 NearbyExplorer - https://tech.aph.org/)
+2 BeMyEyes - https://www.bemyeyes.com/
+3 Aira - https://aira.io/
+4 BuzzClip - https://imerciv.com/
+5 Sunu Band - https://www.sunu.com/)
+6 WeWalk - https://wewalk.io/en/
+While wearable and augmented technologies offer considerable promise to people who are blind attempting to navigate without human assistance, there is a need to develop low-cost assistive technologies (ATs) specifically compatible with the environmen- tal and infrastructural characteristics of LMICs, as the usage of commercially-available hardware devices and software applications in these contexts is often based on their affordability and compati- bility. Although extremely valuable in nature, many of the devices highlighted above do not consider the environmental conditions or socioeconomic factors influencing their purchase and subsequent use.
+
+Understanding the Navigational Practices of People who are Blind
+In addition to the design and evaluation of systems to support navigation, researchers have also investigated the navigational practices of people who are blind [14, 37, 38]. Factors identified may come into play when habits and environmental conditions influence day-to-day navigation. For example, Gupta et al. [14] 
+Findings suggested that different disabled communities share preferences for navigation that navigational application developers should take into account. While these studies have offered insights into ways to support individuals who are blind, most have focused on Western contexts where conditions of infrastructure and investment in it, may vary considerably from those in LMICs.
+While there is a pressing need to support both outdoor and indoor navigation regardless of new spaces, researchers such as Gupta et al. [14] state that due to the technical limitations of indoor environments (e.g. lack of GPS signal), research is concentrated more towards outdoor navigation as compared to indoor naviga- tion. Prior research has added to the body of knowledge on the navigational needs of people who are blind and have identified opportunities for technological intervention.
+
+ Research on Orientation and Mobility (O&M) Training
+Orientation and mobility skills (O&M) are important to support independent living. Over the years, researchers have examined dif- ferent ways to apply O&M training in different settings [21]. How- ever, the absence of defined protocols on O&M training concerning white cane usage can lead to variations in training. Furthermore, while training is widely available in UMICs and HICs, often at no cost, the converse may not be true in other locations, particularly those where larger numbers of people reside outside of urban areas. Extending the topic of O&M training to an Indian context is essential for people who are blind. The National Institute for the Empowerment of Persons with Visual Disabilities7 trains instruc- tors to offer O&M training in India. However, studies conducted within India have shown that formal training is not as widespread
+among those who would benefit from using a white cane [6].
+
+
+7 National Institute for the Empowerment of Persons with Visual Disabilities - https:
+//www.nivhrc-chen.org/
+
+ Research on ICTs and Assistive Technologies in LMICs
+Finally, in the context of LMICs, providing ICT accessibility remains a challenge, evidenced by lower scores in the Digital Accessibility Rights Evaluation (DARE) index8 . Progress relating to awareness of accessibility and usage of technologies is typically slower in rural areas where infrastructure may be more limited or more poorly maintained compared to urban environments. Prior work has provided evidence for how to leverage better infrastructural support for people who are blind and those with disabilities in general. For example, researchers proposed ways to improve access to assistive technologies (AT) in LMICs, and highlighted the need for the private sector to get involved to increase access to AT in a country like India [25]. This could help to broaden numbers of individuals navigating independently, thereby supporting quality of life. Recent work has also identified the role that researchers and practitioners can play to utilize emerging interactive technologies to help overcome multi-faceted barriers to social inclusion for people with disabilities [8, 29]. For example, in a recent study of public transit needs of people with disabilities in Uganda, Kirabo et al. [26] found that using a value-sensitive approach allowed for including an understanding of participants' lived experiences in design and resulted in a detailed stakeholder ecosystem map important for developing relevant and long-term solutions.
+Much of the research conducted on navigation for people who are
+blind have been in locations where investment in and maintenance of infrastructure is more substantial (i.e., well-maintained roads and sidewalks, clearly delineated pedestrian crossings). Work has also focused on people who are blind who have gained comprehensive O&M training and are encouraged to navigate independently [21], rather than being encouraged to seek help from others. In our study, we decided to focus upon a population that may not have been exposed to the same level of training and who need to navigate in settings where the quality of and investment in infrastructure may vary considerably. We aim to explore the impact of cultural and environmental factors impacting people who are blind within this setting.
+METHOD
+Participant Demographics and Setting Fourteen participants aged 17-30 who identified themselves as legally-blind were recruited for the study (Table 1). All currently
+attend or had attended a residential charity-run K-12 school serv- ing students with visual impairments. All fourteen had fluency in both English and the state language (Kannada), and described using white canes as their primary method for navigating, with some favoring mobile applications to plan routes. The school, located in the Bangalore metropolitan area, attracts students from all over the state, as well as from neighboring states. The students, all of whom come from a diverse set of socioeconomic backgrounds, hail from a mixture of urban, semi-urban, and rural environments. All data collection procedures were approved by our Institutional Re- view Board (IRB). Participants for the study were recruited through the assistance of school personnel. A teacher from the school was
+
+8 Digital Accessibility Rights Evaluation (DARE) Index - https://g3ict.org/
+present at each interview, chaperoning participants. The teacher was able to assist with translating questions from the researchers and students' responses, in addition to assisting with set-up for interviews.
+Interview Procedure
+Semi-structured interviewing was selected to better identify spe- cific cultural nuances and the reasoning behind why certain actions and behaviors were made. The protocol developed consisted of 28 questions, including topics related to experiences navigating famil- iar and unfamiliar environments within the Bangalore metropolitan area, using public transportation, traveling at night, and whether navigation is impacted during periods of inclement weather. Finally, participants were asked about ways to support improvements, us- ing technologies or otherwise. Questions were presented in either English or the state language (Kannada) by bilingual researchers. Participants were given the choice of which language to respond in. The aim of using a multi-language approach was to support partic- ipants in expressing their views clearly. Interviews were conducted in-person initially, while the final three interviews were conducted remotely due to lockdown mandates following the COVID-19 pan- demic. All interviews were recorded and transcribed. Those which contained content in Kannada were translated into English by one of the bilingual researchers and checked by a third researcher. In- terviews lasted between 40 to 60 minutes.
+Data Analysis
+We thematically analyzed interview transcripts using an inductive coding approach. Coding of transcripts was completed indepen- dently by two research team members, with differences resolved via consensus. The process also involved a third researcher to review for quality and to look for codes that may have been missed during the coding process. Once we established that no new codes could be formed, we then grouped the codes to identify important themes arising from the interviews. We examined whether technologies and innovations designed to support navigation would match the real-life experiences of people who are blind in the context studied. We present the gaps in feasibility we identified below, with some discussion regarding potential technical solutions to better match user needs.
+FINDINGS
+General Urban Navigation Challenges and Strategies for Overcoming Them
+Participants highlighted that levels of infrastructural support across the densely-populated metropolitan area varied considerably, with some parts being better served by pedestrian crossings and well- maintained roads and sidewalks often depending on where govern- ment resources had been spent. In less maintained parts, partici- pants described several challenges maneuvering around debris and 
+
+While some participants were able to use their functional vision to determine the presence of obstacles, and react to these, others used other cues available to them. For example, P1 highlighted using
+Table 1: Participant Demographics
+
+Participant
+Age
+Identified Gender
+Conditions
+Favored Method of Navigation
+Mobile Applications
+P1
+27
+Male
+No vision
+White cane, Maps
+Google Maps, Lazarillo
+P2
+18
+Female
+No vision
+White cane
+No technology used
+P3
+21
+Female
+Object perception
+White cane
+No technology used
+P4
+17
+Female
+Object perception
+White cane
+Google Maps
+P5
+26
+Male
+Object perception
+White cane, Maps
+Google Maps
+P6
+18
+Male
+Light perception
+White cane, Maps
+Google Maps, Lazarillo
+P7
+23
+Male
+Light perception
+White cane, Maps
+Google Maps, Lazarillo
+P8
+26
+Female
+Light perception
+White cane
+No technology used
+P9
+30
+Female
+No vision
+White cane, Uber
+Google Maps
+P10
+25
+Female
+Object perception
+White cane
+Google Maps
+P11
+27
+Male
+No vision
+White cane
+No technology used
+P12
+19
+Male
+No vision
+White cane
+Google Maps
+P13
+23
+Male
+Light perception
+White cane, Maps
+Google Maps, Lazarillo
+P14
+26
+Female
+No vision
+White cane
+Google Maps
+
+tactile cues from the cane to identify obstacles, stating that "if the stick9 goes inside something or feels like [it] is dragging way below the surface, that time, we figure out that there is something like a pothole or something. If the stick goes inside completely, then we know that it is a gutter." This could be confirmed using the olfactory sense. If potholes or gutters are not detected, falling into either could result in an injury, meaning that participants would spend considerable time tactually perceiving terrain on their route. However, this technique could prove more challenging in situations where obstacle location could not be predicted. For example, in areas where road maintenance work is being conducted, as these may not be well marked.
+When navigating to an unfamiliar destination, participants high-
+can only think of ramps in the railway stations as helping us but then, when we need some information in that crowded place, it is difficult." - P5
+P7 described how he spends time familiarizing himself with the layout of railway stations. He highlighted the benefit of mentally mapping the structure of venues if he knew he would be returning to them, as this would help him conduct tasks which sighted users take for granted (e.g., changing platforms). The participant described other challenges associated with navigating within a railway station in a metropolitan area.
+"In stations that are new [unfamiliar], [if] there are no signboards coupled with a lot of crowds, I tend to be apprehensive and navigate slowly. It would be
+lighted their preference for walking along
+roads, as
+very useful if I got some information about the place
+curved roads placed more demand on them. The 'shoreline tech- nique' was described by many participants as preferable to support staying on a path, as they could follow the edge or 'shoreline' of a path with the cane. This could be done to identify the location of a specific entity (e.g. mailbox or an intersecting road). The challenge would occur if the sidewalk or road was poorly maintained, leaving the user to rely on guesswork as to whether the path continued or whether they would need to transition to another path.
+Participants (P3, P5, P6) stated that depending on when the infrastructure was developed may dictate its accessibility. These challenges also extended to buildings. Older buildings were not 
+ thought to be as accessible or as well maintained compared to their 
+ newer counterparts. Participants highlighted that a combination 
+ of narrow entryways and lack of elevator access often found in 
+ older structures posed challenges. On the other hand, more recent 
+infrastructure, such as the entry and exit to metro stations, was
+found to be accessible in the sense that markings or aberrations
+were present near the tracks to help people identify the edge of
+platforms.
+
+"Metro stations are accessible while the railway sta- tions are not because they were built a while ago. I
+
+9 The term 'stick' was used interchangeably with 'white cane' by participants.
+beforehand."
+The participant highlighted that the presence of a crowd of commuters impacted his ability to navigate freely, and sometimes blocked landmarks or cues which would otherwise help him reach his destination.
+When asked about technology to support navigation, partici- 
+ pants highlighted that mobile navigational apps do not provide 
+ details of challenges along routes. Examples include the presence 
+ of obstacles such as potholes or gutters, obstacles present above 
+ the waist which may be difficult to detect with a cane (e.g., tree 
+ branches), or the curvature of their routes. Furthermore, excessive 
+ ular traffic and construction) which participants highlighted was 
+ present all over the Bangalore metropolitan area, could mask audio from applications, limiting their viability. P6 highlighted that he prefers to forego using earphones to connect with a mobile app while navigating, as the audio would need to be presented at a high intensity which would mask key environmental cues. This would mean that he may not be able to respond to a dangerous situation if one arose.
+Perceptions of poor accessibility or lack of familiarity within an environment, led participants to seek help from third parties, either
+
+by asking for directions or seeking physical assistance. Although gaining assistance from others was not preferred, it was thought to be a necessary action to maintain safety. The process of obtain- ing assistance depended upon situational factors. For example, if the environment was thought to be reasonably quiet, participants described quietly requesting support from others. If a crowd of peo- ple was detected, participants expressed a preference for waving their canes until third parties could detect these actions and offer assistance. The cane served as both a tool to detect obstacles and attract attention. When it came to approaching people for help, there were instances reported where participants described feeling less empowered due to some passersby being unresponsive to the request. P6 highlighted his concern for misgendering passersby, as he believed that using the wrong honorific used among an Indian audience could end up causing embarrassment or upset.
+Trust was generally placed in directions presented, with limited concern about deliberately being misled by others. Participants stated that the terminology sometimes used by sighted parties could be challenging to comprehend. As P7 stated, "many people do not know how to give directions properly. There may be a place where we need to pause and turn on the road, but the directions given may not tell us about the pause at all." P1 highlighted that he used Google Maps10 in a quiet location to double-check where a third party would lead him, as this helped to establish "confidence about that person." Similarly, the converse also held, as he felt that mapping applications such as Lazarillo11 could not relied upon. P1 mentioned that if he moved outside of city limits, then Lazarillo would not work effectively for him. Others mentioned that if moving outside of the city, they would confirm directions presented by Lazarillo with third parties. Additionally, some participants (P1, P5, P6, P7) expressed a concern that cost may be a barrier to purchasing more sophisticated digital assistive technologies.
+"Some of the devices that come are very expensive. If they charge so much even if it is for assistance, how am I supposed to buy it. I simply cannot afford it. As is the case with so many others." - P5
+The role that technology plays in supporting navigation (e.g. mobile navigational apps which provide turn-by-turn directions) was not as strong as those reported in other studies (e.g. [14]). This was in part attributed to the challenges obtaining and paying for mobile devices, gaining consistent access to the Internet, language barriers (as applications require a strong command of English), and incomplete mapping of environments on the app, which could make the process of using these technologies more complex.
+Crossing Highways and Other Roads Participants described needing to cross busy highways to reach their intended destination. The reason for crossing was due to it
+being either the fastest or ironically the most accessible route, as there were often no safer options available (e.g. pedestrian crossings or bridges over highways). Four participants (P7, P11, P12, P13) ex- plicitly described the crossing process as dangerous for people who are blind, particularly, it is difficult to detect or judge the position of cars unless they are in very close proximity. They appeared to
+
+10 Google Maps – maps.google.com
+11 Lazarillo - https://lazarillo.app/
+justify this by suggesting that "everyone does it". Researchers have highlighted the rapidly rising number of traffic fatalities especially among pedestrians and motorcyclists in India [32]. However, these did not deter participants from crossing. P5 described the steps taken to cross a road depending on situational/contextual factors, and the worries he faces when doing so:
+"If there is no pedestrian crossing, I tend to cross the road by taking someone's help. If there is no traffic, it becomes easy for me to cross. However, the threat of motorcyclists hitting me is always there because of the random motion and lack of people following the rules in certain areas and I fear the motorcyclists a lot. I do not feel the paint (i.e., markings) on the pedestrian crossing. The steps taken by me vary from road to road. On bigger roads and crossings, I tend to walk faster. On smaller roads, it is easier for me to judge and cross from one side to another. If I find it difficult to cross, I ask someone for assistance." – P5
+P6 who appeared to be more cautious when crossing compared to some of the other participants, described his strategy: by waiting for a time where there is no sound and no accompanying breeze from on-coming traffic. If he does not sense any danger, he proceeds with caution only to take large steps to cross. If uncertain about the presence of traffic in close proximity, he described extending his arm, placing the cane in front of him, and then waiting to check if anything collides with the cane.
+"Generally, while crossing the road, I also tend to not count my steps and go with my intuition. Because each person's step is at a different level, I believe that it would not be apt to judge. However, crossing the road in heavy traffic is a risky job." – P6
+When navigating on smaller city roads where pedestrian cross- ings may not be present, one participant (P7) said he prefers crossing the road at the point where a speed bump (raised surface designed to calm traffic) is encountered. As the speed bump is a delimiter for cars, drivers will likely reduce their speed prior to encountering one. In the event of a collision, it was thought to be a safer place to cross, as the damage to a pedestrian was thought to be minimized. This led to P7 spending more time to work out the position of speed bumps on busy roads and commit these to memory, which could be a demanding process.
+Participants were aware that technology could not offer much assistance in scenarios such as crossing busy highways. However, 
+ additional support to indicate locations where crossings may be 
+ more viable or times when traffic flow would be less, could provide 
+
+Using Public Transport
+Researchers have described people who are blind contending with chaotic, unreliable, and largely inaccessible modes of transporta- tion in India [24]. Participants in our study also highlighted some of these challenges, and mainly used buses in contrast to other modes of transport, as the bus network was extensive around the metropolitan area and provided a cheaper means of getting from location to location compared to taxis, rickshaws, or ridesharing 
+
+services. With respect to using public transport, participants de- scribed that bus stops were easy to locate, either using functional vision if available, or by asking others for assistance to direct them to a stop. When taking the bus to a new destination, participants highlighted that they asked the driver or conductor to let them know when to disembark. Trust was placed in public transport employees that they would stop at the user's requested destination. However, older buses often used within the city were found to be challenging, as they often do not have a platform that lowers to the height of the ground, meaning that a significant drop from the bus to the sidewalk is present. If done incorrectly or hastily, this could cause injury to the user.
+Participants (P1, P5, P6, P7, P11, P13) described situations where neither the driver nor conductor noticed them getting on or off the
+ bus (entrance/exit on older buses is towards the back away from the driver's view), and proceeded to move forward at a quick pace, causing them to fall.
+"There have been countless occasions where I have fallen because the driver did not notice me boarding the bus. I am safe when the conductor [or] people around the entrance notice me trying to get in or out of the bus." - P13
+Participants highlighted that falling was more of an eventuality and described preparing for this. This was particularly concerning for many reasons. However, this same situation may not occur within UMIC and HIC-related contexts where safety procedures coupled with more accessibility-friendly entrances/exits to buses help to limit accidents when getting on or off a bus.
+ While accessibility researchers have supported identification 
+ of stops for public transportation (e.g. [17]), our studies identified 
+ issues of poorly maintained sidewalks at these stops, and concerns 
+ regarding drivers moving of f prior to users (dis)embarking, both 
+A technical solution arising from this could be to develop technology to identify the accessibility of places to disembark, and to review the accessibility features of public transportation. This could potentially be achieved through a combination of automated technology and crowdsourced content from other blind users, for example using work suggested by Hara et al. [17, 18].
+Navigating in Inclement Weather 
+Participants with some functional vision available to them experi- enced challenges due to heavy rainfall during the four months-long rainy (monsoon) season, which reduced visibility when navigating, and if flooding occurred, could mask key landmarks which they relied upon for both guidance and orienting position. Other chal- lenges encountered included changes in terrain where tracks could become muddier, impacting navigation, and orientation. Interest- ingly, our participants mentioned that the cane was valuable to counteract the slippery nature of the surface when it rains. It was found to provide a method of maintaining stability. Some partic- ipants highlighted other ways they had developed to reduce the likelihood of slipping. Examples included going barefoot for short journeys. They mentioned that wearing slippers in waterlogged areas could be problematic as they either slide off or induce a fall. Furthermore, it was shown to be harder to detect terrain unless
+going barefoot. However, users were worried about encountering sharp obstacles during this process, as flooding from the rain would also mask the presence of these obstacles.
+"I don't mind going barefoot but then there is always a risk that there are objects on the road that may cause pain." - P7
+Using a mapping application on a mobile device to check the route would be futile, as the device would quickly become wet, difficult to operate, challenging to hold when the hands are encum- bered with both a cane and umbrella, and difficult to hear when raining heavily as audio would be masked. The inability to check the route on-the-fly, led participants to opt out of travel unless es- sential. While some of these issues can be solved using waterproof casing or feedback in alternative formats to audio, among others, they are still important characteristics to consider.
+Navigation at Nighttime 
+Nearly all participants highlighted concerns about navigating at nighttime, particularly in poorly lit areas. Participants were con- cerned for their safety due to the lack of people around. It was thought to be challenging to obtain help if lost. For participants with some light perception available to them, navigating within a locale with some street lighting could be helpful to detect obstacles, along with using the lights as a route to return home. Several par- ticipants described an interesting technique for navigating safely at night by interlocking their arms with one another, moving as a group towards their intended destination. Although they would still use the white cane (present in the dominant hand), this strat- egy would help when scanning for obstacles, and according to P5, "provides a sense of security when we navigate." Participants (P1 and P7) recounted the steps involved including first agreeing to interlock arms, agreeing on a lead, and then moving into a suitable position on the street prior to interlocking. When asked about the process of coming together as a group to interlock, P1 highlighted:
+"Interlocking is a very simple technique where two [or more] people go together. My arms are locked with another person's with either of us being in front of each other at an angle. We tend to use it sometimes in the night."
+The process would require coordination to ensure that white canes would not clash against the neighboring person's cane while walking, even if the arms are interlocked. The positioning of indi- viduals can vary once arms are interlocked; that depends very much on the situation or environment. For example, narrow sidewalks may demand blind individuals interlocking arms and moving in almost single file, while a wider road would be more amenable for sideways positioning. Positioning of individuals within the inter- locked chain appeared to depend on individual preferences and environmental factors. For example, some individuals can perceive light, while others can sense objects and shadows. These individuals may be located towards the edge of the interlinked chain of users to avoid gutters or other obstacles. Interlocking of arms is an entirely different method that people who are blind use to navigate from one place to another. Given the presence of curved narrow roads, or 
+ those filled with multiple obstacles, we were surprised to find that our participants used this technique frequently for navigation. We
+
+believe that with the preferences considered, there is a high chance that assistive technologies (AT) can complement the interlocking and make navigation considerably less challenging.
+DISCUSSION
+Sociocultural Context and Blind Navigation The majority of the difficulties relating to navigation faced by par- ticipants in our study stemmed from poorer levels of investment
+and maintenance in infrastructure, limiting both navigation and using technology to address challenges. The political and social context in which our research took place is of immense importance. We found that our participants had low expectations concerning infrastructural and legislative changes that might support their day-to-day navigation. Rozenberg and Fay [35] state that investing in infrastructure in LMICs is not enough; maintaining it matters. According to the researchers, effective maintenance can generate cost savings for LMICs, reducing the total lifecycle cost of specific types of infrastructure by up to 50%. Furthermore, spending funds efficiently in line with a country's goals is also paramount [35]. Also, given the socioeconomic and cultural diversity of a country like India, there is considerable variation in perspectives on dis- ability and the stigma attached [6, 22], which can lead to lack of empowerment or feeling that independence may be out of reach. Researchers conducting studies with disabled users in India, such as Pal and Lakshmanan [31], state that individuals can spend a good part of their lives with aspirations significantly driven by general social expectations of people with disabilities. The researchers also highlighted that cultural and entrenched social attitudes towards gender and disability in India can act as significant inhibitors, with women with disabilities having less agency in their access to pub- lic spaces than men with disabilities. Although we did not see an impact by gender in our findings, further investigation of this topic could be of interest.
+In LMICs, such as India, there is growing recognition for under- standing disability and accessibility from a multifaceted, nuanced perspective. However, there is limited access for people with disabil- ities living in rural areas or densely populated low-income urban regions to ATs or advanced education in using emerging systems designed for people with disabilities. Mobile devices are beginning to be seen as a primary form of AT for individuals with visual im- pairments, promoting personal independence [31]. Participants in our study described always carrying a phone on their person, and saw the potential value in using mobile technologies to support navigation. However, navigation solutions would need to better support their needs.
+The process of educating the public (for instance, research has highlighted the aspirational differences between adolescents who are blind compared to their sighted counterparts [15]), implement- ing policies, and finding ways to provide consistent access to ATs are time-consuming. However, there has been much hope in In- dia on account of recent government measures (i.e., The Rights of Persons with Disabilities Act [39]) coupled with the rise of special interest groups (e.g. Jyothirgamaya12) that strive to help people who are blind. There is an opportunity for these groups to collabo- rate with their counterparts in other countries with accessibility
+
+12 Jyothirgamaya - https://jyothirgamayaindia.org/
+legislation and policies over a more extended period to share knowl- edge and experiences and learn from each other's best practices. In countries where there is a strong emphasis on accessibility, it is easier for individuals to adapt, given the large-scale implementation of basic accessibility requirements. For instance, legislation in the United States (e.g., Americans with Disabilities Act [40]) ensures that people have better access when navigating (Braille labels at pedestrian crossings, curb cuts on crosswalks, etc.). We believe that sustained efforts, extracting the data from a UMIC/HIC context, and better interaction design can improve the quality of navigation across LMICs as well. Designers should ideally consider the chal- lenges faced when transporting design conventions and processes of HCI across cultures, with a view to adapting methods for the appropriate social, cultural, infrastructural and economic situations where interactions would take place [20].
+Our findings also point to the importance of considering third parties who people who are blind meet when navigating, including bus drivers and passersby who provide directions. This is in-line with previous research in LMICs that has emphasized the impor- tance of understanding stakeholder ecosystems when working to- wards equitable and inclusive services for people with disabilities [26].
+
+Individual Navigational Preferences
+Our study showed several preferences for blind navigation. First, it showed that participants did not prefer to use earphones while nav- igating because audio presented through the earphones can mask environmental cues. Participants preferred technologies that could provide them with the information needed without invading their personal space or requiring them to listen to it. This preference makes sense in their navigational context, where environmental noise is high. With the rise of computer vision and image process- ing, it is apt that any spatial information presented to blind users is non-intrusive and supports the process of navigation without overloading the user.
+Participants also described a preference for obtaining human assistance when traveling outdoors, especially when traveling to a new location or when navigating at night. This may differ in locations where people who are blind are accustomed to more tech- nological support. Overall, our participants expected that people would assist them in situations where technology would not work. For example, mobile navigation applications that provide informa- tion in real-time about the dynamically changing nature of objects in areas where construction is present, are limited in number. We believe that in such a scenario, human assistance is vital. Addi- tionally, this need for other people's support was stronger in new, rather than familiar places, and where there is limited or no infras- tructural accessibility support. Applications offering awareness of people within the locale ready to offer help may be beneficial in this context.
+Studies have shown that people who are blind often investigate locations by either finding out about floor plans and accessible routes online or by phone before visiting the venue [14, 33]. In line with these studies, our participants mentioned that they would like to know some details about a new place before visiting it. Along those lines, we see the development of AT for unfamiliar
+
+territories. Still, the implementation may prove difficult given the challenges described in Section 4.1. Researchers have developed assistive technologies to navigate indoor environments [3, 34]. We suggest that technology draws information about that location and present it to the user to aid navigation.
+The integration of environmental information with the users' mobile phones would help support navigation within indoor spaces such as shopping malls. Our participants mentioned that they do not enter malls due to the fear of getting lost in the open space as they have little to no information about the place's inner structure. Having a way to review an area before visiting it would be help- ful. For example, while using indoor maps, we suggest that data relating to usage of the building is presented on-the-fly to users. This could help blind users determine the presence of crowded and 
+etc., enabling them to plan their journey accordingly inside the building. This information can either be presented in the form of auditory or haptic feedback using a mobile device, based upon what they are looking out for. There has been prior work to suggest that interactive maps developed for people who are blind can aid them when navigating [9]. Interactive maps can also be used in LMICs and provide a more open set-up for people to use and navigate in space. However, people must also take into consideration the challenges that arise with the development of interactive maps as highlighted by [11]. Additionally, the emergence of mobile applica- tions (e.g., BeMyEyes, Aira) that connect the users to specialized personnel or sighted volunteers is another way to aid people who are blind when navigating.
+
+
+The White Cane as Reliable Technology
+Our participants described using the white cane as an effective strategy for day-to-day navigation. No participant had experience using service animals, despite such services being available in India where having access to a guide dog could support and even improve navigation without the assistance of friends or family. Participants told us that other, more sophisticated technologies could not replace the white cane for them but only complement its functionality. In places like India, the white cane is necessary given the complex environmental conditions and high ambient noise levels.
+Accessibility researchers have looked at ways to improve the overall usability of the white cane [19, 23]. Our participants men- tioned that they had heard of smart canes being used by others in India. However, they also highlighted some of the difficulties like detecting obstacles in places where a sensor is not present. Exam- ples include challenges detecting obstacles above the waist (e.g. tree branches), also highlighted in [27], which can lead to injury. While a number of researchers have augmented the white cane, the down- side is that many of these devices are not commercially-available. For off-the-shelf technologies such as the WeWalk smart cane, af- fordability may pose challenges, particularly for people coming from rural backgrounds. This point was backed-up by some of our participants who expressed concern about the price of assistive technologies.
+Given these circumstances, simple, affordable, and accessible de- signs seem more viable for use and adoption within a metropolitan
+area in India. Our findings show that the white cane far outweighs the reliance of other navigational technologies in this context.
+
+Implications for Design
+Our study has focused on the experiences of individuals navigating within an urban environment in India (an LMIC). Nuances pre- sented in Section 4 offer an insight to designers who may not have previously considered the challenges faced when navigating in locations where both infrastructure falls short and where environ- mental factors may impact both navigation and using technology to support journeys. Examples include the challenges faced within the monsoon season when navigating, interactions performed when navigating at night (e.g. interlocking of arms), difficulties cross- ing busy motorways or roads where pedestrian crossings are not present or where infrastructure may be lacking, and experiences actively seeking the presence of third parties to support navigation when in unfamiliar areas. These conditions offer opportunities for technology design intervention that considers specific infrastruc- tural, social, and environmental factors, including the presence of excessive ambient noise affecting auditory feedback, limited In- ternet connectivity, and the cost of acquiring and maintaining a device. Researchers have highlighted that while projects may have technical merit, and may solve observable problems, they still may fail to address the complex interplay of issues at work [28]. Value should be placed more so on users and their interactions, when thinking about ways to better support them. In this section, we present several directions for possible future technology design based on our findings.
+Several participants described how they place trust in public transport personnel as a reliable way to get to their intended desti- nation. They further explained how they often rely on bus drivers to help them find locations or directions. These highlight poten- tial opportunities where technology can help blind users better navigate public transit, especially in an urban setting. Some ef- forts have already focused on this area in UMIC and HIC contexts. Novel systems (e.g. [2, 4]) have been designed to help users with vi- sual impairments find information about bus-stops and buses, spot 
+ pedestrian crossings, some of which is directly related to what our participants suggested as a 'want to see.' Other solutions have been designed to help drivers [10]. In our study, participants described traveling by bus, but highlighted concerns regarding (de)boarding older vehicles due to the potential of falls. While this situation can happen due to human error, future sensor-based technologies may provide feedback to either the individual with visual impairments or a vehicle operator to make better decisions when it is safe to move and get off a vehicle. For instance, if the bus has come to a halt, the user can be alerted instantly, making them aware that it may be safe to deboard. Additionally, training bus drivers and other personnel in better serving patrons with disabilities can be effective.
+We believe that given the number of vehicles used for public transportation, similar efforts to provide real-time navigational access in the context of public transport can be explored in India. Improvements in this area can also help with safety, as users have access to more independent options for wayfinding if they feel safe. Furthermore, while participants described being comfortable with
+
+asking third parties for directions, having access to more informa- tion may also help them ask more tailored questions from people they encounter helping them to reach their intended destination with greater accuracy. This directly references the work undertaken on the public transport identification system [30] that enables the users to travel more freely at night as it is a user-triggered system based on audio cues generated at the entrance of the bus, and other work that describes the information relayed when people who are blind leverage public transport [17].
+Another area of future improvement can be the development of O&M training modules specifically for India, which are more targeted to the challenges faced described in Section 4. Training customized to the location can lead to better and safer navigation. A further particularly interesting future direction is to investigate how to support and train for the interlocking formation practice that we observed in our findings. The complexity of walking in a chain while detecting and moving around obstacles is a skill that takes time to develop. With the increase in online tools for learning, mobile applications can be leveraged to provide education and to complete the training while the user is at home and does not risk their safety.
+As seen from the myriad of previous research in this area, devel- oping new applications for/with people who are blind using emerg- ing technologies is both a challenging, and promising prospect, as design decisions require complex tradeoffs. We see this from the usage and development of technologies such as bone-conductance headsets often used by blind users to keep the ears free for ambient sounds (e.g., [16]). Bone conductance headsets may prove useful when navigating metropolitan areas where levels of ambient sound may be higher due to noise from traffic and construction. However, factors of cost, availability and the attention attracted by wearing the device may impact its usage.
+
+LIMITATIONS
+With the current sample size, it is challenging to draw concrete conclusions on the population's expectations, but the findings can offer an insight into the needs of individuals in environments where lack of investment or poorer maintenance of infrastructure may impact navigation. However, the sample size is reasonably repre- sentative of interview studies conducted with people who are blind [1, 5]. The difficulties associated with recruiting people with dis- abilities have been highlighted by researchers [36] who state that it can be challenging to recruit from a small population of gen- uinely representative users. Additionally, bringing disabled users to specific locations to participate in a study may not always be practical, particularly considering lockdown restrictions resulting from COVID-19.
+Participants in our study were asked to describe strategies used to support navigation. Most provided examples highlighting limited amounts of technological use. Other studies conducted with blind users in India have identified the limited mentions of app usage (e.g. [31]). However, technology usage may vary among people in India depending on their abilities to purchase and use technology, location (i.e., infrastructural factors) and the amount of traveling which is needed. Further work would be advantageous to explore this diversity and better understand interactions with technologies.
+CONCLUSION AND FUTURE WORK
+The study described in this paper investigates the navigational habits of 14 people who are blind in India. We identified an array of themes relating to navigational habits and preferences from a set of semi-structured interviews, which can be used by accessibility researchers and interface designers when considering the needs of users who may be impacted by infrastructure falling short and by environmental factors. This may help yield prototypes and products which better match the nuances of this audience. As the next logical step in the research, we would aim to widen our study to exploring experiences within semi-rural and rural environments, and looking more in-depth at the possible role of O&M training. We are also aware that observing users when navigating will complement and extend our current findings. For example, observing individuals coming together to interlock arms and maintain a set pace when moving could offer insights into how to support group navigation. We believe that research that investigates pedestrian crossings and navigation can be extended to nighttime navigation as a separate use case. This would lead to a more comprehensive version of the guidance to better match the needs of a more diverse sample. Finally, co-design methods can be used with people who are blind and their advocates to identify and engage local stakeholders, such as public transit authorities and relevant governmental agencies, in the creation of technological and policy solutions.
+REFERENCES
+Ali Abdolrahmani, Ravi Kuber, and Amy Hurst. 2016. An empirical investigation of the situationally-induced impairments experienced by blind mobile device users. In Proceedings of the 13th International Web for All Conference, ACM,
+New York, NY, USA. DOI:https://doi.org/10.1145/2899475.2899482
+Dragan Ahmetovic, Roberto Manduchi, James M. Coughlan, and Sergio Mascetti. 2015. Zebra crossing spotter: Automatic population of spatial databases for in- creased safety of blind travelers. In Proceedings of the 17th International ACM SIGACCESS Conference on Computers and Accessibility, ACM, New York, NY,
+USA, 251–258. DOI:https://doi.org/10.1145/2700648.2809847
+ Mai A. Al-Ammar, Hend S. Al-Khalifa, and Abdulmalik S. Al-Salman. 2011. A proposed indoor navigation system for blind individuals. In Proceedings of the 13th International Conference on Information Integration and Web- based Applications and Services - iiWAS '11, ACM Press, New York, NY, USA.
+DOI:https://doi.org/10.1145/2095536.2095647
+Shiri Azenkot, Sanjana Prasain, Alan Borning, Emily Fortuna, Richard E. Ladner, and Jacob O. Wobbrock. 2011. Enhancing independence and safety for blind and deaf-blind public transit riders. In Proceedings of the 2011 Annual Conference on Human Factors in Computing Systems - CHI '11, ACM Press, New York, NY,
+USA. DOI:https://doi.org/10.1145/1978942.1979424
+Stacy M. Branham, Ali Abdolrahmani, William Easley, Morgan Scheuerman, Erick Ronquillo, and Amy Hurst. 2017. Is someone there? Do they have a gun. In Proceedings of the 19th International ACM SIGACCESS Conference on Com- puters and Accessibility, ACM, New York, NY, USA. DOI:https://doi.org/10.1145/ 3132525.3132534
+Beula Christy and Praveen K. Nirmalan. 2006. Research reports: Acceptance of the long cane by persons who are blind in south India. J. Vis. Impair. Blind. 100, 2 (February 2006), 115–119. DOI:https://doi.org/10.1177/0145482x0610000207
+ Paulo Costa, Hugo Fernandes, Joao Barroso, Hugo Paredes, and Leontios J. Had- jileontiadis. 2016. Obstacle detection and avoidance module for the blind. In 2016 World Automation Congress (WAC), IEEE. DOI:https://doi.org/10.1109/wac.2016. 7582990
+Department for International Development. 2019. Scoping research report on assistive technology - on the road for universal assistive technology coverage. Retrieved June 30, 2021 from https://www.gov.uk/research-for-development- outputs/scoping-research-report-on-assistive-technology-on-the-road-for- universal-assistive-technology-coverage
+Julie Ducasse, Anke M. Brock, and Christophe Jouffrais. 2018. Accessible interac- tive maps for visually impaired users. In Mobility of Visually Impaired People. Springer International Publishing, 537–584. DOI:https://doi.org/10.1007/978-3-
+319-54446-5_17
+Brian Ferris, Kari Watkins, and Alan Borning. 2010. OneBusAway. In Proceedings of the 28th International Conference on Human Factors in Computing Systems -
+
+CHI '10, ACM Press, New York, NY, USA. DOI:https://doi.org/10.1145/1753326. 1753597
+ Jon E. Froehlich, Anke M. Brock, Anat Caspi, João Guerreiro, Kotaro Hara, Reuben Kirkham, Johannes Schöning, and Benjamin Tannert. 2019. Grand challenges in accessible maps. Interactions 26, 2 (February 2019), 78–81. DOI:https://doi.org/10. 1145/3301657
+ Nicholas A. Giudice, Benjamin A. Guenther, Toni M. Kaplan, Shane M. Anderson, Robert J. Knuesel, and Joseph F. Cioffi. 2020. Use of an indoor navigation system by sighted and blind travelers. ACM Trans. Access. Comput. 13, 3 (August 2020), 1–27. DOI:https://doi.org/10.1145/3407191
+Nicholas A. Giudice and Gordon E. Legge. 2008. Blind navigation and the role of technology. In The Engineering Handbook of Smart Technology for Aging, Disability, and Independence. John Wiley & Sons, Inc., Hoboken, NJ, USA, 479–
+500. DOI:https://doi.org/10.1002/9780470379424.ch25
+ Maya Gupta, Ali Abdolrahmani, Emory Edwards, Mayra Cortez, Andrew Tumang, Yasmin Majali, Marc Lazaga, Samhitha Tarra, Prasad Patil, Ravi Kuber, and Stacy
+M. Branham. 2020. Towards more universal wayfinding technologies: Navigation preferences across disabilities. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, ACM, New York, NY, USA. DOI:https:
+//doi.org/10.1145/3313831.3376581
+ Santoshi Halder and Poulomee Datta. 2012. An exploration into self concept: A comparative analysis between the adolescents who are sighted and blind in India. Br. J. Vis. Impair. 30, 1 (January 2012), 31–41. DOI:https://doi.org/10.1177/
+0264619611428202
+Giles Hamilton-Fletcher, Marianna Obrist, Phil Watten, Michele Mengucci, and Jamie Ward. 2016. I always wanted to see the night sky. In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems, ACM, New York,
+NY, USA, 2162–2174. DOI:https://doi.org/10.1145/2858036.2858241
+ Kotaro Hara, Shiri Azenkot, Megan Campbell, Cynthia L. Bennett, Vicki Le, Sean Pannella, Robert Moore, Kelly Minckler, Rochelle H. Ng, and Jon E. Froehlich. 2015. Improving public transit accessibility for blind riders by crowdsourcing bus stop landmark locations with Google Street View: An extended analysis. ACM Trans.
+Access. Comput. 6, 2 (March 2015), 1–23. DOI:https://doi.org/10.1145/2717513
+Kotaro Hara and Jon E. Froehlich. 2015. Characterizing and visualizing physi- cal world accessibility at scale using crowdsourcing, computer vision, and ma- chine learning. ACM SIGACCESS access. comput. 113 (November 2015), 13–21.
+DOI:https://doi.org/10.1145/2850440.2850442
+Julia Hertel, Armin Schaare, Philipp Feuerbach, Oscar Ariza, and Frank Steinicke. 2019. STIC - sensory and tactile improved cane. In Proceedings of Mensch und Computer 2019 on - MuC'19, ACM Press, New York, New York, USA. DOI:https:
+//doi.org/10.1145/3340764.3344905
+Lilly Irani, Janet Vertesi, Paul Dourish, Kavita Philip, and Rebecca E. Grinter. 2010. Postcolonial computing. In Proceedings of the 28th International Conference on Human Factors in Computing Systems - CHI '10, ACM Press, New York, NY,
+USA. DOI:https://doi.org/10.1145/1753326.1753522
+William Henry Jacobson. 1993. The art and science of teaching orientation and mobility to persons with visual impairments. American Foundation for the Blind.
+Christopher J. Johnstone, Sandhya Limaye, and Misa Kayama. 2017. Disability, culture, and identity in India and USA. In Inclusion, Disability and Culture. Springer International Publishing, Cham, 15–29. DOI:https://doi.org/10.1007/978- 3-319-55224-8_2
+ Jin Sun Ju, Eunjeong Ko, and Eun Yi Kim. 2009. EYECane: navigating with camera embedded white cane for visually impaired person. In Proceedings of the Eleventh International ACM SIGACCESS Conference on Computers and Accessibility - ASSETS '09, ACM Press, New York, New York, USA, 237–238.
+DOI:https://doi.org/10.1145/1639642.1639693
+ Vaishnav Kameswaran, Jatin Gupta, Joyojeet Pal, Sile O'Modhrain, Tiffany C. Veinot, Robin Brewer, Aakanksha Parameshwar, Vidhya, and Jacki O'Neill. 2018. We can go anywhere. Proc. ACM Hum. Comput. Interact. 2, CSCW (November 2018), 1–24. DOI:https://doi.org/10.1145/3274354
+Abha Khetarpal. 2014. Information and communication technology (ICT) and disability. Rev. Mark. Integr. 6, 1 (April 2014), 96–113. DOI:https://doi.org/10.1177/
+0974929214560117
+Lynn Kirabo, Elizabeth Jeanne Carter, Devon Barry, and Aaron Steinfeld. 2021. Priorities, technology, & power: Co-designing an inclusive transit agenda in Kampala, Uganda. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems, ACM, New York, NY, USA. DOI:https://doi.org/10.1145/ 3411764.3445168
+Roberto Manduchi and Sri Kurniawan. 2011. Mobility-related accidents ex- perienced by people with visual impairment. Insight Research and Prac- tice in Visual Impairment and Blindness 4, 2 (2011), 44–54. Retrieved
+from https://aerbvi.org/wp-content/uploads/2016/01/insight-04-02-complete_ Spring-2011.pdf#page=10
+ Jennifer Mankoff, Gillian R. Hayes, and Devva Kasnitz. 2010. Disability studies as a source of critical inquiry for the field of assistive technology. In Proceedings of the 12th International ACM SIGACCESS Conference on Computers and Accessibility - ASSETS '10, ACM Press, New York, NY, USA. DOI:https://doi.org/10.1145/1878803. 1878807
+ Rebecca Matter, Mark Harniss, Tone Oderud, Johan Borg, and Arne H. Eide. 2017. Assistive technology in resource-limited environments: a scoping review. Disabil. Rehabil. Assist. Technol. 12, 2 (February 2017), 105–114. DOI:https://doi.org/10. 1080/17483107.2016.1188170
+Dheeraj Mehra, Deepak Gupta, Neil Shah, Piyush Chanana, Rohan Paul, and P. Rao. 2015. Bus identification system for the visually impaired: Evaluation and learning from pilot trials on public buses in Delhi. Retrieved June 30, 2021 from https://assistech.iitd.ac.in/onboard.php#publication
+ Joyojeet Pal and Meera Lakshmanan. 2015. Mobile devices and weak ties: a study of vision impairments and workplace access in Bangalore. Disabil. Rehabil. Assist. Technol. 10, 4 (July 2015), 323–331. DOI:https://doi.org/10.3109/17483107.2014.
+974224
+John Pucher, Nisha Korattyswaropam, Neha Mittal, and Neenu Ittyerah. 2005. Urban transport crisis in India. Transp. Policy (Oxf.) 12, 3 (May 2005), 185–198.
+DOI:https://doi.org/10.1016/j.tranpol.2005.02.008
+ Pablo-Alejandro Quinones, Tammy Greene, Rayoung Yang, and Mark Newman. 2011. Supporting visually impaired navigation. In Proceedings of the 2011 Annual Conference Extended Abstracts on Human Factors in Computing Systems - CHI EA '11, ACM Press, New York, New York, USA. DOI:https://doi.org/10.1145/ 1979742.1979822
+Lisa Ran, Sumi Helal, and Steve Moore. 2004. Drishti: an integrated in- door/outdoor blind navigation system and service. In Proceedings of the 2nd IEEE Annual Conference on Pervasive Computing and Communications, IEEE.
+DOI:https://doi.org/10.1109/percom.2004.1276842
+Julie Rozenberg and Marianne Fay. 2019. Beyond the gap: How countries can afford the infrastructure they need while protecting the planet. The World Bank.
+DOI:https://doi.org/10.1596/978-1-4648-1363-4_fm
+Andrew Sears and Vicki Hanson. 2011. Representing users in accessibility re- search. In Proceedings of the 2011 Annual Conference on Human Factors in Computing Systems - CHI '11, ACM Press, New York, New York, USA, 2235–2238.
+DOI:https://doi.org/10.1145/1978942.1979268
+Michele A. Williams, Caroline Galbraith, Shaun K. Kane, and Amy Hurst. 2014. Just let the cane hit it. In Proceedings of the 16th International ACM SIGACCESS Conference on Computers & Accessibility - ASSETS '14, ACM Press, New York,
+NY, USA. DOI:https://doi.org/10.1145/2661334.2661380
+Michele A. Williams, Amy Hurst, and Shaun K. Kane. 2013. Pray before you step out. In Proceedings of the 15th International ACM SIGACCESS Conference on Computers and Accessibility - ASSETS '13, ACM Press, New York, NY, USA.
+DOI:https://doi.org/10.1145/2513383.2513449
+The Rights of Persons with Disabilities Act, 2016. Retrieved June 30, 2021 from https://legislative.gov.in/actsofparliamentfromtheyear/rights-persons- disabilities-act-2016
+Americans with Disabilities Act of 1990. Retrieved June 30, 2021 from https:
+//www.ada.gov/pubs/adastatute08mark.htm

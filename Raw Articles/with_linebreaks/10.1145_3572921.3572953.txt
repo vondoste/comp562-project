@@ -1,0 +1,524 @@
+Investigating User Risk Attitudes in Navigation Systems to Support People with Mobility Impairments
+Sadia Azmin Anisha
+School of Information Technology, Monash University Malaysia
+saani2@student.monash.edu
+ABSTRACT
+This paper investigates the impact of visualizing the risk of en- countering potential accessibility barriers on the route planning behaviour of pedestrians with mobility impairments. Using a pro- totype system, we explored the relationship between the risk of facing possible accessibility barriers and the navigation planning behaviour of the mobility impaired users. We found that mobility impaired users had a very strong inclination towards longer but accessible barrier-free routes instead of shorter potentially inac- cessible routes (being willing to travel over 900 metres to avoid barriers), suggesting a degree of risk aversion that goes beyond the literature. However, we have also observed users' varying risk attitudes towards obstacles based on the type of impairments, mo- bility aids, and individual perceptions and mobility preferences. Our investigation underscores the importance of presenting risk information, which is currently overlooked in accessible navigation systems.
+CCS CONCEPTS
+Human-Centred Computing; Interaction design; Accessi- bility;
+KEYWORDS
+Urban Accessibility, Navigation Systems, Mobility Impairment, Risk Visualization
+ACM Reference Format:
+Sadia Azmin Anisha and Reuben Kirkham. 2022. Investigating User Risk At- titudes in Navigation Systems to Support People with Mobility Impairments. In Proceedings of the 34th Australian Conference on Human-Computer Interac- tion (OzCHI '22), November 29–December 02, 2022, Canberra, ACT, Australia. ACM, New York, NY, USA, 8 pages. https://doi.org/10.1145/3572921.3572953
+
+INTRODUCTION AND BACKGROUND
+Mobility is a vital requirement for leading an independent life [45]. Unfortunately, it remains a major difficulty for a broad range of people with disabilities [24], due to the present condition of the built environment, which contains a number of barriers. People
+
+Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. Copyrights for components of this work owned by others than the author(s) must be honored. Abstracting with credit is permitted. To copy otherwise, or republish, to post on servers or to redistribute to lists, requires prior specific permission and/or a fee. Request permissions from permissions@acm.org.
+OzCHI '22, November 29–December 02, 2022, Canberra, ACT, Australia
+© 2022 Copyright held by the owner/author(s). Publication rights licensed to ACM. ACM ISBN 979-8-4007-0024-8/22/11. . . $15.00
+https://doi.org/10.1145/3572921.3572953
+Reuben Kirkham
+Department of Human-Centred Computing, Monash University
+reuben.kirkham@monash.edu
+with mobility impairments often rely upon various forms of mobil- ity aids (e.g., wheelchairs, sticks/cranes, crutches, guide dogs etc.) to navigate around urban areas, depending on the type of mobility impairment and the level of severity [8], [38]. Yet only few stud- ies have actually focused upon designing navigation technologies in the context of people with disabilities addressing their daily mobility challenges [15], [49].
+An 'accessibility barrier' is a feature of the built environment that makes it difficult or impossible for people with mobility impair- ments to reach their destinations while navigating in the built envi- ronment [38]. Mobility impaired pedestrians frequently encounter accessibility barriers such as stairs, bollards, missing dropped kerbs, 
+their daily lives [26], [40], [45]. Some of these obstacles can be anticipated and avoided if the wheelchair users receive adequate information about the barriers to wheelchair access (especially before visiting an unfamiliar area), through an information system accommodating a broad user-base, which could satisfy varying individual perceptions and mobility needs along with the dynamic urban conditions [12], [26], [40].
+The problem is that none of the existing navigation systems (e.g., Google Maps) including the specialist wheelchair routing systems like Routino and OpenRouteService, are presently capable of iden- tifying these accessibility barriers to offer appropriate routes for mobility impaired pedestrians, mainly due to the unavailability of adequate geographical map data containing up-to-date wheelchair accessibility information [12], [18], [24], [29-31], [39], [40], [43-46]. Many studies have proposed techniques in an attempt to improve the accuracy of OpenStreetMap data either by collecting input and feedback directly from mobility impaired users, [2], [3], [18], [27], [31], [43-45] by employing volunteers for data collection [16], or by tracking users' movement and location [22], [24], [44], [45]. How- ever, little effort has been made yet to address how to manage the inevitable risk of imperfect accessibility information being provided to the users.
+Since encountering undocumented accessibility barriers is nearly inevitable given the state of the built environment, disclosing the
+ risk of finding possible obstacles or missing accessibility data could provide users informed choices of whether to avoid the risk by tak- ing alternative transportation modes, or at least prepare themselves (e.g., by starting their journey earlier, seeking guidance) if they are willing to take the suggested high-risk routes. Therefore, address- ing these challenges is important to notify people with mobility impairments in advance about the risk of experiencing unwanted accessibility barriers in order to facilitate route planning for mo- bility impaired pedestrians in the built environment, as well as
+
+
+Figure 1: Accessibility Risk Information of Four Suggested Routes in Scenario 1
+
+minimize their likelihood of experiencing serious accidents and thus the injuries (and/or loss of confidence) that goes with them.
+The contribution of this paper is an investigation of the impact of visualizing the risk of facing certain potential accessibility bar- riers in advance on the route planning behaviour of the mobility impaired pedestrians, using our proposed user interface prototype as a tool for data collection through a survey. The data analysis and result interpretations, followed by implications are discussed in sections 3 and 4 respectively. Our results illustrate the potential impact of visualizing the risk of obstacles on the navigation choices of the mobility impaired participants, based on their mobility aids and risk attitudes towards certain types of accessibility barriers in the built environment.
+METHODOLOGY
+User Interface Prototype
+The primary objective of this study was to explore the risk attitudes of mobility impaired people with regards to route planning as pedes- trians, upon visualizing the risk of encountering certain potential accessibility barriers within the suggested routes in advance. Our user interface prototype (as demonstrated in Figure 1) was designed to display accessibility information including the risk of facing potential accessibility when planning a journey from 'A' to 'B', so that mobility impaired users can make informed decisions prior to initiating their trips. This would allow our target users to decide which route to select (e.g., the shortest route or a longer route with
+
+least accessibility barriers) or even switch to other transportation modes (e.g., public transport, taxi), based on their priorities and mobility preferences if they wish to travel as pedestrians with their mobility aids. Furthermore, the interface prototype was designed to be usable with keyboard commands to satisfy the WCAG 'Key- board Accessible' accessibility guidelines [35], [36], [42] (as many participants had physical impairments that limit their ability to effectively operate a computer using traditional input devices, and it was important for this not to be a barrier in accessing our survey).
+
+Study Design
+This study is exploratory in nature. Our proposed visualization model for geospatial assistive technologies (GATs) was evaluated through an online survey containing both multiple choice (quan- titative) and open-ended questions (qualitative). The survey was designed to investigate the route selection decisions that mobility impaired users took based on the route lengths and the risks of potential accessibility barriers presented within the demonstrated routes. This study was approved by our University Human Research Ethics Committee prior to conducting the survey.
+The interactive map prototype was embedded in the survey questionnaire with 10 different scenarios (each with four routes) in order to allow participants to interact with the user interface while participating in the survey, so that they could simultaneously analyze the potential accessibility barriers within the given arbi- trary routes (as demonstrated in the prototype) and select their preferred routes for each scenario if they were still willing to travel as pedestrians with their mobility aids (e.g., wheelchairs). If they entirely chose to abandon the suggested routes, they could also opt for other private/public transportation modes (e.g., car, taxi, ride-hailing apps such as Uber, Lyft, Grab) to reach their destination points safely and smoothly within an expected duration. For each scenario, the participants were required to provide the reason(s) for their choice, which is the qualitative part of the survey data, analyzed by applying thematic analysis.
+To maximize the recruitment of mobility impaired participants, target users were invited to participate in the survey via both email and social media platforms, which included relevant Facebook and LinkedIn groups. The survey was conducted for a month involving 20 participants with diverse age groups (25 to >55) from the UK, USA and Australia (demographics summarized in Table 1).
+
+RESULTS AND INTERPRETATION
+Quantitative Results
+The results are presented in terms of examples from the survey. The quantitative results (summarized in Table 2) reveal that as the average number of barriers (i.e., risk of facing each nominated barrier × number of barriers) within each route increases, most participants tend to avoid all the suggested four routes – Route 1, Route 2, Route 3, Route 4, and opt for other safer options (e.g., public/private transportation) in every scenario, particularly where all the four routes have two or more barriers, even if longer routes have fewer barriers or lower risk of barriers compared to the shorter routes. Apparently, 80% and 70% participants selected the longest route (Route 4) regardless of its distance in scenarios – see S1 and
+S9 respectively, where it had no potential barrier, only to avoid relatively low risks of facing a particular barrier in shorter routes. Surprisingly, participants seem willing to even travel a signifi- cantly longer distance (i.e., 900 metres) further to bypass the risk of facing all the possible barriers. In S5, 30% participants chose the longest route (Route 4) which is 500 metres longer than the next shortest route (Route 3), having the risk of encountering only one barrier. Additionally, some respondents also selected shorter routes indicating that they might be indifferent to the accessibil- ity barriers listed in those routes. Yet, in all the given scenarios, participants seemed most likely to ignore all the recommended routes with risky accessibility barriers and preferred other safer choices, unless a suggested route is barrier-free, because of their reluctance to compromise between lengthy routes with lower risk and shorter routes with high risk. In fact, 90% participants selected other alternatives in the last scenario (S10) where all the routes had some risk of facing six types of barriers, which means travelling an additional 1 km through Route 4 for the lowest possible risk (35%) might not be worth it. Otherwise, reasonably the longest distance they might be willing to travel, i.e., the distance ceiling is 3.7 km which is observed in S9. This exhibits that if accessible routes are available within a manageable distance for their mobility aids, then mobility impaired people would possibly proceed with the suggested routes rather than taking alternatives. Overall, our participants on average had a low risk appetite when encountering
+barriers, although there were the occasional exceptions.
+
+Qualitative Results
+Low Risk Tolerance. The qualitative results which are mainly the reasons behind the navigation choices of the participants (P1 – P20), can further support the quantitative results (presented in 3.1). One of our key findings is the participants' willingness to take longer routes for avoiding moderate or low risks of facing any barrier as they would prefer barrier-free routes (reflected by S1 & S9).
+In the first scenario (S1), a vast majority of participants chose the longest route (Route 4) because this route had no risk of en- countering any potential barrier: "I would rather take a longer route than a potentially inaccessible one." (P1). This means that although the other three routes had only two potential accessibility barriers with very low risks, respondents would prefer to travel 300 metres further (compared to Route 1) to completely avoid the possibility of facing any obstacle. Their key intention was to reach their des- tination within the expected time by ignoring trip interruptions resulting from potential obstacles: "No known obstacles that could delay or stop me." (P10). Specifically, avoiding all potential obsta- cles would possibly eliminate the journey time uncertainty and minimize the cost of re-routing (as explained by P14): "It's the one with no hazards so the journey time will be most accurate. I'll use
+that much energy without needing to find more to change route or navigate".
+A similar result was observed in S9 where a significant majority of respondents again selected Route 4 because it also had no risk of barrier in this scenario. However, surprisingly, participants were willing to even travel an additional 900 metres through the longest possible route with no barrier, to avoid a moderate risk of only
+Table 1: Participant Demographics
+
+Participant Identifier
+Country
+State/City
+Age
+Mobility Aid Type
+Most Challenging Accessibility Barriers 
+P1
+USA
+Oviedo
+25 - 34
+Sticks/canes, Guide dogs,
+Stairs, Missing dropped kerbs, Narrow
+Rolling walker
+P2 England Derby 34 - 44 Manual Wheelchair,
+Sticks/canes
+P3 USA Dothan, AL 34 - 44 Electric Wheelchair,
+Sticks/canes
+P4 USA Fredericksburg 18 - 24 Manual Wheelchair, Guide
+dogs
+sidewalk, Cracked/broken sidewalk
+Stairs, Missing dropped kerbs, Steep slope, Rough surface, Narrow sidewalk, Cracked/broken sidewalk
+Missing dropped kerbs, Steep slope, Rough surface, Narrow sidewalk, Cracked/broken sidewalk
+Stairs, Narrow sidewalk, Cracked/broken sidewalk
+P5 UK Telford 55 and above
+Manual Wheelchair Stairs, Steep slope, Barriers & gates across
+paths
+P6 Wales Pembroke 55 and above
+Electric Wheelchair, Manual Wheelchair, Companion
+Stairs, Bollards, Missing dropped kerbs, Steep slope, Rough surface, Narrow sidewalk, Cracked/broken sidewalk
+P7 England Leicester 34 - 44 Electric Wheelchair,
+Manual Wheelchair
+P8 Scotland Dunfermline 25 - 34 Manual Wheelchair,
+Handcycle
+Stairs, Bollards, Missing dropped kerbs, Rough surface, Cracked/broken sidewalk, Cars parked on paths
+Stairs, Bollards, Steep slope, Rough surface, Cracked/broken sidewalk, Cycling barriers
+P9 England Leicester 25 - 34 Manual Wheelchair Stairs, Missing dropped kerbs, Steep slope,
+Rough surface, Narrow sidewalk, Cracked/broken sidewalk
+P10 UK Worcester 45 - 54 Electric Wheelchair,
+Manual Wheelchair
+Stairs, Missing dropped kerbs, Steep slope, Rough surface, Narrow sidewalk
+P11 UK Lancashire 55 and above
+Manual Wheelchair Stairs, Bollards, Missing dropped kerbs, Steep
+slope, Rough surface, Narrow sidewalk, Cracked/broken sidewalk
+P12 UK Swansea 55 and above
+Electric Wheelchair, Manual Wheelchair
+Stairs, Missing dropped kerbs, Steep slope, Rough surface, Narrow sidewalk, Cracked/broken sidewalk
+P13 Australia Melbourne 34 - 44 Sticks/canes Steep slope
+P14 Scotland Edinburgh 34 - 44 Manual Wheelchair Stairs, Missing dropped kerbs, Steep slope,
+Rough surface, Narrow sidewalk, Cracked/broken sidewalk
+P15 USA Talladega 55 and Manual Wheelchair,
+above Electric Scooter
+Stairs, Bollards, Rough surface
+P16 USA Carlton 45 - 54 Electric Wheelchair,
+Manual Wheelchair P17 Australia Melbourne 25 - 34 Manual Wheelchair,
+Mobility Scooter
+P18 Australia Melbourne 34 - 44 Electric Wheelchair,
+Manual Wheelchair
+Stairs, Missing dropped kerbs, Rough surface, Narrow sidewalk, Cracked/broken sidewalk Stairs, Bollards, Missing dropped kerbs, Steep slope, Rough surface, Narrow sidewalk, Cracked/broken sidewalk
+Stairs, Missing dropped kerbs, Steep slope, Rough surface, Cracked/broken sidewalk
+P19 England London 34 - 44 Walking Frame Missing dropped kerbs, Steep slope, Rough
+surface, Narrow sidewalk, Cracked/broken sidewalk
+P20 USA San Jose, California
+45 - 54 Manual Wheelchair,
+Sticks/canes, Rollator
+Stairs, Missing dropped kerbs, Steep slope, Narrow sidewalk, Cracked/broken sidewalk
+
+1 This table shows important attributes of the selected participants which can influence their route preferences.
+Table 2: Summary of Quantitative Results
+
+Scenario Navigation
+Options
+Distance (km)
+Risk (%) of each Barrier( )
+Number of Barriers
+Average No. of Barri- ers( 
+× )
+Participants (%)
+S1 Route 1
+1 km
+15%
+2
+0.3
+0%
+Route 2
+1.1 km
+10%
+2
+0.2
+5%
+Route 3
+1.2 km
+5%
+2
+0.1
+10%
+Route 4
+1.3 km
+0%
+2
+0
+80%
+Others
+N/A
+N/A
+N/A
+N/A
+5%
+S2 Route 1
+1.5 km
+50%
+4
+2.0
+5%
+Route 2
+1.75 km
+58%
+3
+1.7
+10%
+Route 3
+2 km
+50%
+3
+1.5
+5%
+Route 4
+2.25 km
+63%
+2
+1.3
+20%
+Others
+N/A
+N/A
+N/A
+N/A
+60%
+S3 Route 1
+1.5 km
+60%
+3
+1.8
+15%
+Route 2
+1.8 km
+50%
+3
+1.5
+10%
+Route 3
+2.1 km
+40%
+3
+1.2
+10%
+Route 4
+2.4 km
+30%
+3
+0.9
+0%
+Others
+N/A
+N/A
+N/A
+N/A
+65%
+S4 Route 1
+1.5 km
+60%
+4
+2.4
+10%
+Route 2
+1.9 km
+50%
+4
+2.0
+10%
+Route 3
+2.3 km
+40%
+4
+1.6
+5%
+Route 4
+2.7 km
+30%
+4
+1.2
+0%
+Others
+N/A
+N/A
+N/A
+N/A
+75%
+S5 Route 1
+1.5 km
+50%
+4
+2.0
+10%
+Route 2
+2 km
+50%
+3
+1.5
+15%
+Route 3
+2.5 km
+50%
+2
+1.0
+5%
+Route 4
+3 km
+50%
+1
+0.5
+30%
+Others
+N/A
+N/A
+N/A
+N/A
+40%
+S6 Route 1
+1.2 km
+60%
+6
+3.6
+5%
+Route 2
+1.8 km
+50%
+6
+3.0
+5%
+Route 3
+2.4 km
+40%
+6
+2.4
+5%
+Route 4
+3 km
+30%
+6
+1.8
+5%
+Others
+N/A
+N/A
+N/A
+N/A
+80%
+S7 Route 1
+1 km
+70%
+6
+4.2
+5%
+Route 2
+1.7 km
+70%
+5
+3.5
+10%
+Route 3
+2.4 km
+70%
+4
+2.8
+10%
+Route 4
+3 km
+70%
+3
+2.1
+10%
+Others
+N/A
+N/A
+N/A
+N/A
+65%
+S8 Route 1
+1 km
+80%
+6
+4.8
+5%
+Route 2
+1.8 km
+80%
+5
+4.0
+5%
+Route 3
+2.6 km
+80%
+4
+3.2
+0%
+Route 4
+3.4 km
+80%
+3
+2.4
+10%
+Others
+N/A
+N/A
+N/A
+N/A
+80%
+S9 Route 1
+1 km
+45%
+6
+2.7
+0%
+Route 2
+1.9 km
+45%
+4
+1.8
+5%
+Route 3
+2.8 km
+45%
+2
+0.9
+10%
+Route 4
+3.7 km
+45%
+0
+0
+70%
+Others
+N/A
+N/A
+N/A
+N/A
+15%
+S10 Route 1
+1 km
+85%
+6
+5.1
+0%
+Route 2
+2 km
+68%
+6
+4.1
+10%
+Route 3
+3 km
+52%
+6
+3.1
+0%
+Route 4
+4 km
+35%
+6
+2.1
+0%
+Others
+N/A
+N/A
+N/A
+N/A
+90%
+
+two potential accessibility barriers in Route 3 so that they can travel independently with their mobility aid, as two participants explained: "It's a long route but safe for me to try on my own" (P9), or as P18 put it, it is a "long route but no obstacle for my wheelchair" (P18).
+In cases where all the four offered routes had more than one barrier, majority of the respondents decided to discard all the poten- tially inaccessible pathways with risky accessibility barriers, and preferred other safer options to avoid the risk of being stuck or de- layed while passing through an unfamiliar area. The best examples were represented by S6 and S10, where almost all the participants opted for other public or private transportations (e.g., taxi, driving own car) to abandon all the four routes containing six same types of barriers with different risks in each route. In S6, Route 4 has the lowest risk of facing each barrier type (30%), but since its distance is 600 metres longer than that of the next shortest route (Route 3), participants were reluctant to trade-off lengthy routes for a lower risk of facing obstacles: "All routes are too steep for a wheelchair, but journey may be far enough for taxi. . ." (P9). To be specific, even with low risks, participants were less willing to take a chance on longer routes with their mobility aids, and hence would take other trans- portation modes (e.g., taxi) instead. Similarly, in S10, participant P14 specified the anticipated probability of re-routing due to the potential obstacles in an unfamiliar area to be the reason behind ignoring all the risky routes and opt for alternate transportation modes, as the severity of barriers are unknown, and hence it might not be worth the effort: "Because there's hazards on all routes, I don't know the area to know how bad or what the hazard is, how bad the
+broken pavement is, how many stairs etc. so rather than waste energy it's the better option."
+In certain scenarios (e.g., S4, S8, S10), some respondents would also tend to avoid the routes containing specific type(s) of acces- sibility barrier that they might be susceptible to or concerned of, such as steep slope: "Each route has a steep hill" (P12 in S8), or an unknown barrier "All routes had an unknown barrier" (P10 in S4), and/or narrow sidewalk: "All routes had narrow sidewalk or unknown barrier risk % that were not worth risking" (P9 in S10). This indicates that mobility impaired people are likely to avoid the routes containing the particular barriers they are vulnerable to.
+Attempt to Minimize Pedestrian Trip Expenses. As indicated by P14 in S9, trip expense can be a possible reason that may prevent 
+ mobility impaired pedestrians to take public or private transporta- 
+ tions (e.g., taxi), especially if there is a barrier-free route even if it is 
+ significantly longer: "It got no hazards and after all the journeys by 
+ taxi I'd be broke and in dire need of fresh air and exercise!" As such, there is a minority group who take a different viewpoint from the majority in respect of their risk attitudes, due to practical reality.
+Additionally, results from scenario S5 provide supplemental evi- dence of trip expense avoidance, where a significant proportion of the participants selected Route 4 having only one barrier that was unknown, instead of taking other transportation modes. This im- plies that these participants were even willing to travel 500 metres longer than Route 3 and take 50% risk with an unknown barrier since other routes had more obstacles, saying they "would take a chance on the unknown compared to what was shown for the other routes." (P5). This might be also because they think that only one
+barrier could be managed (as mentioned by P1): "The unknown bar- rier could be easy to avoid/get help with." – in other words, frequency is an important factor for them.
+Another interesting response in S6, from participant P10 who chose Route 4 (600 metres longer than Route 3) containing six potential barriers, indicates their readiness to travel additional 600 metres as pedestrians rather than spending money on other trans- portations (unless really necessary), because the barriers were man- ageable by their mobility aid and the risk was relatively low (30%): "Manageable barriers in my electric chair, and the unknown barrier was only 30%, although if it was essential to get there on time, I would have taken car or taxi." Similarly, this participant again chose Route 4 containing three potential barriers with very high risk (80%) in S8, because the barriers listed in this route were manageable: "although a high risk %, the barriers should have been manageable in electric wheelchair".
+Willingness to Take Shorter Routes. In a number of cases, some participants have also expressed willingness to take high risk for shorter routes- Route 2, Route 3 or even Route 1. For example, in S2, participant P7 chose the second shortest path (Route 2) having a considerably high risk of encountering a steep slope because it was manageable by their electric wheelchair: "Because my power chair should cope with the slope." This is again supported by P10 in S9, who chose Route 3 having two potential barriers with moderate risk (45%) because the barriers were manageable, and it was 900 metres shorter than Route 4: "Barriers manageable and substantially shorter than route 4".
+Some participants might be willing to take a certain level of risk to travel shorter distances. For instance, in S2, participant P8 selected Route 3 containing three potential barriers each with a 50% risk, simply because of their ability to manage physical accessibility challenges with their mobility aids: "Because it looks interesting and I'm not afraid of wheelchair challenges." This participant even selected Route 1 containing a considerably high risk of six potential barriers (60%) in S6, because it was the shortest route: "Because it's most straightforward, looks most efficient route."
+Therefore, this implies that our target users can be disparately affected by different types of accessibility barriers based on the type of mobility aid and individual preferences. Whilst this is not surprising, it is important to consider the variety of concerns and risk attitudes, as well as recognize the heterogeneity within this population.
+DISCUSSION AND CONCLUSION
+In this paper, we have explored the risk attitudes of people with mobility impairments for the first time in the context of route planning by utilizing our proposed interactive map prototype. From our analysis, we observed a prominent impact of visualizing the risk of obstacles within given arbitrary routes on the routing behaviour of the mobility impaired people, which justifies the significance of our risk-based approach. Our findings imply that mobility impaired pedestrians prefer longer barrier-free routes over shorter routes with considerably low risk of facing fewer barriers, and thereby indicating substantial risk-averseness of mobility impaired people in general with regards to encountering accessibility barriers while navigating as most of them were sensitive to even low risks.
+
+Nonetheless, one of our key interesting findings is that a consid- erable majority of participants have revealed willingness to even travel a significantly longer distance such as 900 metres further to bypass the risk of facing all the possible barriers in order to independently reach their destinations with their mobility aids within expected duration. This suggests that participants were still inclined to a barrier-free route even when the distance penalty of barrier avoidance (900 metres) is high, specifically a lot higher than the 500 metres distance gap used in the simulation paper by Tannert et al. (2019) presenting a similar finding [40]. Conversely, the perceived inconvenience concerning the cost of re-routing if a barrier is hit outweighs the actual risk of experiencing a barrier. However, this may vary amongst individuals with heterogeneous risk attitudes towards different types of barriers who might be will- ing to choose shorter routes with higher risk of barriers because of being indifferent to the potential barriers present based on their mobility aids. For instance, an electric wheelchair user may not be concerned about steep slopes as much as a manual wheelchair user. A navigation system displaying a lower risk is therefore still useful for the group possessing low risk threshold.
+Generally, addressing the risk of experiencing different types of accessibility barriers can distinctively affect the navigation be- haviour of mobility impaired individuals depending on their type of the mobility aids determined by their nature of impairment, as well as their risk propensity along with their individual perspective regarding specific types of barriers [18]. This means that mobility impaired people can prepare beforehand by at least starting their journeys earlier, or seeking physical help from a caregiver, or even switching to other transportation modes (public/private) if required. In other words, people would at least know when to take a taxi, even though they can't afford it; and for those who can afford an alternative transportation mode, this would provide them with an informed choice.
+Moreover, our approach can also help to alleviate the negative ef- fect of incomplete geographic accessibility data by notifying target users in advance regarding the risk of potential unknown barriers of concern resulting from missing geodata, especially in the undoc- umented areas. Therefore, existing navigation systems (e.g., Google Maps) should consider incorporating potential risk features to im- prove its accessibility accuracy required for better route planning experience for the mobility impaired community, which in turn can enhance user satisfaction.
+
+LIMITATIONS AND FUTURE WORK
+Our study was restricted to people with motor impairments (mainly wheelchair users). This means our findings may not generalize to people with other type of impairments such as sensory impairments (e.g., visual impairments) or cognitive impairments (e.g., dementia), that can also hinder their navigation ability and may therefore possess dissimilar navigation behaviour as well as attitude towards our risk-based approach. An important limitation of this study was the limited number of relevant participants because of the difficulty recruiting relevant participants, as many people were reluctant to complete the survey. Consequently, our respondents were mostly based in relatively well-developed cities in regions like the UK, USA and Australia, since we could not target users from more
+diverse areas including less accessible developing cities, which could generate different results representing divergent risk propensity and navigation behaviour. Likewise, a city's level of documentation with reference to wheelchair accessibility can potentially affect the performance of our visualization model [40]. This means further work is needed to discover the risk attitudes of people with mobility impairments concerning urban navigation in other more (or less) accessible cities. In the future, we plan to extend our work by incorporating the frequency of potential barriers (e.g., the length of the barriers) to explore the variation in the navigation behaviour of mobility impaired users. Additionally, we hope to perform field experiments with more realistic scenarios and time constraints for better understanding of users' risk perception with respect to route planning.
+
+REFERENCES
+ Ahmed, M., Adil, M., & Latif, S. (2015, December). Web application prototype: State-of-art survey evaluation. In 2015 National Software Engineering Conference (NSEC) (pp. 19-24). IEEE. https://doi.org/10.1109/NSEC.2015.7396339
+ Barczyszyn, G. L., Camenar, L. M. D. O., Nascimento, D. D. F. D., Kozievitch, N. P., Silva, R. D. D., Almeida, L. D., ... & Minetto, R. (2018). A collaborative system for suitable wheelchair route planning. ACM Transactions on Accessible Computing (TACCESS), 11(3), 1-26. https://doi.org/10.1145/3237186
+ Beale, L., Field, K., Briggs, D., Picton, P., & Matthews, H. (2006). Mapping for wheelchair users: Route navigation in urban spaces. The Cartographic Journal, 43(1), 68-81. https://doi.org/10.1179/000870406X93517
+Blissett, R. (2017, November). RPubs - Logistic, Ordinal, and Multinomial Regression in R. Rpubs.com. Retrieved 24 November 2021, from https://rpubs.com/rslbliss/r_ logistic_ws.
+Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. Qualitative Research in Psychology, 3(2), 77–101. https://doi.org/10.1191/1478088706qp063oa
+Brock, A., Truillet, P., Oriola, B., Picard, D., & Jouffrais, C. (2012, July). Design and user satisfaction of interactive maps for visually impaired people. In Computers Helping People with Special Needs (pp. 544–551). Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-642-31534-3_80
+Brock, A. M., Truillet, P., Oriola, B., Picard, D., & Jouffrais, C. (2015). Inter- activity improves usability of geographic maps for visually impaired people. Human–Computer Interaction, 30(2), 156-194. https://doi.org/10.1080/07370024.
+2014.924412
+Bromley, R. D., Matthews, D. L., & Thomas, C. J. (2007). City centre accessibility for wheelchair users: The consumer perspective and the planning implications.
+Cities, 24(3), 229–241. https://doi.org/10.1016/j.cities.2007.01.009
+Choudhury, A. (2015). Questionnaire Method of Data Collection : Advantages and Disadvantages. Retrieved from https://www.yourarticlelibrary.com/social- research/data-collection/questionnaire-method-of-data-collection- advantages-and-disadvantages/64512
+Ergun, E. (n.d.). User testing - 8 tips for using online surveys to test UX. Retrieved 20 October 2021, from https://marvelapp.com/blog/8-tips-for-using-online-surveys- for-user-testing/
+Escobar, L. (2015, July). The Most Effective Research Tools for Gathering Customer Feedback. Retrieved 20 October 2021, from https://www.mindtheproduct.com/ tools-for-customer-feedback/
+ Froehlich, J. E., Brock, A. M., Caspi, A., Guerreiro, J., Hara, K., Kirkham, R., ... & Tannert, B. (2019). Grand challenges in accessible maps. interactions, 26(2), 78-81.
+ Froehlich, J. E., Saugstad, M., Saha, M., & Johnson, M. (2020). Towards Mapping and Assessing Sidewalk Accessibility Across Socio-cultural and Geographic Contexts. In AVI Workshop on Data4Good-Designing for Diversity and Development (To Appear) (Vol. 6).
+Glen, S. Poisson Distribution / Poisson Curve: Simple Definition. Statis- ticsHowTo.com: Statistics for the rest of us! Retrieved 5 November 2021, from https://www.statisticshowto.com/probability-and-statistics/statistics- definitions/probability-distribution/poisson-distribution/
+Gupta, M., Abdolrahmani, A., Edwards, E., Cortez, M., Tumang, A., Majali, Y., ... & Branham, S. M. (2020, April). Towards More Universal Wayfinding Technolo- gies: Navigation Preferences Across Disabilities. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1-13).
+ Hara, K., Azenkot, S., Campbell, M., Bennett, C. L., Le, V., Pannella, S., ... & Froehlich, J. E. (2015). Improving public transit accessibility for blind riders by crowdsourcing bus stop landmark locations with google street view: An extended analysis. ACM Transactions on Accessible Computing (TACCESS), 6(2), 1-23. https://doi.org/10.1145/2717513
+
+Harris, T. (2007). Why you need to use statistics in your research. Electronic document available at mheducation.co.uk.
+ Hashemi, M., & Karimi, H. A. (2017). Collaborative personalized multi-criteria wayfinding for wheelchair users in outdoors. Transactions in GIS, 21(4), 782–795. https://doi.org/10.1111/tgis.12230
+How Fast Are Power Wheelchairs? Hoveround.com. (2013). Retrieved 5 November 2021, from https://www.hoveround.com/articles/how-fast-can-a-power-chair- go
+Inada, Y., Izumi, S., Koga, M., & Matsubara, S. (2014). Development of planning support system for welfare urban design–optimal route finding for wheelchair users. Procedia Environmental Sciences, 22, 61–69. https://doi.org/10.1016/j.proenv. 2014.11.006
+Iwarsson, S., & Ståhl, A. (2003). Accessibility, usability and universal design— positioning and definition of concepts describing person-environment relation- ships. Disability and Rehabilitation, 25(2), 57–66. https://doi.org/10.1080/dre.25.2. 57.66
+Iwasawa Y., Yairi I.E. (2012) Life-Logging of Wheelchair Driving on Web Maps for Visualizing Potential Accidents and Incidents. In: Anthony P., Ishizuka M., Lukose D. (eds) PRICAI 2012: Trends in Artificial Intelligence. PRICAI 2012. Lecture Notes in Computer Science, vol 7458. Springer, Berlin, Heidelberg. https:
+//doi.org/10.1007/978-3-642-32695-0_16
+Kaminski, L., & Bruniecki, K. (2012). Mobile navigation system for visually im- paired users in the urban environment. Metrology and Measurement Systems,
+Xix(2), 245. doi:http://dx.doi.org/10.2478/v10178-012-0021-z
+Kirkham, R., Ebassa, R., Montague, K., Morrissey, K., Vlachokyriakos, V., Weise, S., & Olivier, P. (2017, September). WheelieMap: an exploratory system for qualitative reports of inaccessibility in the built environment. In Proceedings of the 19th International Conference on Human-Computer Interaction with Mobile Devices and Services (pp. 1-12). https://doi.org/10.1145/3098279.3098527
+Leaflet — an open-source JavaScript library for interactive maps. Retrieved from https://leafletjs.com/
+ Matthews H, Beale L, Picton P, & Briggs D. (2003). Modelling Access with GIS in Urban Systems (MAGUS): capturing the experiences of wheelchair users. Area (London 1969), 35(1), 34–45. https://doi.org/10.1111/1475-4762.00108
+ Menkens, C, Sussmann, J, Al-Ali, M, Breitsameter, E, Frtunik, J, Nendel, T, & Schneiderbauer, T. (2011). EasyWheel - A Mobile Social Navigation and Support System for Wheelchair Users. 2011 Eighth International Conference on Information Technology: New Generations, (pp. 859-866). https://doi.org/10.1109/ITNG.2011. 149
+Mobasheri, A. (2017). A rule-based spatial reasoning approach for OpenStreetMap data quality enrichment; case study of routing and navigation. Sensors, 17 (11), 2498. http://dx.doi.org/10.3390/s17112498
+Mobasheri, A., Huang, H., Degrossi, L. C., & Zipf, A. (2018). Enrichment of Open- StreetMap data completeness with sidewalk geometries using data mining tech- niques. Sensors (Basel, Switzerland), 18(2), 509. https://doi.org/10.3390/s18020509
+Mobasheri, A., Sun, Y., Loos, L., & Ali, A. L. (2017). Are crowdsourced datasets suitable for specialized routing services? Case study of OpenStreetMap for routing of people with limited mobility. Sustainability, 9(6), 997. https://doi.org/10.3390/ su9060997
+Mobasheri, A., Zipf, A., & Francis, L. (2018). OpenStreetMap data quality en- richment through awareness raising and collective action tools—experiences from a European project. Geo-Spatial Information Science, 21(3), 234–246. https:
+//doi.org/10.1080/10095020.2018.1493817
+ Nivala, A. M., Brewster, S., & Sarjakoski, T. L. (2008). Usability evaluation of web mapping sites. Cartographic Journal, 45(2), 129–138. https://doi.org/10.1179/ 174327708X305120
+OpenStreetMap. OpenStreetMap. Retrieved from https://www.openstreetmap. org/#map$=$5/-5.347/116.587
+Poisson Distribution. Itl.nist.gov. Retrieved 5 November 2021, from https://www. itl.nist.gov/div898/handbook/eda/section3/eda366j.htm
+ Prémont, M. É., Vincent, C., & Mostafavi, M. A. (2019). Geospatial assistive technologies: potential usability criteria identified from manual wheelchair users. Disability and Rehabilitation: Assistive Technology, 15(8), 844–855. https://doi.org/ 10.1080/17483107.2019.1620351
+ Prémont, M. É., Vincent, C., Mostafavi, M. A., & Routhier, F. (2019). Geospatial assistive technologies for wheelchair users: a scoping review of usability measures and criteria for mobile user interfaces and their potential applicability. Disability and Rehabilitation: Assistive Technology, 15(2), 119–131. https://doi.org/10.1080/ 17483107.2018.1539876
+Qualtrics Insight Platform (intermediate surveys) " eSolutions. Monash.edu. Re- trieved from https://www.monash.edu/esolutions/software/qualtrics-insight- platform
+Saha, M., Chauhan, D., Patil, S., Kangas, R., Heer, J., & Froehlich, J. E. (2020). Urban accessibility as a socio-political problem. Proceedings of the ACM on Human-
+Computer Interaction, 4(CSCW3), 1–26. https://doi.org/10.1145/3432908
+Tannert, B., & Schöning, J. (2018). Disabled, but at what cost? In Proceedings of
+the 20th International Conference on Human-Computer Interaction with Mobile Devices and Services, (pp. 1-7). https://doi.org/10.1145/3229434.3229458
+Tannert, B., Kirkham, R., & Schöning, J. (2019). Analyzing accessibility barriers using cost-benefit analysis to design reliable navigation services for wheelchair users. In Human-Computer Interaction – INTERACT 2019 (pp. 202–223). Springer International Publishing. https://doi.org/10.1007/978-3-030-29381-9_13
+ Vaske, J. J. (2011). Advantages and disadvantages of internet surveys: Introduction to the special issue. Human Dimensions of Wildlife, 16(3), 149-153. https://doi.org/ 10.1080/10871209.2011.572143
+Vincent, C., Girard, R., Dumont, F., Archambault, P., Routhier, F., & Mostafavi,
+M. A. (2020). Evaluation of satisfaction with geospatial assistive technology (ESGAT): a methodological and usability study. Disability and Rehabilitation: Assistive Technology, ahead-of-print(ahead-of-print), 1–18. https://doi.org/10.1080/ 17483107.2020.1768307
+Völkel, T., & Weber, G. (2007, July). A new approach for pedestrian navigation for mobility impaired users based on multimodal annotation of geographical data. In Universal Access in Human-Computer Interaction. Ambient Interaction (pp. 575– 584). Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-540-73281-5_61
+Völkel, T., & Weber, G. (2008, October). RouteCheckr: personalized multicriteria routing for mobility impaired pedestrians. In Proceedings of the 10th international ACM SIGACCESS conference on Computers and accessibility (pp. 185-192). https:
+//doi.org/10.1145/1414471.1414506
+Völkel, T., Kühn, R., & Weber, G. (2008, July). Mobility impaired pedestrians are not cars: Requirements for the annotation of geographical data. In Computers Helping People with Special Needs (pp. 1085–1092). Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-540-70540-6_163
+ Wheeler, B., Syzdykbayev, M., Karimi, H. A., Gurewitsch, R., & Wang, Y. (2020). Personalized accessible wayfinding for people with disabilities through standards and open geospatial platforms in smart cities. Open Geospatial Data, Software and Standards, 5(1), 1-15. Open Geospatial Data, Software and Standards, 5(1), 1–15. https://doi.org/10.1186/s40965-020-00075-5
+Wisdom, J., & Creswell, J. W. (2013). Mixed methods: integrating quantitative and qualitative data collection and analysis while studying patient-centered medical home models. Rockville: Agency for Healthcare Research and Quality.
+World Health Organization. (2011). World report on disability 2011. World Health Organization.
+Zimmermann-Janschitz, S. (2018). Geographic Information Systems in the context of disabilities. Journal of Accessibility and Design for All, 8(2), 161-193. https:
+//dx.doi.org/10.17411/jacces.v8i2.171

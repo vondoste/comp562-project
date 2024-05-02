@@ -1,0 +1,365 @@
+ARCH 15,1
+
+
+
+98
+Received 15 October 2020
+Revised 1 December 2020
+Accepted 1 December 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Archnet-IJAR: International Journal of Architectural Research Vol. 15 No. 1, 2021
+pp. 98-112
+© Emerald Publishing Limited 2631-6862
+DOI 10.1108/ARCH-10-2020-0225
+Beyond the pandemic: the role of the built environment in supporting people with disabilities work life
+Andrew Martel and Kirsten Day
+Faculty of Architecture, Building and Planning, The University of Melbourne, Melbourne, Australia
+Mary Ann Jackson
+Centre for Social Impact, Swinburne University of Technology, Melbourne, Australia, and
+Saumya Kaushik
+Monash University, Melbourne, Australia
+
+Abstract
+Purpose – The COVID-19 pandemic has engendered changes in previously unimaginable timeframes, leading to new ways of working, which can quickly become the "ordinary" way of working. Many traditional workplace and educational practices and environments, however, are disadvantageous to people with disability and consequently are under-represented in the workforce and higher education.
+Design/methodology/approach – Contributing factors include exclusionary societal and employer attitudes and inaccessible built environments including lack of attention to paths of travel, amenities, acoustics, lighting and temperature. Social exclusion resulting from lack of access to meaningful work is also problematic. COVID-19 has accelerated the incidence of working and studying from home, but the home environment of many people with disability may not be suitable in terms of space, privacy, technology access and connection to the wider community.
+Findings – However, remote and flexible working arrangements may hold opportunities for enhancing work participation of people with disabilities. Instigating systemic conditions that will empower people with disability to take full advantage of ordinary working trajectories is key. As the current global experiment in modified work and study practices has shown, structural, organisational and design norms need to change. The future of work and study is almost certainly more work and study from home. An expanded understanding of people with disabilities lived experience of the built environment encompassing opportunities for work, study and socialisation from home and the neighbourhood would more closely align with the UNCRPD's emphasis on full citizenship.
+Originality/value – This paper examines what is currently missing in the development of a distributed work and study place continuum that includes traditional workplaces and campuses, local neighbourhood hubs and homes.
+Keywords Built environment, COVID normal scenarios, Design for disability, Ordinary working life, Post COVID-19 design
+Paper type Research paper
+
+
+Introduction
+Over the last few weeks, the COVID-19 lockdown has given us a shared experience of physical and social isolation. Many people have struggled. But the COVID-19 lockdown will end. For many people with disabilities this lockdown is normal life (DRC Advocacy, 2020).
+Enthusiastic predictions about the futuristic world of work are ubiquitous. Much hypothesising points to ever-developing digital technology along with artificial intelligence forever revolutionising how and where people do their jobs (Brown et al., 2018; Leopold et al., 2018; Manyika et al., 2017). A consistent thread in the future of work commentary is that, at least for those directly involved in the knowledge economy, workers will be able to work from
+
+anywhere (Felstead and Henseke, 2017; O'Donovan, 2020). Working from home, a cafe in the local neighbourhood or in a co-working hub is already, and will continue to be, an ordinary occurrence for many. Closer inspection, though, yields differing views on the type and extent of change as well as differing views on implications for urban environment form and design. Towards the end of 2019 a major, global, population health threat, COVID-19, began to appear, and in March 2020, the World Health Organization (WHO) declared COVID-19 a pandemic. Although in late 2020, COVID-19 continues to wreak havoc on people's lives and
+Supporting work-life for people with disability
+
+99
+livelihoods, worldwide, COVID-19 has been identified in newspaper articles, urban/built 
+environment industry news, development bank reports and research literature as a potential "circuit breaker", as a catalyst for engendering a "new, better normal" urban environment (see e.g. Smit et al., 2020; Sneader and Singhal, 2020). This "new, better normal" includes spending less time in conventional office settings. However, the majority of future work scenarios, pre- or post-COVID-19, do not mention people with disability. How, then, do we get from here in COVID-19 2020 to our future (post-pandemic) ordinary working life fully encompassing people with disabilities work-life needs? Whichever lens is selected to create scenarios used to map a "preferred future", it is vital that all voices compose a future narrative together if the United Nations Convention on the Rights of Persons with Disabilities objective of full citizenship is to be achieved (United Nations. Dept. of Economic and Social Affairs. Disability Division, 2006). The leading contemporary urban/disability scholar-activist, Victor Santiago Pineda (2020), has written extensively of the shortcomings of the urban environment including the ways in which conventional design and delivery contribute to spatial and social injustice. Built environment accessibility is a precondition to inclusion, or in other words, inaccessible built environments exclude (Pineda et al., 2017). If one knows where to look, the historical and continuing schism between the Disability domain and the Built Environment domain in matters of theory, polity and practice is well documented (Imrie, 2000; Jackson, 2019; Hamraie, 2017; Boys, 2014; Imrie and Wells, 1993). Bridging this rift is key. However, the modern world, including the world of work, is complex and ever-adapting. No matter what possible future may have been predicted pre-COVID-19 and whatever "COVID-19 new normal" subsequently emerges, challenges will remain entrenched if the built environment and people-with-
+disability interface, the person–environment fit, is not addressed.
+This paper responds to Archnet-IJAR's call for contribution to a Special Issue of the Journal dealing with Architecture, Urbanism, and Health in a Post Pandemic Virtual World: Challenges and Opportunities in Education, Research, and Practice. Distillations of academic research, grey literature and media commentary along with extensive multifaceted professional and personal experience are utilised to build a narrative case for addressing people with disabilities work life beyond the pandemic. In highlighting that the journey is as important as the destination, this paper is also appealing to the built environment domain to centre consideration of people with disability in deliberations of future, distributed, white collar work environments at neighbourhood scale, so that people with disability are able to enjoy the promise of an ordinary working life.
+
+People with disability and work in a complex system
+Working and studying environments and practices continue to evolve for all members of society within the complex, ever-adapting, "systems of systems of systems" that is modern city life (Johnson, 2012). Well before COVID-19, particularly in the city-based white-collar 
+ working and studying sector, identifiable trends include telecommuting which started to appear in the 1970s; the increasing quantity of online learning and distance education offered by universities from around the late 1980s; cost-effective video-conferencing technology from the mid-2000s; and latterly the rise of co-working spaces. Technological change conjoined with rapidly increasing urbanisation, evolving workplace design, and other factors further
+
+ARCH 15,1
+
+
+
+100
+influence work systems, iteratively and recursively, all features characteristic of complex, multi-agent, adaptive city systems (Portugali et al., 2012).
+In the context of the sub-system of the built-environment, people-with-disability interaction, the built environment has agency because it is a disabling instrument in itself, the latter being a tenet of the Social Model of Disability (Jackson, 2019). The inherent diversity of actors, both animate and inanimate, power asymmetry, temporality and dynamism are also characteristic of socio-ecological complex adaptive systems. This year the COVID-19
+ pandemic has engendered workplace system changes in previously accelerated timeframes,
+predominantly through increased studying and working from home. New ways of working can, under the right conditions, quickly become the "ordinary" way of working in the city. But, will this ordinary way of working ever fully include people with disability?
+People with disability are the world's largest, and most diverse, minority demographic (Pineda et al., 2017; UNEnable, 2007). Australians with disability are undoubtedly diverse and numerous (for a breakdown of the 4.4 million people in Australia with a disability in 2018, see ABS 2019), 2.1 million being of working age, that is, 15–65 years old (Australian Network on Disability, 2020). People with disability routinely experience discrimination in the workforce and tertiary education (ABS, 2019; Australian Network on Disability, 2020). In 2018, whereas 35.0% of all Australians aged 20–64 years had a bachelor degree or above, less than half that percentage of Australians with disability (16.1%) aged 15 and over had attained one or more tertiary qualifications (ABS, 2019). Graduates with disability take 61.5% longer to gain full- time employment than other graduates (Australian Network on Disability, 2020). In contrast to the participation rate for people without disability (84.1% in 2018), labour force participation for Australians with disability aged 15–64 is 53.4%, considered low for a developed nation (ABS, 2019; Maritz and Laferriere, 2016). Employers were the sources of discrimination in almost half of the instances that one in five (18.9%) people with disability aged 15–24 years had experienced discrimination (Australian Network on Disability, 2020). On a positive note, driven by an increase in women with a profound or severe disability working full time (from 5.5% in 2015 to 9.2% in 2018), 11.4% of Australians aged 15–64 with a profound or severe disability were working full-time in 2018, up from 7.9% in 2015 (ABS, 2019). Approximately one-third (34%) of working Australians with disability hold managerial and professional positions (Australian Network on Disability, 2020). Working part-time is common with approximately 40% of employed people with disability work in this way (Maritz and Laferriere, 2016).
+In many areas of the world, across genders and age groups, people with disability are more
+likely to be self-employed and/or entrepreneurs than people without disability (Darcy et al., 2020; Maritz and Laferriere, 2016). Australians with disabilities rate of entrepreneurship, at 13%, is indeed higher than the entrepreneurial 10% of employed Australians without disability. Government disability employment strategy efforts are, however, often directed at conventional organisational employment (Darcy et al., 2020). Nonetheless, whether it be traditional employment within organisations or self-employment or entrepreneurship, people with disability are entitled to an ordinary working life. Consideration of the "ordinary" has arisen from the principle of "normalisation" as developed by Nirje, Wolfensberger and others (Perrin, 1999). Nirje's work, instigating an emerging grand idea of social inclusion for people with disability in the community and within the neighbourhood, underpins the (Nordic) Relational Model of Disability which revolves around the three main tenets of disability being a person–environment mismatch, situational (contextual) and relative (Goodley, 2016; Jackson, 2018; Nirje, 1996).
+Although the concept of "normalisation" has been criticised for failing to fully valorise individual diversity, Imrie (2012) and Hamraie (2012) have identified similar issues with the concept of Universal Design, "ordinary" in this paper is used in the sense of "just like everyone else", that is, modern work lives that modern white-collar city dwellers take for granted
+
+(Jackson, 2018; Oliver, 1998). Australia's National Disability Insurance Scheme (NDIS) champions people with disability living, working and playing an ordinary life (NDIS, 2016, 2018; Galbally, 2015). The NDIS is based on the notion that, for eligible participants, the cost of disability should not be borne by the individual. International and national human rights conventions, legislation and policy also support people with disabilities rights to equal opportunity in all spheres and that accommodation of such rights should not come with cost strings attached. The next section explores why, in the third decade of the 21st century, people
+Supporting work-life for people with disability
+
+101
+with disabilities work and study opportunities remain constrained. 
+Barriers to people with disabilities employment opportunities
+People with disability are often discriminated against due to environmental, attitudinal, social and organisational barriers (Ruhindwa et al., 2016). Several reviews and reports in Australia and internationally have identified that employer attitudes play a critical role in the discrimination of people with disability in securing appropriate employment (Bonaccio et al., 2020; Ruhindwa et al., 2016; Coleman et al., 2013; Waterhouse et al., 2010; Peck and Kirkbride, 2001). While the matching of job skills with job preference and the support of family and employment placement agencies are important, employer attitudes have been identified as a key determinant of success (Morgan and Alexander, 2005). A lack of knowledge and understanding of disability among employers, uncertainty about the extent and availability of government support for business and the issue of trust around disclosure (or non- disclosure) of disability by a potential employee are frequently cited (Ruhindwa et al., 2016; Waterhouse et al., 2010). This has been described as a lack of disability confidence among employers (Ruhindwa et al., 2016). However, among employers who had experience in hiring people with disability, several positive benefits to the firm were reported, including consistent attendance, workforce diversity, long-term employment and co-worker partnerships (Morgan and Alexander, 2005).
+While attitudes can be changed through experience and knowledge, other barriers to employment and study require different, explicit resources. For workers with or without disability, the majority of workplaces pre-COVID-19 included an implicit precondition that work is carried out on company premises, but many barriers exist in the built environment that place hurdles between a person's home and their potential place of work. Important spatial junctures include entering and exiting private houses, accessing public transport and appropriate provision of amenities at the workplace. The key here is that if any one of these person–environment intersections is discriminatory, then the whole travel chain is discriminatory.
+Regarding housing, in Australia, Bridge (2005) highlighted the lack of quantifiable data regarding accessible housing. More recently, Sharam et al., found that "this is very problematically still the case" (2018, p. 35) and also that "[t]he Australian private sector housing, like much of the Western world, has, in the absence of universal accessibility standards, failed to provide appropriate housing for people with physical disability" (2018, p. 31). Aitken et al. (2019) found that people with disability reported poorer housing quality and significantly more dissatisfaction with their neighbourhoods and homes than people without disability and also, that "[o]ur findings suggest that there is a housing crisis for people with disabilities in Australia which may intensify with the introduction of the NDIS" (Aitken et al., 2019, p. 138). The need for appropriate house design in terms of safety, independence and mental health has been widely acknowledged. In response, many jurisdictions have government-funded home modification programmes to reconfigure dwelling elements, particularly in high-impact areas such as entrance thresholds (typically ramps) and showers 
+ and toilets (Carnemolla and Bridge, 2020). However, currently no Australian scheme routinely funds modifying a dwelling for work purposes; modifications are restricted to those supporting "activities of daily living". Regulations in Australia exclude private dwellings from "access to
+
+ARCH 15,1
+
+
+
+102
+premises" regulations that apply to conventional locations of knowledge work such as public and commercial buildings. The Australian Building Codes Board (ABCB) is currently undertaking a process that proposes to mandate accessibility in all new private dwellings from 2022, but, whether mandatory or not, the ability to easily navigate a front door is a necessary prerequisite for both social and economic interaction with the wider community (Wiesel et al., 2015; Carnemolla and Bridge, 2014).
+Difficulties in navigating the city have also been widely documented. The condition of a
+ street has a marked effect on mobility (Rosenberg et al., 2013; Clarke et al., 2008). Several studies also indicate that land use mix, housing density and employment density in local 
+ neighbourhoods encourage pedestrian movement (Huang et al., 2019). But this is of limited benefit if people with disability find the public realm pedestrian environment inaccessible. In addition, the importance of public transport for essential service workers has been demonstrated during COVID-19; public transport services in many cities have continued even when a substantial number of businesses have been shut and people told to work from home when they could. But a lack of access to public transport can have significant effects on the availability of work. A recent study from Canada has shown that "wheelchair users in Toronto have access to 75% of jobs that are accessible to users that are not in a wheelchair, whilst their counterparts in Montreal have access to only 46% of the jobs accessible to other users" (Gris,e et al., 2019, p. 280).
+Lastly, the design and detailing of workplaces themselves are frequently inappropriate for
+many workers with disability. In Australia, regulatory requirements contain provisions for built environment accessibility in commercial workplaces (Australian Government, 2010). These provisions are primarily concerned with mobility issues and car parking, although the Building Code of Australia (BCA) has, over time, introduced some non-binding guidelines around vision impairment and hearing impairments (BCA 2012 (vision), BCA 2011 (hearing)). However, many other environmental factors can affect people with disability in a workplace.
+ Sensitivities to heat, cold, noise (including low-frequency humming from air-conditioning 
+ units) and glare are common for many, including people living with autism (Pfeiffer et al., 2017). The modularised and standardised layout of many office spaces offer limited opportunity for customisation of workspaces to accommodate individual needs, that is, to maximise person–environment fit (Lai et al., 2020, p. 25).
+
+Removal of barriers by design: modifying the built environment pre-COVID-19 Notwithstanding the extant challenges outlined in the previous section, people with disability, representative organisations and advocates have been working towards removing built environment barriers through strengthening legislation and policy and engendering better ways of designing for decades. Much change was kick-started by the civil rights movements of the 1960s. The American Standard Specifications for Making Buildings Accessible to, and Useable by, the Physically Handicapped, the A117.1 Barrier Free Standard, was first published in 1961. Universal Design, generally attributed to wheelchair-using architect Ron Mace, emerged in the 1980s. Several countries, including Australia, introduced Disability Discrimination Acts, or similar, in the 1990s. The UNCRPD, which references universal design and specifically includes the built environment in Article 9 Accessibility, was adopted in the mid-2000s and subsequently ratified by most of the world's nation-states (United Nations. Dept. of Economic and Social Affairs. Disability Division, 2006).
+Many guidelines and design best practice publications for better housing for people with disability and older people exist, ranging in scope from "overview" to "how-to". Examples include Wheelchair Housing Design Guide (UK) (Centre for Accessible Environments, 2013), Summer Foundation Design Insights (Australia) (Ryan and Reynolds, 2015), Age-friendly Living: Guidelines for Residential Development (Australia) (State Government of South
+
+Australia and URPS, 2011), Lifetime Homes Standard (UK) (Lifetime Homes, 2010) and the Livable Housing Design Guidelines. The Livable Housing Design Guidelines (LHDGs) break
+ housing down into elements and put forward requirements for dwelling access and entry and 
+ various types of rooms, fittings and finishes; three levels of certification are available: Silver, Gold and Platinum (2020). The LHDGs are presented in an easy-to-understand format (unlike built environment regulatory codes), the requirements are not particularly onerous from a design perspective and the certification process is straightforward. Aligned with "what
+Supporting work-life for people with disability
+
+103
+ordinary Australians [with or without disability] want – a home where they feel safe and 
+included and where they can age in place", housing accessibility advocates champion the LHDG's Gold level as the minimum standard necessary for accessible housing (Australian Network for Universal Housing Design, 2020). Given that in Australia, the incidence of disability increases from 9.3% in the 15–24 age group to 49.6% for people aged 65 and over (ABS, 2019), designing ageing in place, in the context of working from home, is critical. And the significance of living and working, at home, takes on new meaning when considered in the light of historical institutionalisation, a society-sanctioned form of lockdown of people with disability which reached its peak in the 1960s under the Medical Model of Disability (Jackson, 2018).
+Housing, as a subsystem of urban environments is, in itself, multifaceted and rich in inter- relationships. The one in three households in Australia accommodating one or more people with disability is neither static nor homogeneous, so addressing housing appropriateness requires a broad approach that includes attention to legislation, policy, the market and design. One market response has been the creation of registers of accessible housing to buy or rent (Disability Housing, 2020; Young, 2019; Satsangi et al., 2018; Sharam et al., 2018; Stack, 2014). On the other hand, although in principle support for the LHDGs is widespread amongst built environment housing accessibility advocates, voluntary market take-up to date has been limited and the current push to incorporate aspects of the LHDGs in the BCA is being met with cost-based resistance within the regulatory process (The Centre for International Economics, 2020). Meanwhile in the United Kingdom, the (partial) incorporation of the Lifetime Homes Standard in the national Part M building regulations has caused some tension as it has diminished the capacity for local government to impose more stringent controls at the planning approval stage (Simpson, 2018). And, in common with other pre- COVID guidelines, neither the UK's Lifetime Homes Standards nor the Australian LHDGs address working from home.
+In modern, urban, built environments connectivity has many dimensions, not solely the
+ connecting of physical infrastructure to facilitate people with disabilities personal movement. 
+ Enabler legislation, policy and design are important, as is meaningful interaction between 
+ experts (built environment practitioners) and expert users (people with disability) (Jackson, 
+ 2018). Significant enabler projects endeavouring to achieve better connectivity include the UNCRPD (2006), Norway's Norway universally designed by 2025 (Norwegian Ministry of Children and Equity, 2009), Singapore's Universal Design Guide for Public Places (Building and Construction Authority, 2016), Aimi Hamraie's participatory mapping and data visualisation project – Mapping Access (Critical Design Lab, 2020) and Jos Boys' Dis/Ordinary Architecture Project (2018). The UNCRPD is the most extensively recognised disability rights instrument in the world currently. Its wide-ranging, holistic outlook covers, for example, human rights specifically for women and children with disability; built environment, transpor, and ICT accessibility; independency; education (at the highest attainable level) and health; equal opportunity in the workplace; adequate standard of living; and the right to participate in politics and cultural life. It also brings together the social model and human rights models of disability and legitimises universal design. But, although Australia is a signatory, the UNCRPD has not been incorporated into the Disability Discrimination Act nor the DDA's subordinate Disability (Access to Premises – Buildings) Standards 2010, nor the BCA. And, in general, built environment practitioners are not aware of the UNCRPD and
+
+ARCH 15,1
+
+
+
+104
+related concepts such as the Human Rights Model of Disability and duty-bearer accountability (Jackson, 2019).
+
+Beyond the pandemic? Opportunities and obstacles
+During the passage of the COVID-19 pandemic, several features in existing city sub/systems have been exacerbated and brought to the fore. Housing inequality, particularly in terms of
+ access, privacy, overcrowding and access to technology, has been highlighted (Campanella, 2020; Duckett and Mackey, 2020; Grodach, 2020). The precariousness of CBD-focussed business models with their inherent concentration of high-paying jobs in centralised locations is another (Lasker, 2020; Seibert, 2020; Visontay, 2020). In addition, a culture of presenteeism even when ill and workplace layouts that encourage gathering and clusters of people, but are inadequately ventilated and cleaned, have been shown to be problematic from a public health perspective (Eisen, 2020; Margo, 2020). On the other hand, travel restrictions, along with an increase in working from home, have rekindled a knowledge of local neighbourhoods and supported local businesses (De Poloni, 2020). And, having the space and job flexibility to be able to work from home has proved, for knowledge workers, to be largely effective and viable (Foon, 2020). More broadly, transdisciplinarity as an enabler in addressing complex urban- scale problems is beginning to be recognised in the built environment domain (Salama, 2020). These developments present opportunities to better match the person–environment fit for everyone in society.
+Pandemic-exposed inequality provides impetus for broadening built environment education and practice, at systemic levels, in several ways. Firstly, in order to address the imbalance in tertiary qualification attainment, it would be opportune for built environment faculties to enable the increased enrolment of students with disability (Pitcher, 2020). Secondly, there is opportunity for embedding human rights concepts in updated pedagogy, leading to understanding that normal life includes people with disability not enduring physical and social isolation, but rather, being integral to the work and study place. Thirdly, in achieving this normal work life, the concept of a "place of work" needs to be reconsidered, in temporal as well as geographical terms. Technology has provided a platform for that change, but the physical built environment needs to adapt as well (as noted previously, the built environment has agency). Work has, for some, become when, not where, and so the same spatial location needs to flip from work, to social, to rest space depending on temporal demand. Also, temporally, employed Australians with disability (40.0%) are more likely than counterparts without disability (31%) to work part-time (ABS, 2019). Post-pandemic, investigation of the degree to which this temporal difference is due to systemic (built environment) barriers is warranted. Fourthly, rethinking housing design and delivery offers significant opportunity for obviating future, societal, cost. Flexibility and adaptability along with ease of access and egress, strengthening the ability to exercise choice and control, are critical. In Australia, incorporating LHDG's Gold level requirements into housing design (whether new or retrofitted) is a starting point. But in all endeavours "experts" working directly with people with disability are imperative in bridging the schism between built environment and disability domains.
+ Urban scale is another key factor, offering both opportunity and obstacle(s). With caf,es and emerging co-work hub spaces acting as key linking places for the home and the office, the
+ travel chain from home–caf,e–co-work hub office also becomes critical (see Figure 1). Nonetheless, the process of coalescing home–workplace–home for the purposes of facilitating distributed workplaces requires meaningful engagement between organisations, built environment practitioners including architects, urbanists and academics, government through policy and regulation and, critically, workers.
+
+
+Home
+Interior focus
+Transition points from home to immediate local environment
+In accordance with Article 9 UNCPRD
+Supporting work-life for people with disability
+
+105
+
+
+
+
+
+
+
+
+
+Localized working space
+Working hub
+Localized travel
+Neighborhood focus
+In accordance with Article 9 UNCPRD
+
+
+
+
+
+
+
+
+Traditional office
+Office as destination
+Business hub focus
+In accordance with Article 9 UNCPRD
+Figure 1. Description of relationship between
+ home, localised 
+ working spaces and the 
+ traditional office. Alt text description: Home, localised workspace and traditional office surrounding diverse group of people with different types of
+disability
+
+
+
+Business-oriented commentary and literature, however, tend to speak of distributed work in organisational terms (see e.g. Morrison-Smith and Ruiz, 2020; O'Neill and Wymer, 2011); urban environment implications, particularly at neighbourhood scale, are little discussed. In this paper we are considering distributed work in the more general sense of modern technology- enabled workers working from anywhere including from home, the neighbourhood or other non-CBD precincts, and we are speaking from a built environment perspective. At the neighbourhood or precinct scale, built environment locations of distributed work include cafes, 
+ libraries and public outdoor spaces along with more office-style environments such as 
+ co-working hubs and start-up incubator facilities. The worldwide rise of co-working has resulted in many dedicated hubs offering a range of facilities in a variety of geographical and topographical locations and within a variety of built forms (Roth and Mirchandani, 2016). Entrepreneurial start-up and innovation incubator precincts such as the Sydney Start-up Hub, in Australia, are also increasingly common throughout the world (AICD, 2019). The current trajectory of the "ordinary working life", with its much greater flexibility around workplace location and employed people with disability being more likely than people without disability to be self-employed and/or entrepreneurs, makes consideration of the needs of people with disability in the design of distributed workplaces important (Darcy et al., 2020). Engaging with people with disability, particularly women with a profound or severe disability, in the design and delivery of distributed workplaces offers opportunity for redressing the current, stagnating, level of labour force participation.
+Prior to the arrival of COVID-19, impediments to the movement of people (with or without disability) both to city centres and around neighbourhoods had already been identified as a key obstacle in modern work–life balance. However, government-imposed lockdowns triggered by the rapid spread of COVID-19 have slowed the movement of people (in some cases dramatically) and increased the awareness of "being stuck at home". COVID-normal, and beyond, needs to recognise people with disabilities right to an ordinary work life. Such recognition need not reinvent the wheel, the design tools and guidelines to make the city accessible already exist as noted earlier, but it does require commitment to centring people with disability in the redesign of streetscapes, transport and public space, with a focus on interconnected local neighbourhood
+
+ARCH 15,1
+
+
+
+106
+environments. Unfortunately, examples of "best practice" built projects focussed on people with disability are few, particularly at neighbourhood scale. The Design for Dignity Guidelines arising out of the urban regeneration project undertaken at Barangaroo South in Sydney, Australia, and pre-dating COVID-19, are, however, instructive (Lendlease, Westpac Group, Australian Network on Disability, 2020). In common with built environment design guideline typology, the Design for Dignity Guidelines break the built environment into functional elements and illustrate good and poor examples. Moving beyond typical built environment
+ design guidelines, however, attention is paid to both disability demographics and built environment accessibility legislative frameworks, including the UNCRPD. Case studies are presented, covering engagement, building design and public domain design. In another departure from typical guidelines, extensive thought is given to engagement, and a key principle put forward is that designers must consider the diversity of disability when designing. However, Barangaroo is a high-profile, well-resourced project undertaken in inner Sydney, not a neighbourhood precinct in the suburbs where most Australians with or without disability live.
+Conclusion
+We can decide that we are at an inflection point, see Dator (1979), and plan for alternative future scenarios, create new feedback loops, in which people with disability are meaningfully engaged in decision-making about how we all live and work. Embedding the UNCRPD's guiding principles of accessibility, equality of opportunity, respect for difference and acceptance of persons with disabilities as part of human diversity and humanity and full and effective participation and inclusion in society, into built environment education and practice, are crucial. Failures in the current system must be examined thoroughly, rather than simply accepting solutions that inadvertently become a "new ordinary" that still shuts out people with disability. On the one hand, this provides a framework around which decision-making towards a preferable future can be based. On the other, however, these scenarios generally reflect the experience and perspective of their authors. Currently, the majority of proposed COVID-normal scenarios emanate from large think tanks, business groups and consulting firms that service the business sector. While it is encouraging to see attitudes towards non- traditional working patterns being embraced, the work-life needs and wants of people with disability are rarely foregrounded.
+This paper, however, has highlighted how the built environment including housing, streets, neighbourhoods and public transport systems is all critical in enabling people with disability to participate in an ordinary working life. Changing attitudes is not enough, the physical city must change and adapt as well. Therefore, when we as built environment practitioners reimagine the city, whether in terms of technology, infrastructure or the design of homes and neighbourhoods, our focus should always be on how we, in meaningful partnership with people with disability and other marginalised groups, engender a built environment that is equitable. In itself, this is not a novel idea, people with disability, representative organisations and advocates have been working towards removing built environment barriers well before the advent of the current pandemic. COVID-19 has, however, laid bare the structural inequality of our urban environments.
+Built environment form and detail should support the development of an accessible and inclusive distributed work and study place continuum. A continuum that includes traditional workplaces and campuses, local neighbourhood hubs and homes thereby maximises people with disabilities choice and control to self-determine an ordinary working life. In addressing the UNCRPD's objective of full citizenship, all voices need to compose a future narrative together. This will require coordination across multiple government and non-government agencies and interaction between the built environment and disability domains hitherto not often seen. But the current COVID-19 experience in Australia (and elsewhere) has demonstrated that a high degree of social cohesion and community-wide action and new
+
+ways of thinking and doing education, research and practice are possible in times of crisis. It would be a greatly missed opportunity if government-led stimulus, such as the Victorian Government's recently announced "COVID recovery" budget – billions of dollars pledged to employment creation with a focus on small business and a 5-billion-dollar investment in new social housing (Victorian Government, 2020) were not linked and coordinated in terms of working from home and neighbourhood. Actively involving and accommodating people with disability in the planning and design of urban, work-life environments would ensure that "normal-life lockdown" is consigned to history.
+
+References
+ABS (2019), "Disability, ageing and carers, Australia: summary of findings", available at: https://www. abs.gov.au/statistics/health/disability/disability-ageing-and-carers-australia-summary-findings/ latest-release.
+AICD (2019), "Hot spots for Australia's startups", available at: https://aicd.companydirectors.com.au/ membership/company-director-magazine/2019-back-editions/april/special-report-innovation.
+Aitken, Z., Baker, E., Badland, H., Mason, K., Bentley, R., Beer, A. and Kavanagh, A.M. (2019), "Precariously placed: housing affordability, quality and satisfaction of Australians with disabilities", Disability and Society, Vol. 34 No. 1, pp. 121-142, doi: 10.1080/09687599.2018. 1521333.
+Australian Government (2010), Disability (Access to Premises – Buildings) Standards 2010. Australian Network for Universal Housing Design (2020), "Advocacy for regulation", available at:
+https://anuhd.org/advocacy/.
+Australian Network on Disability (2020), "Disability statistics", available at: https://www.and.org.au/ pages/disability-statistics.html.
+Bonaccio, S., Connelly, C.E., Gellatly, I.R., Jetha, A. and Martin Ginis, K.A. (2020), "The participation of people with disabilities in the workplace across the employment cycle: employer concerns and research evidence", Journal of Business and Psychology, Vol. 35 No. 2, pp. 135-158, doi: 10.1007/ s10869-018-9602-5.
+Boys, J. (2014), Doing Disability Differently: An Alternative Handbook on Architecture, Dis/Ability and Designing for Everyday Life, 1st ed., Routledge. doi: 10.4324/9781315777559.
+Boys, J. (2018), "The disordinary architecture project: a handy guide for doing disability differently in architecture and urban design", The Funambulist: Politics of Space and Bodies, The Space of Ableism, No. 19, pp. 32-39, available at: https://thefunambulist.net/magazine/the-space-of- ableism.
+Bridge, C. (2005), Accessible Housing in Australia: HMMinfo Consultation Paper Response. Home Modification Information Clearinghouse, City Futures Research Centre, UNSW Australia.
+Brown, J., Gosling, T., Sethi, B., Jetha, A., Sheppard, B., Stubbings, C., Sviokla, J., Williams, J., Zarubina, D. and Fisher, L. (2018), "Workforce of the future: the competing forces shaping 2030", PwC, available at: https://www.pwc.com/gx/en/services/people-organisation/workforce- of-the-future/workforce-of-the-future-the-competing-forces-shaping-2030-pwc.pdf.
+Building and Construction Authority (2016), Universal Design Guide for Public Places, Building and Construction Authority.
+Campanella, N. (2020), "Quiet housing revolution slowly giving Australians with disabilities more options", available at: https://www.abc.net.au/news/2020-07-15/new-disability-housing-giving- people-more-options/12443706.
+Carnemolla, P. and Bridge, C. (2014), "The potential of a home modification strategy-A universal design approach to existing housing", in Caltenco, H. (Ed.), Universal Design 2014: Three Days of Creativity and Diversity: Proceedings of the International Conference on Universal Design, UD 2014 Lund, Sweden, June 16-18, 2014, Assistive Technology Research Series, Vol. 35, Amsterdam, Washington, DC, IOS Press, pp. 259-268.
+Supporting work-life for people with disability
+
+107
+
+
+ARCH 15,1
+
+
+
+108
+Carnemolla, P. and Bridge, C. (2020), "A scoping review of home modification interventions – mapping the evidence base", Indoor and Built Environment, Vol. 29 No. 3, pp. 299-310, doi: 10.1177/ 1420326X18761112.
+Centre for Accessible Environments (2013), Wheelchair Housing Design Guide, RIBA Publications, London.
+Clarke, P., Ailshire, J.A., Bader, M., Morenoff, J.D. and House, J.S. (2008), "Mobility disability and the urban built environment", American Journal of Epidemiology, Vol. 168 No. 5, pp. 506-513, doi: 10.1093/aje/kwn185.
+Coleman, N., Sykes, W. and Groom, C. (2013), "Barriers to employment and unfair treatment at work: a quantitative analysis of disabled people's experiences", Vol. 88, Independent Social Research. Manchester: Equity and Human Rights Commission, available at: https://www. equalityhumanrights.com/sites/default/files/research-report-88-barriers-to-employment-and- unfair-treatment-at-work-disabled-peoples-experiences.pdf.
+Critical Design Lab (2020), "Mapping access", available at: https://www.mapping-access.com/about.
+Darcy, S., Collins, J. and Megan, S. (2020), Australia's Disability Entrepreneurial Ecosystem: Experiences of People with Disability with Microenterprises, Self-Employment and Entrepreneurship, University of Technology, Sydney.
+Dator, J. (1979), "The futures of culture/cultures of the future", in Marsella, A.J., Tharp, R.G. and Ciborowski, T.J. (Eds), Perspectives on Cross-Cultural Psychology, Academic Press, New York.
+De Poloni, G. (2020), "How coronavirus could forever change the look and feel of Australia's cities and suburbs", available at: https://www.abc.net.au/news/2020-04-11/how-coronavirus-could-forever- change-our-cities-and-suburbs/12137122.
+Disability Housing (2020), "Accommodation wanted", available at: https://www.disabilityhousing.com. au/listing-category/accommodation-wanted/.
+DRC Advocacy (2020), "Transport for all", available at: http://drc.org.au/join-transport-for-all/. Duckett, S. and Mackey, W. (2020), "COVID-19 hits the poor and vulnerable hardest", available at:
+https://grattan.edu.au/news/covid-19-hits-the-poor-and-vulnerable-hardest/.
+Eisen, D. (2020), "Employee presenteeism and occupational acquisition of COVID -19", Medical Journal of Australia, Vol. 213 No. 3, p. 140, doi: 10.5694/mja2.50688.
+Felstead, A. and Henseke, G. (2017), "Assessing the growth of remote working and its consequences for effort, well-being and work-life balance", New Technology, Work and Employment, Vol. 32 No. 3, pp. 195-212, doi: 10.1111/ntwe.12097.
+Foon, E. (2020), "Covid-19 work flexibility improves accessibility for people with disabilities", available at: https://www.rnz.co.nz/news/national/418547/covid-19-work-flexibility-improves- accessibility-for-people-with-disabilites.
+Galbally, R. (2015), NDIS Independent Advisory Council Advice 2014 Page 1 Reasonable and Necessary Support across the Lifespan: An Ordinary Life for People with Disability, Australian Aarliamnet House, Canberra, available at: https://www.aph.gov.au.
+Goodley, D. (2016), Disability Studies: An Interdisciplinary Introduction, 2nd ed., Sage, Thousand Oaks, CA.
+Gris,e, E., Boisjoly, G., Maguire, M. and El-Geneidy, A. (2019), "Elevating access: comparing accessibility to jobs by public transport for individuals with and without a physical disability", Transportation Research Part A: Policy and Practice, Vol. 125, pp. 280-293, doi: 10.1016/j.tra. 2018.02.017.
+Grodach, C. (2020), "Why coronavirus will deepen the inequality of our suburbs", available at: https:// theconversation.com/why-coronavirus-will-deepen-the-inequality-of-our-suburbs-143432.
+Hamraie, A. (2012), "Universal design research as a new materialist practice", Disability Studies Quarterly, Vol. 32 No. 4, available at: https://dsq-sds.org/article/view/3246/3185.
+Hamraie, A. (2017), Building Access: Universal Design and the Politics of Disability, University of Minnesota Press. doi: 10.5749/j.ctt1pwt79d.
+
+Huang, R., Moudon, A.V., Zhou, C. and Saelens, B.E. (2019), "Higher residential and employment densities are associated with more objectively measured walking in the home neighborhood", Journal of Transport and Health, Vol. 12, pp. 142-151, doi: 10.1016/j.jth.2018.12.002.
+Imrie, R. (2000), "Disabling environments and the geography of access policies and practices",
+Disability and Society, Vol. 15 No. 1, pp. 5-24, doi: 10.1080/09687590025748.
+Imrie, R. (2012), "Universalism, universal design and equitable access to the built environment",
+Disability and Rehabilitation, Vol. 34 No. 10, pp. 873-882, doi: 10.3109/09638288.2011.624250.
+Imrie, R.F. and Wells, P.E. (1993), "Disablism, planning, and the built environment", Environment and Planning C: Government and Policy, Vol. 11, pp. 213-231, available at: http://citeseerx.ist.psu. edu/viewdoc/download?doi510.1.1.458.87&rep5rep1&type5pdf.
+Jackson, M.A. (2018), "Models of disability and human rights: informing the improvement of built environment accessibility for people with disability at neighborhood scale?", Laws, Vol. 7 No. 1,
+p. 10, doi: 10.3390/laws7010010.
+Jackson, M.A. (2019), "A new built environment paradigm needed", available at: http://archpeace2. blogspot.com/2019/08/a-new-built-environment-paradigm-needed.html.
+Johnson, J. (2012), "Cities: systems of systems of systems", in Portugali, J., Meyer, H., Stolk, E., et al. (Eds), Complexity Theories of Cities Have Come of Age: An Overview with Implications to Urban Planning and Design. Springer Complexity, Springer, Heidelberg, New York, pp. 153-172.
+Lai, M.-C., Anagnostou, E., Wiznitzer, M., Allison, C. and Baron-Cohen, S. (2020), "Evidence-based support for autistic people across the lifespan: maximising potential, minimising barriers, and optimising the person–environment fit", The Lancet Neurology, Vol. 19 No. 5, pp. 434-451, doi: 10.1016/S1474-4422(20)30034-X.
+Lasker, P. (2020), "COVID-19 pandemic leads to escape from the city to the suburbs", available at: https://www.abc.net.au/news/2020-09-15/covid-19-pandemic-leads-to-escape-from-the-city-cbd/ 12663426.
+Leopold, T.A., Ratcheva, V.S. and Saadia, Z. (2018), The Future of Jobs Report 2018, World Economic Forum, Geneva, available at: http://www3.weforum.org/docs/WEF_Future_of_Jobs_2018.pdf.
+Lifetime Homes (2010), "The Lifetime homes standard", available at: http://www.lifetimehomes.org.uk/ pages/revised-design-criteria.html.
+Manyika, J., Lund, S., Chui, M., Bughin, J., Woetzel, J., Batra, P., Ko, R. and Sanghvi, S. (2017), "Jobs lost, jobs gained: what the future of work will mean for jobs, skills, and wages", available at: https:// www.mckinsey.com/featured-insights/future-of-work/jobs-lost-jobs-gained-what-the-future-of- work-will-mean-for-jobs-skills-and-wages.
+Margo, J. (2020), "Presenteeism is the new COVID-19 risk as people return to work", available at: https://www.afr.com/policy/health-and-education/presenteeism-the-new-covid-19-risk-as-people- return-to-work-20200508-p54r1y.
+Maritz, A. and Laferriere, R. (2016), "Entrepreneurship and self-employment for people with disabilities", Australian Journal of Career Development, Vol. 25 No. 2, pp. 45-54, doi: 10.1177/ 1038416216658044.
+Morgan, R.L. and Alexander, M. (2005), "The employer's perception: employment of individuals with developmental disabilities", Journal of Vocational Rehabilitation, Vol. 23 No. 1, pp. 39-49.
+Morrison-Smith, S. and Ruiz, J. (2020), "Challenges and barriers in virtual teams: a literature review",
+SN Applied Sciences, Vol. 2 No. 6, doi: 10.1007/s42452-020-2801-5.
+NDIS (2016), Towards an Ordinary Life: Annual Report 2015-16, Annual Report, National Disability Insurance Agency, Canberra.
+NDIS (2018), Employment Outcomes 30 June 2018: NDIS Participants, Their Families and Carers, National Disability Insurance Agency, Canberra.
+Nirje, B. (1996), "The normalization principle and its human management implications (1969)",
+SRV-VRS: The International Social Role Valorization Journal, Vol. 1 No. 2, pp. 19-23, available
+Supporting work-life for people with disability
+
+109
+
+
+ARCH 15,1
+
+
+
+110
+at: https://www.canonsociaalwerk.eu/2008_inclusie/The%20Normalization%20Principle% 20and%20Its%20Human%20Management%20Implications.pdf.
+Norwegian Ministry of Children and Equity (2009), Norway Universally Designed by 2025: The Norwegian Government's Action Plan for Universal Design and Increased Accessibility 2009- 2013, Norwegian Ministry of Children and Equity, available at: https://www.regjeringen.no/ globalassets/upload/bld/nedsatt-funksjonsevne/norway-universally-designed-by-2025-web.pdf.
+Oliver, M. (1998), "Theories of disability in health practice and research", BMJ, Vol. 317, p. 317. O'Donovan, N. (2020), "From knowledge economy to automation anxiety: a growth regime in crisis?",
+New Political Economy, Vol. 25 No. 2, pp. 248-266, doi: 10.1080/13563467.2019.1590326.
+O'Neill, M. and Wymer, T. (2011), "The metrics of distributed work: financial and performance benefits of an emerging work model. Knoll workplace research", available at: https://www.knoll. com/knollnewsdetail/the-metrics-of-distributed-work.
+Peck, B. and Kirkbride, L.T. (2001), "Why businesses don't employ people with disabilities", Journal of Vocational Rehabilitation, Vol. 16 No. 2, pp. 71-75.
+Perrin, B. (1999), "The original "Scandinavian" Normalization principle and its continuing relevance for the 1990s", in Flynn, R.J. and Lemay, R. (Eds), A Quarter–Century of Normalization and Social Role Valorization: Evolution and Impact, University of Ottawa Press, Ottawa.
+Pfeiffer, B., Braun, K., Kinnealey, M., Derstine Matczak, M. and Polatajko, H. (2017), "Environmental factors impacting work satisfaction and performance for adults with autism spectrum disorders", Journal of Vocational Rehabilitation, Vol. 47 No. 1, pp. 1-12, doi: 10.3233/JVR-170878.
+Pineda, V.S. (2020), Building the Inclusive City: Governance, Access, and the Urban Transformation of Dubai, Springer International Publishing, doi: 10.1007/978-3-030-32988-4.
+Pineda, V.S., Meyer, S. and Cruz, J.P. (2017), "The inclusion imperative. Forging an inclusive new urban agenda", The Journal of Public Space, Vol. 2 No. 4, p. 1, doi: 10.5204/jps.v2i4.138.
+Pitcher, G. (2020), "Is disability architecture's final taboo?", available at: https://www.architectsjournal. co.uk/news/is-disability-architectures-final-taboo.
+Portugali, J., Meyer, H., Stolk, E. and Tan, E. (Eds) (2012), Complexity Theories of Cities Have Come of Age: An Overview with Implications to Urban Planning and Design, Springer Complexity, Springer, Heidelberg, New York.
+Rosenberg, D.E., Huang, D.L., Simonovich, S.D. and Belza, B. (2013), "Outdoor built environment barriers and facilitators to activity among midlife and older adults with mobility disabilities", The Gerontologist, Vol. 53 No. 2, pp. 268-279, doi: 10.1093/geront/gns119.
+Roth, K. and Mirchandani, N. (2016), "The rise of co-working: a growing workplace movement", Knoll Workplace Research, available at: https://www.knoll.com/knollnewsdetail/the-rise-of-co-working.
+Ruhindwa, A., Randall, C. and Cartmel, J. (2016), "Exploring the challenges experienced by people with disabilities in the employment sector in Australia: advocating for inclusive practice- a review of literature", Journal of Social Inclusion, Vol. 7 No. 1, p. 4, doi: 10.36251/josi.99.
+Ryan, S. and Reynolds, A. (2015), New Housing Options for People with Significant Disability – Design Insights, Summer Foundation, Melbourne, available at: https://www.summerfoundation.org.au/ wp-content/uploads/2015/nho_design_report.pdf.
+Salama, A.M. (2020), "Coronavirus questions that will not go away: interrogating urban and socio- spatial implications of COVID-19 measures", Emerald Open Research, Vol. 2, p. 14, doi: 10. 35241/emeraldopenres.13561.1.
+Satsangi, M., Theakstone, D., Matthews, P., Lawrence, J., Rummery, K., Mackintosh, S., Baghirathan,
+S. and Boniface, G. (2018), The Housing Experiences of Disabled People in Britain, Vol. 114, May, Equality and Human Rights Commission, Manchester.
+Seibert, K. (2020), "Pandemic – a time to demonstrate philanthropy at its best", available at: https:// probonoaustralia.com.au/news/2020/03/pandemic-a-time-to-demonstrate-philanthropy-at-its- best/.
+
+Sharam, A., Byford, M., Karabay, B., McNelis, S. and Burke, T. (2018), "Matching markets in housing and housing assistance", AHURI Final Report, Vol. 307, doi: 10.18408/ahuri-5315301.
+Simpson, J. (2018), "Standards for Accessible Housing in England: time for planning requirements to be more user-friendly", available at: https://www.architecture.com/knowledge-and-resources/ knowledge-landing-page/accessible-housing-in-england.
+Smit, S., Hirt, M., Buehler, K., Lund, S., Greenberg, E. and Govindarajan, A. (2020), "Safeguarding our lives and our livelihoods: the imperative of our time", available at: https://www.mckinsey.com/
+Supporting work-life for people with disability
+
+111
+business-functions/strategy-and-corporate-finance/our-insights/safeguarding-our-lives-and-our- 
+livelihoods-the-imperative-of-our-time.
+Sneader, K. and Singhal, S. (2020), "Beyond coronavirus: the path to the next normal", available at: https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/beyond- coronavirus-the-path-to-the-next-normal.
+Stack, H. (2014), Hidden Homes: Building an Accessible and Adaptable Housing Registry in Metro Vancouver, Master of Public Policy, Simon Fraser University Press, Vancouver.
+State Government of South Australia and URPS (2011), Guidelines: South Australian Age-Friendly Environments and Communities, Government of South Australia, Adelaide.
+The Centre for International Economics (2020), "Proposal to include minimum accessibility standards for housing in the national construction code: consultation regulation impact statement", Canberra, Sydney, available at: https://consultation.abcb.gov.au/engagement/consult-ris- accessible-housing/supporting_documents/Consultation_RIS_Proposal_to_include_minimum_ accessibility_standards_for_housing_in_the_NCC.pdf.
+UNEnable (2007), "Factsheet on persons with disabilities", available at: https://www.un.org/ development/desa/disabilities/resources/factsheet-on-persons-with-disabilities.html.
+UNCRPD (2006), United Nations Convention on the Rights of People with Disability, United Nations, Geneva, available at: https://www.un.org/development/desa/disabilities/convention-on-the- rights-of-persons-with-disabilities.
+United Nations. Dept. of Economic and Social Affairs. Disability Division (2006), "Convention on the rights of persons with disabilities (CRPD)", United Nations, available at: https://www.un.org/ disabilities/documents/convention/convoptprot-e.pdf.
+Victorian Government (2020), "A place to call home: Victoria's Big Housing Build", available at: https://www.budget.vic.gov.au/place-call-home-victorias-big-housing-build.
+Visontay, E. (2020), "'The reversal of gentrification': how Covid-19 could remake Australia's cities", available at: https://www.theguardian.com/business/2020/aug/30/the-reversal-of-gentrification- how-covid-19-could-remake-australias-cities.
+Waterhouse, P., Kimberley, H., Jonas, P., Glover, J. and National Centre for Vocational Education Research (Australia) (2010), What Would it Take?: Employer Perspectives on Employing People with a Disability, NCVER, Adelaide.
+Wiesel, I., Laragay, C., Gendera, S., Fisher, K.R., Jenkinson, S., Hill, T., Finch, K., Shaw, W. and Bridge,
+C. (2015), Moving to My Home: Housing Aspirations, Transitions and Outcomes of People with Disability, Vol. 246, Final, August, Australian Housing and Urban Research Institute, Melbourne, available at: http://www.ahuri.edu.au/publications/projects/p71040.
+Young, E. (2019), "Wanted: a matchmaker for people seeking affordable, accessible housing", available at: https://www.sbs.com.au/news/wanted-a-matchmaker-for-people-seeking-affordable- accessible-housing.
+
+Further reading
+Livable Housing Australia (2020), "Welcome to livable housing Australia", available at: http://www. livablehousingaustralia.org.au/.
+
+ARCH 15,1
+
+
+
+112
+About the authors
+Andrew Martel is a lecturer in Construction Management and Architecture at the University of Melbourne. His research expertise is centred on housing and has included high-density student housing, remote Indigenous housing, affordable family-friendly housing and housing for people with disabilities. A particular focus of the research is on the complex nature of translating policy intentions of government entities into actual outcomes given the specific form and culture of the construction industry in Victoria and Australia. For the past few years, Andrew Martel has been investigating the potential of the NDIS to drive innovation in the production of accessible and adaptable domestic houses. Andrew Martel is the corresponding author and can be contacted at: aamartel@unimelb.edu.au
+Dr. Kirsten Day is a lecturer in Architecture at the University of Melbourne. Previously, she was course director of Interior Architecture at Swinburne University of Technology. She is involved with programmes researching health, wellness and design for differing abilities. Kirsten Day is a registered architect and director of Norman Day þ Associates Architects with 20þ years' experience working in the profession. Her publications, workshops and studios explore themes of future scenarios and the
+impact of change on the architectural profession and the human condition.
+Mary Ann Jackson has qualifications and/or accreditations in Applied Science, Architecture, Urban Planning, Sustainability and Access Consulting. She has 30þ years' experience in built environment research, design, implementation and assessment. Her innovative work around people with disabilities lived experience of built environment accessibility, disaster reconstruction and equitable housing has received recognition locally and internationally. Currently undertaking a PhD focussed on human-
+rights-based approaches to improving neighbourhood built environment accessibility, Mary Ann Jackson is also the director of a transdisciplinary consultancy working across Accessibility, Research and Architecture, a member of the IAAP Accessible Built Environment Taskforce and as a carer has personal experience of disability.
+Saumya Kaushik has qualifications in Architecture obtained from both the University of Mumbai and The University of Melbourne. She has 10þ years' experience in built environment research, design, implementation and assessment. Currently undertaking a Master's in International Development Practice focussed on disability and the built environment within development sector, Saumya Kaushik
+is also project services Mmanager of a transdisciplinary consultancy working across Accessibility, Research and Architecture, a member of the Metro Trains (VIC) Accessibility Reference Group, regularly provides home modifications consultancy services to NDIS participants and has lived experience of hearing impairment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com

@@ -1,0 +1,616 @@
+Disability and Rehabilitation: Assistive Technology
+
+
+
+
+
+
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/iidt20
+
+Accessibility facilitators and barriers affecting independent wheelchair transfers in the community
+Alicia M. Koontz, Sarah R. Bass & Hailee R. Kulich
+
+To cite this article: Alicia M. Koontz, Sarah R. Bass & Hailee R. Kulich (2021) Accessibility facilitators and barriers affecting independent wheelchair transfers in the community, Disability and Rehabilitation: Assistive Technology, 16:7, 741-748, DOI: 10.1080/17483107.2019.1710771
+To link to this article: https://doi.org/10.1080/17483107.2019.1710771
+
+
+
+ View supplementary material Published online: 08 Jan 2020.
+
+ Submit your article to this journal Article views: 1182
+
+ View related articles View Crossmark data Citing articles: 5 View citing articles 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?journalCode=iidt20
+DISABILITY AND REHABILITATION: ASSISTIVE TECHNOLOGY 2021, VOL. 16, NO. 7, 741–748
+https://doi.org/10.1080/17483107.2019.1710771
+
+ORIGINAL RESEARCH
+Accessibility facilitators and barriers affecting independent wheelchair transfers in the community
+Alicia M. Koontza,b , Sarah R. Bassa,b and Hailee R. Kulicha,b
+aHuman Engineering Research Laboratories, VA Pittsburgh Healthcare System, Pittsburgh, PA, USA; bDepartment of Rehabilitation Science and Technology, University of Pittsburgh, Pittsburgh, PA, USA
+
+
+ARTICLE HISTORY
+Received 13 June 2019
+Revised 18 December 2019
+Accepted 27 December 2019
+KEYWORDS
+Environmental design; physical disabilities; medical devices and technologies; physical/ambient environ- ment; universal design
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+Wheelchair use in the United States (US) is at an all-time high and growing. In 2010 approximately 3.6 million non-institutionalized Americans age 15 and older required a wheelchair to assist with mobility, compared to 2.2 million in 2000 [1]. For those using wheeled mobility devices (WMDs), transfers in and out of the wheelchair are required to perform essential activities of daily liv- ing (e.g., bathing, toileting, driving) and for enabling participation in a wide variety of public settings (e.g., restaurants, parks, pools, 
+ amusement parks, medical offices). The International Classification of Functioning, Disability and Health (ICF) provides a framework for discussing health and disability for persons who use WMDs. According to the ICF framework, a health condition is influenced by interactions between body functions and structures, activity limitations, and participation restrictions [2]. These domains can be directly influenced by contextual factors, including environ- mental factors. The ICF defines environmental factors as all
+external factors that influence participation either as barriers or facilitators and include features within the natural and built envir- onment [2]. The ICF is useful for a variety of purposes, including as a research and policy tool for environmental design [2]. The ability to perform transfers independently and participate in soci- ety often relies on effective environmental design.
+Design and space requirements for surfaces and areas in the community where transfers are expected to occur are detailed in Section 15 of the Americans with Disabilities Act Accessibility Guidelines (ADAAG) [3]. These guidelines establish minimum accessibility requirements to provide a general level of usability for people with disabilities who use WMDs and who can inde- pendently transfer (i.e., do not require human assistance). Several studies, however, have shown that transfer surfaces and spaces built on the existing criteria can be very difficult or impossible for wheelchair users to access [4–7]. Wheelchair users also experience increased difficulty with transfers when travelling, particularly on
+
+
+CONTACT Alicia M. Koontz akoontz@pitt.edu Human Engineering Research Laboratories, VA Pittsburgh HealthCare System, 6425 Penn Ave., Suite 400, Pittsburgh, PA 15206, USA
+ Supplemental data for this article is available online at here.
+© 2020 Informa UK Limited, trading as Taylor & Francis Group
+742 A. M. KOONTZ ET AL.
+
+ aeroplanes, cruises, and in hotel rooms [8]. Environmental designs that hinder transfers for wheelchair users may cause participation restrictions, as demonstrated by the ICF framework or worse falls and injuries.
+Transfer-related injuries are common among adults and chil- dren [9–11]. One study found that transferring was the third major cause of injury among wheelchair users, causing 16.9% of the total injuries reported [9]. Another study reported in ages 18–34 and 36–64 that transfer mishaps led to 16.8% and 12.7% of injuries treated in the emergency room respectively [10]. Their study also found that over 50% of transfer-related injuries occurred outside of the home or hospital highlighting the need to understand the specific locations and types of barriers that are associated with performing transfers out in the community.
+Little research has been performed examining barriers to trans- fer in the community. One study that examined how high and low wheelchair users could transfer found that 30% were unable to transfer to surfaces as low as 43.2 cm (17.2 inches), which falls within the recommended range of heights specified in the ADAAG guidelines [6]. Approximately half of the wheelchair users tested also needed more clear floor space next to the surface than what is recommended in Section 4.2.4 of the ADAAG accessi- bility guidelines (76.2 x 121.9 cm; 30 x 48 inches) [3,6]. This is because many individuals position their wheelchair at an angle relative to the transfer surface which can increase the amount of clearance space needed to perform transfers [6]. The transfer guidelines in the ADAAG only account for transfers being per- formed with the wheelchair seat parallel to the transfer surface. The ADAAG recommendations are not consistent with current evi- dence-based clinical practice guidelines on proper transfer tech- nique, which recommend that individuals position their chair on a 20 to 45-degree angle between their chair and the surface they are transferring to [12,13]. This angle helps to facilitate optimal body positioning and reduce forces on the upper limbs [13,14]. Thus, it is important that ample clearance space be available to allow for WMDs to be positioned at these angles relative to surfa- ces where transfers are expected. Additionally, obstacles near or on the transfer surface (e.g., fixed armrest), which are not addressed directly in the guidelines currently but are present in some places inhibited transfers for 42% of WMD users [6].
+Transferring independently is a physically demanding activity of daily living for wheeled mobility device users [15,16]. During transfer activities, individuals are supported partially or entirely by their upper extremities, increasing the internal forces applied to the shoulder, elbow, and wrist joints [16]. Transfers to non-level surfaces further increase forces and muscular demands which can adversely impact upper extremity health [15]. Long term wheel- chair users have reported that transferring to non-level surfaces causes them the greatest amount of shoulder pain [17]. Thus, the increased physical demand imposed by non-level transfers may hinder wheelchair users from engaging fully in activities within and outside of the home.
+Research has shown that adults and children perceive the built environment as a barrier to accomplishing what they desire or need to do [7,18,19]. Within the framework of ICF, the specific fea- tures within the physical environment that contribute to disability are not well defined and very few studies have explicitly addressed transfers [6,20]. The purpose of this study was to (1) identify environmental facilitators and barriers to transferring independently in the community, (2) evaluate associations between subject demographics (e.g., age, gender, disability type, and mobility device type) and survey responses and (3) identify specific places and surfaces in the community where increasing
+transfer accessibility could enable greater participation. Findings from the study will provide insight into the changes that would be necessary to make the built environment more accessible and safer for wheelchair users who independently transfer.
+
+Methods
+An exploratory research study with cross-sectional design was conducted with the purpose of gathering information from WMD users on independent transfer accessibility. The term "transfer accessibility" refers to an individual's ability to independently (without human assistance) perform a transfer to the desired sur- face without any perceived constraint or barrier imposed by the built (physical) environment. A survey with a multi-chotomous response format was developed. The survey was utilised to collect information on environmental facilitators and barriers to transfer, community accessibility, and transfer accessibility of toilets, med- ical imaging tables, transportation, and tables at various commu- nity destinations.
+
+Transfer assessment survey
+The survey questions and format were modelled after the Facilitators and Barriers Survey of environmental influences on participation among people with lower-limb Mobility impairments and limitations (FAMS/M) [21]. The survey instructions and item questions were adapted slightly to focus on understanding the facilitators/barriers to performing transfers in the built environ- ment. The same response structure was used for recording the answers. The item changes to reflect transfers were based on a review of the literature and issues that were raised during an international webinar held on the topic5. The survey was itera- tively revised and reviewed by a panel of experts and consumers to establish face and content validity.
+The Environmental Facilitators and Barriers section of the sur- vey (Supplemental material) asks how certain environmental fea- tures related to transfers impacted daily living. The specific features included a seat height higher than their WMD, space 
+ available to position the WMD, grab bars or handhelds, size of 
+ the transfer surface, clearance for feet and legs, and storage space 
+ for the WMD. The survey asks how much each environmental fea- ture impacted transfers and participation in the home and com- 
+ munity settings. The Community Destination Accessibility section of the survey aimed to investigate how the transfer accessibility of various locations influenced community participation. Sites 
+ examined included doctor and dentist offices, medical exam 
+ tables, pools and hot tubs, religious facilities, restaurants (fast 
+ food and non-fast food), movie theatres, sporting arenas, dressing 
+ rooms, public parks, recreational facilities, hotels, aeroplanes, hair 
+ salons, amusement parks, schools, work, and boating areas. For each site, the survey asks to what extent transfer accessibility influenced participation at the location. A third and final part to the survey aimed to investigate transfer accessibility of seats in 
+ the community including toilets in public restrooms, exam and 
+ imaging tables or chairs, seats in various modes of transportation, 
+ and seats at desks and tables. 
+
+Subjects
+This research complied with the American Psychological Association Code of Ethics and was approved by the Institutional Review Board at the University of Pittsburgh. Informed consent was obtained from each participant. Inclusion criteria were (1)
+BARRIERS AFFECTING WHEELCHAIR TRANSFERS 743
+
+Table 1. Demographics of total, diagnostic group and device group samples.
+Primary Diagnostic Group Device Group
+
+Total Sample, n ¼ 112
+SCI, n ¼ 59
+Non-SCI, n ¼ 53
+
+MWC, n ¼ 63
+PWC, n ¼ 36
+MPA, n ¼ 7
+Scooter, n ¼ 7
+Age (years)
+
+
+
+
+
+
+
+
+Mean
+54.2 (12.8)
+52.3 (12.5)
+56.2 (13.0)
+
+52.3 (11.3)
+53.1 (15.0)
+65.1 (11.1)
+64.3 (7.1)
+Range
+16–80
+22–76
+16–80
+
+27–73
+16–76
+53–80
+58–77
+Sex
+
+
+
+
+
+
+
+
+Male
+61.6%
+74.6%
+47.2%
+68.3%
+55.6%
+57.1%
+28.6%
+Female
+38.4%
+25.4%
+52.8%
+31.7%
+44.4%
+42.9%
+71.4%
+Race
+
+
+
+
+
+
+
+
+Caucasian
+80.3%
+76.3%
+84.9%
+79.4%
+77.8%
+85.7%
+100%
+African American
+14.3%
+18.6%
+9.4%
+15.9%
+13.9%
+14.3%
+0%
+Other
+5.4%
+5.1%
+5.7%
+4.7%
+8.3%
+0%
+0%
+WMD use
+
+
+
+
+
+
+
+Year of use
+15.6 (12.5)
+17.9 (13.5)
+13.0 (10.9)
+15.5 (12.3)
+13.9 (12.5)
+31.5 (4.1)
+7.1 (7.0)
+Hours of use/day
+11.9 (4.7)
+12.7 (4.1)
+10.9 (5.1)
+12.2 (4.3)
+11.1 (5.3)
+14.9 (3.6)
+9.2 (4.4)
+Daily Transfers
+
+
+
+
+
+
+
+
+Number of level transfers
+8.3 (6.9)
+9.7 (7.1)
+6.7 (6.5)
+9.6 (8.0)
+6.8 (5.1)
+5.7 (2.2)
+5.0 (5.5)
+Number of non-level transfers
+5.3 (7.1)
+5.2 (4.8)
+5.4 (9.0)
+5.4 (5.0)
+4.7 (10.0)
+6.9 (8.2)
+5.7 (4.7)
+Transfer Training
+
+
+
+
+
+
+
+No training
+35.7%
+15.3%
+58.5%
+27.0%
+47.2%
+28.6%
+57.1%
+Some formal training
+64.3%
+84.7%
+41.5%
+73.0%
+52.8%
+71.4%
+42.9%
+
+owning a wheeled mobility device (2) using a wheeled mobility device for at least one year prior to the study (3) 18 years or older or under 18 with parental consent and (4) could independently transfer with or without a transfer board.
+
+Study procedures
+The survey was administered in person at the Human Engineering Research Laboratories in Pittsburgh, Pennsylvania from March 2014 to August 2014 and at the National Disabled Veterans Winter Sports Clinic (NDVWSC) in Snowmass, Colorado in 2014. The survey was also made available online using Qualtrics Survey Software from June 2015 to April 2019 (Qualtrics, 2018). Subjects were recruited through research registries and social media adver- tisements. The survey was circulated in multiple mediums to attempt to capture a geographically representative sample of indi- viduals who use WMDs. Subjects who participated in the in-per- son study were financially compensated, as it was administered as part of a larger study. Participants who filled out the online ver- sion of the survey were not compensated.
+
+Data analysis
+Percentages for the categories "helps a lot" and "helps some" were combined into one category ("helps"). The same process was repeated for the categories of "limits a lot", and "limits some" ("limits"). All statistical analyses were performed using SPSS Version 24 (SPSS Inc, Chicago). An independent samples t-test was performed to identify any differences in personal characteris- tics of those who filled out the survey online versus in person. Descriptive statistics (means, standard deviations, and percen- tages) were used to report the survey results. An exploratory ana- lysis was conducted on four subject factors to examine their influence on the survey responses: Age (above mean age and below mean age), gender, disability type (SCI versus non-SCI) and wheeled mobility device (manual and manual power assist (MPA) wheelchairs versus power wheelchairs and scooter). Manual wheelchairs and MPAs were grouped together and power wheel- chairs and scooters were grouped together, as they have similar characteristics. Chi-Square tests were used to examine differences between each demographic variable and the responses on the Environmental Facilitators and Barriers section of the survey and
+the Community Destination survey. The level of significance for all tests was set to p ¼ .05.
+
+
+Results
+Demographics
+Thirty-one participants completed the survey in person at the Winter Sports Clinic and 10 participants completed the survey in person at the Human Engineering Research Laboratories, Of the
+86 individuals who expressed interest in completing the online survey, 71 subjects met the inclusion and exclusion criteria as seen in Table 1. Individuals who participated in the online survey needed to consent first before completing inclusion and exclusion criteria as required by our human ethics review board. If individu- als participating in the online survey did not meet the inclusion and exclusion criteria, they were withdrawn from the study. The average time to complete the online survey was 37 min. No sig- nificant differences were found between individuals who filled out the online survey versus the paper survey for age, weight, height, hours per day in a wheeled mobility device, and number of self-
+reported level and non-level transfers per day (p > .05). Individuals
+who filled out the survey in person had been using wheelchairs for a longer period of time than persons who completed the online version of the survey (p < .001).
+The study sample consisted of 69 males and 43 females and
+had an average age, weight, and height (±standard deviation) of
+54.2 ± 12.8 years, 86.0 ± 26.5 kg, and 172.0 ± 11.1 cm, respectively. The majority of subjects used manual wheelchair (MWC), followed by power wheelchairs (PWC), manual-power assist wheelchairs (MPA), and scooters as their primary WMD. The majority of sub- jects self-reported as having a spinal cord injury (SCI), followed by multiple sclerosis (MS) and amputation. Other disabilities included cerebral palsy, spina bifida, Guillian-Barre Syndrome (GBS), trau- matic brain injury, arthritis, and spinal stenosis. The 71 partici- pants who completed the online survey and provided their city and state were located in the Northeast United States (63.0%), specifically Pennsylvania (45.2%). However, some survey respond- ents were also from Western (5.5%), Midwest (11.0%), and Southern (19.2%) regions of the United States, as well as Alaska and Hawaii (1.3%).
+744 A. M. KOONTZ ET AL.
+
+Table 2. Percentage of subjects reporting impact of environmental factors on transfers and their participation in the community.
+Factor
+Yes (%)
+No (%)
+Do not encounter (%)
+Clearance for legs/feet (n ¼ 109)
+60.6
+39.4
+–
+Space available next to the transfer surface to position WMD (n ¼ 112)
+58.9
+38.4
+2.7
+Presence of grab bars (n ¼ 112)
+51.8
+41.1
+7.1
+Storage Space for WMD (n ¼ 112)
+51.8
+42.9
+5.3
+Transfer surfaces higher than WMD (n ¼ 112)
+38.4
+45.5
+16.1
+Surface Size (n ¼ 112)
+35.7
+61.6
+2.7
+Soft surfaces (n ¼ 111)
+33.3
+58.6
+8.1
+Presence of Transfer Aids (n ¼ 112)
+18.8
+50.9
+30.3
+
+Environmental facilitators and barriers survey
+A majority of subjects (2:50% of the sample) said that ample space next to the transfer surface, the presence of grab bars, clearance available for legs/feet and storage space for the WMD had an impact, either positive or negative, on their transfer ability and participation in the community (Table 2). Some subjects chose not to respond to certain questions. As such, the total number of responses is recorded next to the factor.
+Subjects who responded "Yes" to the physical factors having an impact on participation in Table 2 were asked to report if the feature helps them participate in their community or limits their participation in the community. Table 3 shows the percentage of subjects who were helped or limited by each transfer feature. The majority of subjects (2:50% of the sample) who were impacted by the features below found them to be helpful while transferring, with the exception of having a transfer surface higher than their WMD (90.5% limited).
+
+Community destination accessibility survey
+Table 4 shows the percentage of subjects who visit the selected sites mentioned in the survey and percentage of subjects who transfer or do not transfer at each site. Percent calculations include only individuals who report visiting the specified site. Of the subjects who visit the sites listed, the majority (>50%) of sub- jects were found to perform transfers at all locations except at
+religious facilities, fast food restaurants, and public parks.
+Table 5 shows the percentage of subjects reporting on how much the transfer accessibility at various sites influences their par- ticipation in the community. Subjects who reported that they did not go to a specific location, did not transfer at that location, or opted not to respond to a question were not included in the ana- lysis. Subjects could respond that the level of accessibility at each facility either helped them participate in the community, had no effect on their participation, or limited their participation at a spe- cific site.
+
+Transfer accessibility of seats
+Figure 1 shows the accessibility of toilets (n ¼ 91), medical and imaging tables (n ¼ 104), seats for transportation (n ¼ 99), and tables (n ¼ 87) in various public settings. Subjects who responded "not applicable" to the question were not included in the analysis. The figure reports the percentage of subjects who viewed the transfer surface in one of the three categories: very accessible, somewhat accessible, and not accessible.
+
+Exploratory analysis of subject factors and survey responses
+No statistically significant differences were found between men and women for any survey responses (p > .05). Younger individu- als were significantly more likely to be impacted by the amount
+Table 3. Percentages of subjects reporting how much the environmental factors affected transfers and participation in the community.
+
+Factor Helps (%) Limits (%)
+Presence of Transfer Aids (n ¼ 19) 94.7 5.3
+Presence of grab bars (n ¼ 57) 91.2 8.8
+Surface size (n ¼ 38) 84.2 15.8
+Storage space for WMD (n ¼ 57) 75.4 24.6
+Clearance for legs/feet (n ¼ 64) 75.0 25.0
+Space (n ¼ 66) 66.7 33.3
+Soft surfaces (n ¼ 36) 55.6 44.4
+Transferring higher than WMD (n ¼ 42) 9.5 90.5
+
+
+of clearance space for their legs and feet (p ¼ .037) and the avail- ability of storage space for their WMD (p ¼ .037) than older indi- viduals. Individuals with non-SCI disabilities were more likely to report that the presence of grab bars affected their participation in the community (p ¼ .02) and were more likely to report transfer accessibility at fast-food restaurants as having an effect on their participation than individuals with SCI (p ¼ .042). Individuals using power wheelchairs and scooters were more likely to report that the presence of grab bars affected their participation in the com- munity than manual wheelchair and MPA users (p ¼ .004). No other significant differences in survey responses were found between age, disability type, and wheeled mobility device type (p > .05).
+
+Discussion
+The purpose of this study was to identify transfer facilitators and barriers and their effects on participation in the community. According to the ICF framework, environmental factors directly influence participation in individuals with disabilities. By identify- ing areas in the community where the environment helps or hin- ders transfers, appropriate modification can be made to the built environment to enhance participation. The study surveyed a large, diverse subject pool of wheelchair users with a wide variety of experiences with transfers in the community. Many public loca- tions were examined, including medical facilities, restaurants, rec- reational facilities, work places and schools. Results from this study show where WMD users have difficulty transferring in their community. Additionally, the results helped to elucidate environ- mental features that act to facilitate or prevent successful trans- fers which can provide insight into how to improve transfer accessibility in the community. By knowing where WMD users have difficulty transferring and what environmental features help and hinder transfer completion, accessibility guidelines can be improved to make the community more accessible for wheel- chair users.
+
+Transfer features and participation
+Several environmental factors were found to facilitate independ- ent transfers. Grab bars were found to be advantageous to most WMD users particularly for individuals with disabilities other than
+BARRIERS AFFECTING WHEELCHAIR TRANSFERS 745
+
+Table 4. Percentage of subjects who do and do not transfer at various locations in the community.
+Site
+Visits Site (%)
+Transfers at Site (%)
+Does not transfer at Site (%)
+Non-fast food restaurant
+99.1
+54.6
+45.4
+Doctors or Dentist office
+98.2
+87.0
+13.0
+Medical or imaging table
+95.5
+91.4
+8.6
+Public parks
+91.8
+41.6
+58.4
+Hotels
+90.0
+94.9
+5.1
+Fast food restaurant
+87.3
+41.7
+58.3
+Aeroplane
+86.4
+83.2
+16.8
+Pool or hot tub
+86.4
+81.1
+18.9
+Movies
+85.5
+53.2
+46.8
+Dressing room
+80.9
+65.2
+34.8
+Sporting arenas
+76.4
+53.6
+46.4
+Hair salon
+75.5
+74.7
+25.3
+Recreation facility
+74.5
+68.3
+31.7
+Amusement park
+67.3
+71.6
+28.4
+Religious facilities
+67.3
+50.0
+50.0
+Boating area
+45.5
+96.0
+4.0
+Work
+40.9
+57.8
+42.2
+School
+31.8
+65.7
+34.3
+
+Table 5. Percentage of subjects reporting how transfer accessibility affects par- ticipation in the community (helps or limits).
+
+Site Helps (%) No effect (%) Limits (%)
+Pool or hot tub (n¼ 77) 39.0 15.6 45.4
+
+
+
+100
+80
+60
+40
+20
+ Toilet Accessibility
+
+ 
+
+
+Dressing room (n¼ 58) 27.6 22.4 50.0
+Hair salon (n¼ 62) 25.8 37.1 37.1
+Boating area (n¼ 48) 25.0 22.9 52.1
+Amusement park (n¼ 53) 22.6 28.3 49.1
+Sporting arenas (n¼ 45) 22.2 37.8 40.0
+SCI and for power wheelchair and scooter users. These individuals
+
+100
+80
+60
+40
+20
+0
+
+
+
+
+
+100
+80
+60
+40
+20
+
+
+Doctors o ces Den st O ces Hospitals PT/OT clinics MRI Rooms X-ray rooms
+Very Accessible Somewhat Accessible Not Accessible
+ Transportation Accessibility
+may find grab bars useful due to the types of transfers they per- form (e.g., stand and pivot). Grab bars are used less frequently by manual wheelchair users with SCI who use their arms only to
+0
+Own car/van Another
+persons car/van
+
+Taxis Airplanes Subway Paratransit Boats
+transfer (e.g., sit and pivot transfers) and who tend to place their hands on the transfer surface because the grab bars are not ideally positioned for these types of transfers [6,22]. Subjects also reported that having a large amount of space and clearance for legs and feet aided transfers. Having adequate leg and foot space had a larger effect on younger versus older individuals. While the reasons for this are unclear it may be that younger individuals are more active in the community and encounter more places where this may be an issue. Finally, providing WMD users with space to store their device, especially in public areas where an individual
+
+
+
+100
+80
+60
+40
+20
+0
+Very Accessible Somewhat Accessible Not Accessible
+
+ Table Accessibility
+
+
+School Work Doctors o ces Hospitals Restaurants Hotels
+Very Accessible Somewhat Accessible Not Accessible
+may lose sight of their wheelchair, may encourage more participa- tion in the community. Again, this finding was more relevant to younger WMD users than older users and may be associated with their higher activity levels and participation in places like public pools, amusement parks, boat docks, etc.
+The transferability of a large portion of the subjects was hin- dered by the height of the transfer surface being higher than their WMD. Non-level transfers, including transfers where the seat height is higher than the seat height of the WMD, have been shown to involve significantly higher joint forces and skill than level transfers [15]. A difference as small as 2.54–5.08 cm
+Figure 1. Percentage of subjects rating accessibility of toilet, imaging table, transportation, and table transfer surfaces in various community locations.
+
+
+(1–2 inches) can make a transfer extremely challenging or impos- sible for some individuals to perform [6,15]. In community set- tings, non-level transfers can occur in a variety of settings, including restaurants, religious facilities, public parks, seats on modes of transportation, and hotel beds [23]. Providing height- adjustable surfaces in certain sites, including medical facilities and hotels, may increase transfer attainability and community participation.
+746 A. M. KOONTZ ET AL.
+
+Transfer aids and certain wheelchair features can also be used to improve access to non-level transfer surfaces in the built envir- onment. A recent study demonstrated that adding grab bars and backrests to a non-level transfer surface can help individuals attain higher transfer heights than they would have without them while also improving certain aspects of transfer technique [23]. Modifying the community environment to include more grab bars and backrests on or around surfaces may, therefore, be additional ways to improve community transfer accessibility for wheelchair users. Wheelchairs with a seat elevation feature may also be help- ful in improving transfer accessibility in the community. Seat ele- vation devices are seat function components of a wheelchair that vertically raise and lower the seat while the user remains in a seated position [24]. Certain elevation systems can raise the seat height up 25.4–30.5 cm (10–12 inches) with user operated controls [25]. Power seat elevation devices have been shown to have a sig- nificant impact on the quality of life of WMD users in regard to transfers, as it enables for a level transfer, reducing effort and low- ering forces on the upper extremities [24,26]. A recent study documented that 67% of power wheelchair users with seat eleva- tors used seat elevators during transfers and could perform trans- fers up to 22.9 cm (9 inches) above level seat height [25]. Because height differentials up to 5.1 cm (2 inches) can prevent some from transferring, seat elevation may allow individuals to perform trans- fers that they otherwise could not [6]. Another benefit of using a wheelchair with seat elevation, is that it goes with the person wherever they go, offering a good option for making transfers level and easier in many different environments. A combination of environmental modifications, increased access to transfer aids, and seat elevation components in wheelchairs may allow for WMD users to perform transfers of differing heights in the com- munity safely and effectively.
+
+Medical facilities
+Findings for accessibility to transfer within medical facilities were similar with prior research reporting that accessibility limitations are common in medical facilities [4]. For example, a study investi- gating health care barriers for patients with spinal cord injury (SCI) found that exam rooms were often too small to transfer, lacked adjustable tables and proper transfer aids, and lacked physical supports needed to transfer themselves onto and off of medical equipment [4,7]. Additionally, 85.2% of individuals remained seated in their wheelchair during their examination [4]. In our study, while we did not ask about transfers for exams spe- cifically, 87.0% of our survey respondents said that they per- formed transfers at medical facilities. Of the participants who did transfer at medical facilities, 35.1% percent of participants reported participation limitations in doctors and dentists offices. Providing accessible transfer surfaces in these areas is especially critical, as inaccessible medical facilities and equipment lead to less thorough care. Previous research has shown that medical equipment barriers that prevent individuals from receiving health care negatively impact physical health and cause long term social, economic, and psychological consequences [4,27].
+Prior research has demonstrated that most accessibility barriers in medical facilities are found in examination rooms, including examination and imaging tables [4]. Tables at physical therapy clinics and occupational therapy clinics were given the best rat- ings by subjects. However, less than 50% of the subjects reported that the tables at doctors offices, dentists offices, MRI rooms, and X-ray rooms were very accessible. The research suggests that WMD users may be limited in receiving certain forms of
+healthcare technology due to transfer limitations, such as MRI and X-ray. Height adjustable examination tables, although not required for ADA compliance, are often necessary for WMD users to perform transfers to medical and imaging tables safely [28]. Lack of accessibility, including transfer accessibility, may explain why WMD users do not visit certain medical facilities. Additionally, lack of accessibility may in part explain why some individuals do not visit health care facilities in their community.
+
+Transportation and travel locations
+Transfers into cars have been reported by community-dwelling WMD users as being one of the most essential mobility tasks to daily living [29]. Independent drivers with SCI are almost twice more likely to be engaged in vocational work, have higher com- munity reintegration, and have higher health-related quality of life than non-drivers with SCI [30,31]. However, these transfers are often considered the most demanding transfers, as WMD users must support their body across a large gap and height differential between their WMD and car seat [32]. Vehicle type and height has been shown to affect a variety of factors when performing car transfers, including hand placement, body lift time, and how the wheelchair is loaded into the vehicle [33]. Therefore, ensuring that the environment is optimised for these transfers is essential for WMD users to maintain independence. The majority of partici- pants in this study rated their personal vehicle as very accessible, but gave lower ratings to other vehicles, including taxis. With the popularity surge of rideshare applications, it is important to pro- vide options for WMD users to safely and effectively transfer. Certain companies, such as Uber, provide wheelchair accessible vehicles for riders who use powered wheelchairs or scooters in select markets [34]. However, the presence of transfer aids in ride- share vehicles may help make them more accessible to WMD users who can independently transfer themselves into the seats. Higher profile vehicles, including vans, SUVs, and trucks, may require additional aids, as transferring to higher seats has been shown to increase the physical demands on the shoulder [16].
+Other modes of transportation, including aeroplanes, were cited as areas for improvement. Participants reported both aero- plane seats and toilets as not being accessible, where 23.2% of subjects reported not being able to transfer in aeroplanes and 56.3% considered toilets not accessible. Our survey results are consistent with prior research, which has cited environmental issues with both aeroplane seats and toilets. When transferring to an aeroplane seat, WMD users have reported difficulties with lack of education by aeroplane staff on how to assist during transfers, being unfamiliar with how to make such a difficult transfer, and citing the aeroplane armrest as an obstacle to transfer [35]. Additionally, many WMD users are completely unable to access toilets during the flight due to the narrow doorway to enter aero- plane lavatories. Possible environmental modifications that would make transfers possible for WMD users including a wider door- way, more space and the addition of grab bars or other transfer aids near the toilet [36].
+The results also suggested that hotels posed transfer accessibil- ity problems for WMD users. Although most hotel bathroom con- figurations fall within the ADAAG guidelines, WMD users often have difficulty transferring to hotel showers and toilets. The size of the shower, space for transfer near the toilet, and presence and location of transfer aids all effect a WMD user's ability to transfer safely in hotel bathrooms [36]. Beds in hotels also provide unique challenges for WMD users, as the beds are often low and have been previously reported as difficult to transfer into and out
+BARRIERS AFFECTING WHEELCHAIR TRANSFERS 747
+
+of [36]. Transfer limitations for aeroplanes and hotels may discour- age WMD users from travelling long distances.
+
+Transfers at other sites
+Participants reported feeling that their participation was limited in a variety of recreational facilities, including pools and hot tubs, dressing rooms, amusement parks, and boating areas. Many of these areas are specifically addressed in the ADA-ABA accessibility guidelines. For example, pool and amusement park accessibility were specifically considered in the latest revision of the ADA-ABA guidelines [3]. Even though a variety of areas are specifically addressed in accessibility guidelines, many wheelchair users still find these areas difficult to perform transfers. Recreational envi- ronments present unique situations for wheelchair users during transfers, as these environments often have challenging environ- mental set ups in terms of surface height, surface gaps, and 
+ instability. Prior research has suggested the use of intermediate devices, such as benches, for difficult transfers in recreational facilities [5]. Oftentimes recreational areas will have specific equip- ment on-site to aid with transfers, such as pools and amusement parks. However, non-compliant installation of equipment, errors in construction, and damaged or faulty surfaces have been cited as reasons why transfers are often difficult in these facilities [5]. Other than Disney, there are few amusement parks that have invested resources into making their rides and attractions fully accessible to wheelchair users who can independently transfer [37]. One approach that Disney and others have used is to adapt one of the ride cars to allow for ease of transfer [38]. Designing with transfer accessibility in mind fosters independence and allows for greater integration and participation of WMD users in the community.
+
+Limitations and future work
+Facilitators and barriers may differ depending on geography and climate. While the survey did capture responses for a large por- tion of participants who were located in Pennsylvania an esti- mated 55% of the total numbers of respondents were from other areas of the United States. Additionally, transfer accessibility may differ for those located in urban versus rural settings. There may be additional factors in the built environment that effect transfer accessibility that were not explored. Some examples include surfa- ces that are lower than the wheelchair seat height and lateral dis- tances away from surfaces (e.g., gaps). In addition to the built environment, other factors can influence the ability to transfer in the community [39]. Some of these factors include skill level, vari- ous personal factors (e.g., fear of falling, desire, time limitations), and transfer method (e.g., seated pivot transfer where the arms are mainly used to manoeuvre through the transfers versus stand and pivot which uses both legs and arms) [15]. The survey used in the study was not tested for reliability; however, the items and response structure closely resembled the original items on the model survey examining community accessibility for WMD users which was tested previously and deemed reliable [21].
+
+Conclusion
+Reducing the amount of non-level transfers, adding more grab bars to the environment, providing enough space, leg clearance, and seat area, and a mechanism to stow and retrieve WMDs easily where transfers are expected to occur in the community may enable greater participation. Areas to target initially include
+
+medical facilities, public transportation (e.g., taxis and aeroplanes), hotels, pools, and amusement parks. Improving accessibility for independent transfers to occur in the community may support greater participation, reduce fall risk and injuries, and lead to a better quality of life.
+
+Disclosure statement
+The authors have no conflicts of interest to report. The contents of this paper do not represent the views of the Department of Veterans Affairs or the United States Government.
+
+Funding
+Funding provided by the National Science Foundation, ASPIRE Grant #1262670 and the Department of Education (NIDRR), United States Access Board grant H133E070024, Project #84.133E, and the University of Pittsburgh Honours College Community Based Research Fellowship.
+
+
+ORCID
+Alicia M. Koontz http://orcid.org/0000-0002-2222-3673
+
+References
+Brault MW. Americans with Disabilities: 2010. United States Census Bureau. Report Number: P70–131; 2012.
+ World Health Organization. Towards a common language for functioning, disability, and health: ICF. 2002. [cited 2019 Dec 31]. Available from: http://www.who.int/classifications/ icf/icfbeginnersguide.pdf.
+ United States Access Board. ADA accessibility guidelines (ADAAG). 2002. [cited 2019 Dec 31]. Available from: http:// www.access-board.gov/guidelines-and-standards/buildings- and-sites/about-the-ada-standards/background/adaag.
+Stillman MD, Frost KL, Smalley C, et al. Health care utiliza- tion and barriers experienced by individuals with spinal cord injury. Arch Phys Med Rehabil. 2014;95(6):1114–1126.
+Crytzer TM, Cooper R, Jerome G, et al. Identifying research needs for wheelchair transfers in the build environment. Disabil Rehabil Assist Technol. 2017;12(2):121–127.
+Toro ML, Koontz AM, Cooper RA. The impact of transfer set up on the performance of independent wheelchair trans- fers. Hum Factors. 2013;55(3):567–580.
+Story MF, Schwier E, Kailes JI. Perspectives of patients with disabilities on the accessibility of medical equipment: examination tables, imaging equipment, medical chairs, and weight scales. Disabil Health J. 2009;2(4):169–179.
+Christopher & Dana Reeve Foundation. Traveling with your wheelchair. 2018. [cited 2019 Dec 31]. Available from: https://www.christopherreeve.org/living-with-paralysis/home- travel/traveling-with-your-wheelchair.
+Ummat S, Kirby RL. Nonfatal wheelchair-related accidents reported to the National Electronic Injury Surveilance System. Am J Phys Med Rehabil. 1994;73(3):163–167.
+Xiang H, Chany AM, Smith GA. Wheelchair related injuries treated in US emergency departments. Inj Prev. 2006;12(1): 8–11.
+Gaebler-Spira D, Thornton LS. Injury prevention for children with disabilities. Phys Med Rehabil Clin N Am. 2002;13(4): 891–906.
+748 A. M. KOONTZ ET AL.
+
+Rice LA, Smith I, Kelleher AR, et al. Impact of the clinical practice guideline for preservation of upper limb function on transfer skills of persons with acute spinal cord injury. Arch Phys Med Rehabil. 2013;94(7):1230–1246.
+Paralyzed Veterans of America Consortium for Spinal Cord Medicine. Preservation of upper limb function following spinal cord injury: a clinical practice guideline for health- care professionals. J Spinal Cord Med. 2005;28(5):434–470.
+Minkel JL, Hastings J, McClure L, et al. Teaching transfers- safe and effective transfer techniques for persons with spi- nal cord injury Proceedings of the 4th International Interdisciplinary Conference on Posture and Wheeled Mobility; 2010 June 7–9; Glasgow, Scotland; 2010.
+Gagnon D, Koontz A, Mulroy S, et al. Biomechanics of sit- ting pivot transfers among individuals with SCI: A review of the current knowledge. Topic SCI Rehabil. 2009;15:33–58.
+Gagnon D, Nadeau S, Noreau L, et al. Quantification of reaction forces during sitting pivot transfers performed by individuals with spinal cord injury. J Rehabil Med. 2008; 40(6):468–476.
+Dalyan M, Cardenas DD, Gerard B. Upper extremity pain after spinal cord injury. Spinal Cord. 1999;37(3):191–195.
+Meyers AR, Anderson JJ, Miller DR, et al. Barriers, facilita- tors, and access for wheelchair users: substantive and methodologic lessons from a pilot study of environmental effects. Soc Sci Med . 2002;55(8):1435–1446.
+Anaby D, Hand C, Bradley L, et al. The effect of the envir- onment on participation of children and youth with disabil- ities: a scoping review. Disabil Rehabil. 2013;35(19): 1589–1598.
+Koontz AM, Toro M, Kankipati P, Naber M, et al. An expert review of the scientific literature on independent wheel- chair transfers. Disabil Rehabil Assist Technol. 2012;7(1): 20–29.
+Gray DB, Hollingsworth HH, Stark S, et al. A subjective measure of environmental facilitators and barriers to par- ticipation for people with mobility limitations. Disabil Rehabil. 2008;30(6):434–457.
+Tsai CY, Boninger ML, Bass SR, et al. Upper-limb biomech- anical analysis of wheelchair transfer techniques in two toi- let configurations. Clin Biomech. 2018;55:79–85.
+Koontz AM, Bass S, Kulich H, et al. Effects of grab bar and backrests on independent wheelchair transfer performance and technique. Physiother Res Int. 2019;24(1):e1758.
+ Schiappa V, Piriano J, Bernhardt L, et al. RESNA Position on the Application of Seat-Elevation devices for power wheelchair users literature update (2019 DRAFT). 2019. [cited 2019 Dec 31]. Available from: https://www.resna.org/ knowledge-center/resna-position-application-seat-elevation- devices-power-wheelchair-users-literature
+Schiappa V, Schmeler M, Schein R, et al. 2017. Functional satisfaction with power wheelchair seat elevators. Presented at the International Seating Symposium, Nashville, TN, USA.
+Sonenblum SE, Maurer CL, Hanes CD, et al. Everyday use of power adjustable seat height (PASH) systems. Assist Technol. [cited 2019 Aug 22]; [9 p.]. DOI:10.1080/10400435.
+2019.1634659
+Kroll T, Jones GC, Kehn M, et al. Barriers and strategies affecting the utilization of primary preventive services for people with physical disabilities: a qualitative inquiry. Health Soc Care Community. 2006;14(4):284–293.
+Frost KL, Bertocci G, Stillman MD, et al. Accessibility of out- patient healthcare providers for wheelchair users: pilot study. J Rehabil Res Dev. 2015;52(6):653–662.
+Fliess-Douer O, van der Woude LHV, Vanlandewijick Y. The most essential wheeled mobility skills for daily life- an international survey among elite wheelchair atheleres with SCI. Proceedings of the 4th International State of the Art Congress Rehabilitation: Mobility, Exercise, & Sport; 2009 April 7–9; Amsterdam, The Netherlands.
+Haubert LL, Mulroy SJ, Hatchett PE, et al. Car transfer and wheelchair loading techniques in independent drivers with paraplegia. Front Bioeng Biotechnol. 2015;3:139.
+Norweg A, Jette AM, Houlihan B, et al. Patterns, predictors, and associated benefits of driving a modified vehicle after spinal cord injury: findings from the national spinal cord injury model systems. Arch Phys Med Rehabil. 2011;92(3): 477–483.
+Janssen TW, van Oers CA, Veeger HE, et al. Relationship between physical strain during standardized ADL tasks and physical capacity in men with spinal cord injuries. Paraplegia. 1996;32:844–859.
+Haubert LL, Mulroy SJ, Hatchett PE, et al. Care transfer and wheelchair loading techniques in independent drivers with paraplegia. Front Bioeng Biotechnol. 2015;3:139.
+Uber Technologies Inc. Wheelchair accessible vehicles. 2019. [cited 2019 Dec 31]. Available from: https://www. uber.com/us/en/ride/uberwav/.
+Poria Y, Reichel A, Brandt Y. The flight experiences of peo- ple with disabilities: an exploratory study. J Travel Res. 2010;49(2):216–228.
+Poria Y, Reichel A, Brandt Y. Dimensions of hotel experien- ces of people with disabilities: an exploratory study. Int J Contemp Hospitality Mngt. 2011;23(5):571–591.
+Rosenberg T. A place to play, on wheels or feet. The New York Times. 2017. [cited 2019 Dec 31]. Available from https:// www.nytimes.com/2017/12/05/opinion/morgans-wonderland- waterpark-kids-play.html.
+Stohl E. Disney universe: changing but still magical. New Mobility. 2015. [cited 2019 Dec 31]. Available from: http:// www.newmobility.com/2015/03/accessible-disney/.
+ Toro ML, Koontz AM, Kankipati P, et al. Independent wheelchair transfer: A systematic literature review. Paper presented at the Rehabilitaiton Engineering and Assistive Technology Society of America Conference; 2010. Las Vegas, NV.

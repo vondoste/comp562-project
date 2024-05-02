@@ -1,0 +1,6 @@
+Traveling to Unknown Buildings:
+Accessibility Features for Indoor Maps
+
+Angela Constantinescu1(B), Karin Mu¨ller1(B), Claudia Loitsch2 , Sebastian Zappe3 , and Rainer Stiefelhagen1
+1 Karlsruhe Insitute of Technology, Karlsruhe, Germany
+{angela.constantinescu,karin.e.mueller,rainer.stiefelhagen}@kit.edu
