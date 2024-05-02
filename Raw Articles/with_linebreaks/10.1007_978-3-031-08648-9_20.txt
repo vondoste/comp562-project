@@ -1,5 +1,0 @@
-Accessible Adaptable Indoor Routing for People with Disabilities
-
-Fabian Lu¨ ders, Julian Striegl(B) , Jan Schmalfuß-Schwarz, Claudia Loitsch, and Gerhard Weber
-Fakulta¨t Informatik, Technische Universita¨t Dresden, Dresden, Germany
-{julian.striegl,jan.schmalfuss-schwarz}@tu-dresden.de
